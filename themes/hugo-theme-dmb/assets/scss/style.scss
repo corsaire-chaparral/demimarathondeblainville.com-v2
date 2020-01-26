@@ -1,0 +1,31 @@
+/*!------------------------------------------------------------------
+[MAIN STYLESHEET]
+
+PROJECT:	Demi-Marathon de Blainville v2
+VERSION:	2.0.0
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[TABLE OF CONTENTS]
+-------------------------------------------------------------------*/
+
+// Normalize inlcuded in bootstrap
+//@import 'normalize';
+
+@import 'bootstrap/bootstrap';
+
+//@import 'variables';
+
+@import 'mixins';
+
+//@import 'typography';
+
+//@import 'buttons';
+
+@import 'common';
+
+@import 'navigation';
+
+@import 'slider';
+
+@import 'homepage';
