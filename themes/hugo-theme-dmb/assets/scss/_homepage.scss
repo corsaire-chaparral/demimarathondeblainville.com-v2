@@ -1,0 +1,27 @@
+.landing-section {
+  min-height: 100vh;
+  padding-top: 30vh;
+  background-color: $blue;
+  
+  color: $white;
+  
+  &__title {
+    font-size: 4rem;
+    
+    @include media-breakpoint-up(md) {
+      font-size: 7vw;
+    }
+  }
+  
+  &__cta-collection {
+//    flex-grow: 1;
+//    padding: 1.5rem;
+//    text-align: center;
+    
+    color: $body-color;
+    
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
