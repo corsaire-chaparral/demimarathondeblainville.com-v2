@@ -2,20 +2,22 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<section class="landing-section" data-background="{{ .Params.bg_image | absURL }}">
+<section class="landing-section d-flex flex-column justify-content-between " data-background="{{ .Params.bg_image | absURL }}">
   
   <div class="container">
     <h1 class="landing-section__title">
-      {{ $.Site.Title }}
+      {{ $.Site.Title }} —
+      <br>
+      13 septembre 2020
     </h1>
     
-    <p>2020/09/13</p>
+<!--    <p>2020/09/13</p>-->
   </div>
 
   {{- if $data.homepage.landingCTA -}}
   <nav class="landing-section__cta-collection d-flex d-row no-gutter">
     {{- range $data.homepage.landingCTA -}}
-    <a class="d-block flex-grow-1 p-3 text-center {{ .class }}" href="{{ .link }}">
+    <a class="d-block flex-grow-1 p-4 text-center {{ .class }}" href="{{ .link }}">
       {{- .title -}}
     </a>
     {{- end -}}
@@ -51,6 +53,30 @@
 {{ end }}
 {{ end }}
 <!-- /hero slider -->
+
+<section class="container-fluid no-gutter">
+  <div class="row">
+    <div class="col-6 p-5 bg-light">
+      <h2>Quelque chose</h2>
+      
+      <p>
+        Lorem ipsum dolor sit amet
+        Lorem ipsum dolor sit amet
+        Lorem ipsum dolor sit amet
+        Lorem ipsum dolor sit amet
+        Lorem ipsum dolor sit amet
+        Lorem ipsum dolor sit amet
+        Lorem ipsum dolor sit amet
+        Lorem ipsum dolor sit amet
+        Lorem ipsum dolor sit amet
+        Lorem ipsum dolor sit amet
+        Lorem ipsum dolor sit amet
+      </p>
+    </div>
+    <div class="col-6 p-5 bg-secondary">
+    </div>
+  </div>
+</section>
 
 <!-- banner-feature -->
 {{ if $data.homepage.banner_feature.enable }}
