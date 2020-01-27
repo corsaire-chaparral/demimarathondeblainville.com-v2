@@ -4,11 +4,14 @@
   // Preloader js    
   $(window).on('load', function () {
     $('.preloader').fadeOut(100);
+    handleHeader()
   });
 
   // Sticky Menu
-  $(window).scroll(function () {
-    if ($('header').offset().top > 10) {
+  $(window).scroll(handleHeader);
+  
+  function handleHeader() {
+    if ($('header').offset().top > 500) {
       $('.top-header').addClass('hide');
       $('.navigation').addClass('nav-bg');
       $('.top-hider').addClass('top-height');
@@ -17,7 +20,7 @@
       $('.navigation').removeClass('nav-bg');
       $('.top-hider').removeClass('top-height');
     }
-  });
+  }
 
   // Background-images
   $('[data-background]').each(function () {
