@@ -79,6 +79,7 @@ $colors: map-merge(
 
 $primary:       $gold;
 $secondary:     $orange;
+$tertiary:      $blue;
 $success:       $orange;
 $info:          $blue;
 $warning:       $yellow !default;
@@ -92,6 +93,7 @@ $theme-colors: map-merge(
   (
     "primary":    $primary,
     "secondary":  $secondary,
+    "tertiary":   $tertiary,
     "success":    $success,
     "info":       $info,
     "warning":    $warning,
@@ -145,7 +147,7 @@ $enable-deprecation-messages:                 true !default;
 // variables. Mostly focused on spacing.
 // You can add more entries to the $spacers map, should you need more variation.
 
-$spacer: 1rem !default;
+$spacer: 4vw;
 $spacers: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
 $spacers: map-merge(
@@ -154,7 +156,7 @@ $spacers: map-merge(
     1: ($spacer * .25),
     2: ($spacer * .5),
     3: $spacer,
-    4: ($spacer * 1.5),
+    4: ($spacer * 1.75),
     5: ($spacer * 3)
   ),
   $spacers
@@ -189,10 +191,10 @@ $body-color:                $black;
 
 $link-color:                              theme-color("secondary");
 $link-decoration:                         none !default;
-$link-hover-color:                        darken($link-color, 15%) !default;
-$link-hover-decoration:                   underline !default;
+$link-hover-color:                        $link-color;
+$link-hover-decoration:                   none;
 // Darken percentage for links with `.text-*` class (e.g. `.text-success`)
-$emphasized-link-hover-darken-percentage: 15% !default;
+$emphasized-link-hover-darken-percentage: 10%;
 
 // Paragraphs
 //
@@ -295,12 +297,13 @@ $font-family-base:            $font-family-sans-serif;
 
 $icon-font: 'themify';
 
-$secondary-font: 'futura-bold';
+$secondary-font: $font-family-monospace;
 // stylelint-enable value-keyword-case
 
 $font-size-base:              1.125rem; // Assumes the browser default, typically `16px`
 $font-size-lg:                $font-size-base * 1.25 !default;
 $font-size-sm:                $font-size-base * .875 !default;
+$font-size-xs:                $font-size-base * .6;
 
 $font-weight-lighter:         lighter !default;
 $font-weight-light:           300 !default;
@@ -737,7 +740,7 @@ $nav-divider-margin-y:              $spacer / 2 !default;
 $navbar-padding-y:                  $spacer / 2 !default;
 $navbar-padding-x:                  $spacer !default;
 
-$navbar-nav-link-padding-x:         .5rem !default;
+$navbar-nav-link-padding-x:         $spacer;
 
 $navbar-brand-font-size:            $font-size-lg !default;
 // Compute the navbar-brand padding-y so the navbar-brand will have the same height as navbar-text and nav-link
@@ -750,19 +753,19 @@ $navbar-toggler-padding-x:          .75rem !default;
 $navbar-toggler-font-size:          $font-size-lg !default;
 $navbar-toggler-border-radius:      $btn-border-radius !default;
 
-$navbar-dark-color:                 rgba($white, .5) !default;
-$navbar-dark-hover-color:           rgba($white, .75) !default;
-$navbar-dark-active-color:          $white !default;
+$navbar-dark-color:                 $white;
+$navbar-dark-hover-color:           $white;
+$navbar-dark-active-color:          $white;
 $navbar-dark-disabled-color:        rgba($white, .25) !default;
 $navbar-dark-toggler-icon-bg:       url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'><path stroke='#{$navbar-dark-color}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>") !default;
 $navbar-dark-toggler-border-color:  rgba($white, .1) !default;
 
-$navbar-light-color:                rgba($black, .5) !default;
+$navbar-light-color:                $body-color;
 $navbar-light-hover-color:          rgba($black, .7) !default;
 $navbar-light-active-color:         rgba($black, .9) !default;
 $navbar-light-disabled-color:       rgba($black, .3) !default;
-$navbar-light-toggler-icon-bg:      url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'><path stroke='#{$navbar-light-color}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>") !default;
-$navbar-light-toggler-border-color: rgba($black, .1) !default;
+$navbar-light-toggler-icon-bg:      url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'><path stroke='#{$navbar-light-color}' stroke-linecap='butt' stroke-miterlimit='10' stroke-width='1.25' d='M0 7h30M0 15h30M0 23h30'/></svg>") !default;
+$navbar-light-toggler-border-color: transparent;
 
 $navbar-light-brand-color:                $navbar-light-active-color !default;
 $navbar-light-brand-hover-color:          $navbar-light-active-color !default;

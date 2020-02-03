@@ -1,15 +1,20 @@
 .landing-section {
   min-height: 100vh;
-  padding-top: 30vh;
-  background-color: $dark;
+  padding-top: 8rem; // more than the top nav
   
-  color: $white;
+  background-color: theme-color('tertiary');
+  
+  // avoid dynamic vh on mobile, because browsers often have
+  // a dynamic top bar which resizes vh
+  @include media-breakpoint-up(md) {
+    padding-top: 26vh;
+  }
   
   &__title {
-    font-size: 4rem;
+    font-size: 3rem;
     
     @include media-breakpoint-up(md) {
-      font-size: 7vw;
+      font-size: 6vw;
     }
   }
   
@@ -18,10 +23,31 @@
 //    padding: 1.5rem;
 //    text-align: center;
     
-    color: $body-color;
+    font-size: $font-size-sm;
     
-    &:hover {
-      text-decoration: none;
+    @include media-breakpoint-up(md) {
+      
+      font-size: $font-size-base;
+    }
+    
+    a {
+      color: $white;
+      font-weight: lighter;
+
+      &:hover {
+        text-decoration: none;
+      }
     }
   }
+}
+
+.full-section {
+  min-height: 100vh;
+}
+
+.image-section {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
