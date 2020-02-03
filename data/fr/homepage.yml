@@ -1,3 +1,4 @@
+bg_image : "images/backgrounds/landing-bg.jpg"
 ################################# Slider #####################################
 slider:
   enable: false
@@ -18,10 +19,10 @@ slider:
 landingCTA:
   - title: "Horaire et courses"
     link: "#"
-    class: "bg-primary"
+    class: "bg-tertiary"
   - title: "Inscription"
     link: "#"
-    class: "bg-primary"
+    class: "bg-secondary"
   - title: 'Rester informé·e'
     link: "#"
     class: "bg-primary"

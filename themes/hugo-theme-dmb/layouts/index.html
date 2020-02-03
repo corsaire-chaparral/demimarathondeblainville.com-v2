@@ -2,28 +2,25 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<section class="landing-section d-flex flex-column justify-content-between " data-background="{{ .Params.bg_image | absURL }}">
+<section class="landing-section d-flex flex-column justify-content-between text-white" style="background-image: url('{{ $data.homepage.bg_image | absURL }}')" data-background="{{ .Params.bg_image | absURL }}">
   
   <div class="container">
     <h1 class="landing-section__title">
       {{ $.Site.Title }} —
-      <br>
       13 septembre 2020
     </h1>
-    
-<!--    <p>2020/09/13</p>-->
+
   </div>
 
   {{- if $data.homepage.landingCTA -}}
-  <nav class="landing-section__cta-collection d-flex d-row no-gutter">
+  <nav class="landing-section__cta-collection d-flex flex-column flex-md-row no-gutter">
     {{- range $data.homepage.landingCTA -}}
-    <a class="d-block flex-grow-1 p-4 text-center {{ .class }}" href="{{ .link }}">
+    <a class="d-block flex-grow-1 py-4 py-sm-3 py-md-3 py-lg-2 px-1 text-center {{ .class }}" href="{{ .link }}">
       {{- .title -}}
     </a>
     {{- end -}}
   </nav>
   {{- end -}}
-  
 </section>
 
 <!-- hero slider -->
@@ -54,26 +51,22 @@
 {{ end }}
 <!-- /hero slider -->
 
+<section class="full-section image-section" style="background-image: url({{ "/images/backgrounds/depart-dos.jpg" | relURL }})">
+  <div class="container-fluid">
+    <div class="row">
+    <div class="col-12 p-0">
+<!--      <img class="img-fluid" src="/images/backgrounds/page-title.jpg" />-->
+    </div>
+    </div>
+  </div>
+</section>
+
 <section class="container-fluid no-gutter">
   <div class="row">
-    <div class="col-6 p-5 bg-light">
-      <h2>Quelque chose</h2>
-      
-      <p>
-        Lorem ipsum dolor sit amet
-        Lorem ipsum dolor sit amet
-        Lorem ipsum dolor sit amet
-        Lorem ipsum dolor sit amet
-        Lorem ipsum dolor sit amet
-        Lorem ipsum dolor sit amet
-        Lorem ipsum dolor sit amet
-        Lorem ipsum dolor sit amet
-        Lorem ipsum dolor sit amet
-        Lorem ipsum dolor sit amet
-        Lorem ipsum dolor sit amet
-      </p>
+    <div class="col-md-6 p-3 bg-light">
+      {{ .Content }}
     </div>
-    <div class="col-6 p-5 bg-secondary">
+    <div class="col-md-6 p-5 bg-dark">
     </div>
   </div>
 </section>

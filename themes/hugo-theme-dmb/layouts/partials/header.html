@@ -5,14 +5,14 @@
   <div class="top-header py-2">
     <div class="container-fluid">
       <div class="row no-gutters align-items-center">
-        <div class="col-lg-4 text-center text-lg-left">
+        <div class="col-md-4 text-center text-md-left">
           <ul class="list-inline">
             {{ range .Site.Params.social }}
             <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
             {{ end }}
           </ul>
         </div>
-        <div class="col-lg-8 text-center text-lg-right">
+        <div class="col-md-8 text-center text-md-right">
           <ul class="list-inline">
             <li class="list-inline-item">
               <a class="text-color mr-3" href="tel:{{ .Site.Params.mobile }}"><strong>{{ i18n "call" | upper }} : </strong> {{ .Site.Params.mobile }}</a></li>
@@ -26,22 +26,19 @@
   {{- end -}}
   <!-- navbar -->
   <div class="navigation w-100 {{ if .Site.Params.top_header }} top-hider {{ end }}">
-    <nav class="navbar navbar-expand-lg navbar-light p-0 d-flex flex-row align-items-stretch align-items-lg-start">
-      <a class="navbar-brand flex-grow-1" href="{{ .Site.BaseURL | relLangURL }}"><img class="img-fluid"
+    <nav class="navbar navbar-dark navbar-expand-lg p-0 d-flex flex-row justify-content-lg-stretch align-items-lg-start">
+      <a class="navbar-brand col-9 col-md-4" href="{{ .Site.BaseURL | relLangURL }}"><img class="img-fluid"
           src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
-      <button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation"
+      <button class="navbar-toggler rounded-0 align-self-stretch bg-tertiary" type="button" data-toggle="collapse" data-target="#navigation"
         aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <ul class=" collapse navbar-collapse text-center main-navbar-links ml-auto navbar-nav ml-auto pr-lg-4 pl-lg-3 flex-grow-0" id="navigation">
-        <li class="nav-item">
-          <a class="nav-link" href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Home }}</a>
-        </li>
+      <ul class="col-lg-8 collapse navbar-collapse p-0 text-center main-navbar-links ml-auto navbar-nav ml-auto align-items-stretch justify-content-lg-end" id="navigation">
         {{- range .Site.Menus.main -}}
         {{- if .HasChildren -}}
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+        <li class="nav-item dropdown flex-grow-1">
+          <a class="nav-link dropdown-toggle" href="{{ .URL | relLangURL }}" role="button" data-toggle="dropdown" aria-haspopup="true"
             aria-expanded="false">
             {{ .Name }}
           </a>
@@ -52,11 +49,15 @@
           </div>
         </li>
         {{- else -}}
-        <li class="nav-item">
+        <li class="nav-item flex-grow-1">
           <a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
         </li>
         {{- end -}}
         {{- end -}}
+
+        <li class="nav-item nav-item-cta">
+          <a class="nav-link" href="{{ "/inscription" | relLangURL }}">Inscription</a>
+        </li>
       </ul>
 
       <!-- Language List -->

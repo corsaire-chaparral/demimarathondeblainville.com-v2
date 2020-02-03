@@ -19,6 +19,7 @@ disqusShortname: "educenter" # get your shortname form here : https://disqus.com
 disableLanguages: [en] # desable language from here
 
 params:
+  bg_image: /images/backgrounds/landing-bg.jpg
   ############################# Plugins ##############################
   plugins:
     # CSS Plugins
@@ -27,6 +28,7 @@ params:
     - link: "lib/animate/animate.css"
     - link: "lib/venobox/venobox.css"
     - link: "lib/themify-icons/themify-icons.css"
+    - link: "lib/aos/dist/aos.css"
 
     # JS Plugins
     js:
@@ -35,7 +37,8 @@ params:
     - link: "lib/slick/slick.min.js"
     - link: "lib/venobox/venobox.min.js"
     - link: "lib/filterizr/jquery.filterizr.min.js"
-    - link: "lib/google-map/gmap.js"
+    - link: "lib/scrolldir/dist/scrolldir.min.js"
+    - link: "lib/scrollama/dist/scrollama.min.js"
 
   #################### default parameters ################################
   logo: "images/logo.png"
@@ -45,9 +48,9 @@ params:
   # contact info
   address: "9567 Turner Trace Apt. BC C3G8A4"
   mobile: "+211234565523"
-  email: "info@educenter.com"
+  email: "info@demimarathondeblainville.com"
   # contact form action
-  contact_form_action: "#" # contact form works with https://formspree.io
+  contact_form_action: "" # contact form works with https://formspree.io
   # Google Analitycs
   google_analitycs_id: "" # your id
   # top header
@@ -55,7 +58,7 @@ params:
   
   preloader:
     enable: true
-    preloader: "images/preloader.gif" # use jpg, png, svg or gif format.
+    preloader: "images/icons8-running-96.png" # use jpg, png, svg or gif format.
 
 
   # Subscription
@@ -77,18 +80,18 @@ params:
   social:
   - title: "facebook"
     icon: "ti-facebook" # themify icon : https://themify.me/themify-icons
-    link: "#"
-  - title: "twitter"
-    icon: "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-    link: "#"
-  - title: "instagram"
-    icon: "ti-instagram" # themify icon : https://themify.me/themify-icons
-    link: "#"
-  - title: "github"
-    icon: "ti-github" # themify icon : https://themify.me/themify-icons
-    link: "#"
-  - title: "linkedin"
-    icon: "ti-linkedin" # themify icon : https://themify.me/themify-icons
+    link: "https://www.facebook.com/DemiMarathonDeBlainville/"
+#  - title: "twitter"
+#    icon: "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+#    link: "#"
+#  - title: "instagram"
+#    icon: "ti-instagram" # themify icon : https://themify.me/themify-icons
+#    link: "#"
+#  - title: "github"
+#    icon: "ti-github" # themify icon : https://themify.me/themify-icons
+#    link: "#"
+#  - title: "linkedin"
+#    icon: "ti-linkedin" # themify icon : https://themify.me/themify-icons
     link: "#"
 
 
@@ -96,47 +99,64 @@ params:
 menu:
   # main menu
   main:
-  - name: "About"
-    URL: "about"
-    weight: 1
-  - weight: 3
-    name: "Pages"
+
+  #Info
+  - name: "Info"
+    URL: "a-propos"
+    weight: 10
     hasChildren: true
-  - parent: "Pages"
-    name: "teacher"
-    URL: "teacher"
-  - parent: "Pages"
-    name: "notice"
-    URL: "notice"
-  - parent: "Pages"
-    name: "event"
-    URL: "event"
-  - parent: "Pages"
-    name: "scholarship"
-    URL: "scholarship"
-  - parent: "Pages"
-    name: "research"
-    URL: "research"
-  - name: "blog"
-    URL: "blog"
-    weight: 4
-  - name: "Contact"
+
+  - parent: "Info"
+    name: "Horaire"
+    URL: "horaire"
+  - parent: "Info"
+    name: "Bénévole"
+    URL: "benevole"
+  - parent: "Info"
+    name: "Partenaires"
+    URL: "partenaires"
+    
+  - parent: "Info"
+    name: "Nous joindre"
     URL: "contact"
+
+  # Parcours
+  - weight: 20
+    name: "Parcours"
+    hasChildren: true
+    URL: "/parcours/"
+  - parent: "Parcours"
+    name: "21 km"
+    URL: "/parcours/21-km/"
+    weight: 1
+  - parent: "Parcours"
+    name: "10 km"
+    URL: "/parcours/10-km/"
+    weight: 2
+  - parent: "Parcours"
+    name: "5 km"
+    URL: "/parcours/5-km/"
+    weight: 3
+  - parent: "Parcours"
+    name: "2 km"
+    URL: "/parcours/2-km/"
+    weight: 4
+  - parent: "Parcours"
+    name: "1 km"
+    URL: "/parcours/1-km/"
     weight: 5
+
+  - name: "Résultats"
+    URL: "/resultats/"
+    weight: 30
+
 
   # footer menu
   footer:
-  - name: "teacher"
-    URL: "teacher"
-  - name: "notice"
-    URL: "notice"
-  - name: "event"
-    URL: "event"
-  - name: "scholarship"
-    URL: "scholarship"
-  - name: "research"
-    URL: "research"
-
+  - name: "Info"
+    URL: "about"
+    weight: 10
+    hasChildren: true
 Languages:
   ################################### English language #####################################
   en:

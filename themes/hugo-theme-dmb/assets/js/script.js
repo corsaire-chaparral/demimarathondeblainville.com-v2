@@ -15,19 +15,21 @@
       $('.top-header').addClass('hide');
       $('.navigation').addClass('nav-bg');
       $('.top-hider').addClass('top-height');
+      $(document.documentElement).addClass('scrolled')
     } else {
       $('.top-header').removeClass('hide');
       $('.navigation').removeClass('nav-bg');
       $('.top-hider').removeClass('top-height');
+      $(document.documentElement).removeClass('scrolled')
     }
   }
 
   // Background-images
-  $('[data-background]').each(function () {
-    $(this).css({
-      'background-image': 'url(' + $(this).data('background') + ')'
-    });
-  });
+//  $('[data-background]').each(function () {
+//    $(this).css({
+//      'background-image': 'url(' + $(this).data('background') + ')'
+//    });
+//  });
 
   //Hero Slider
   $('.hero-slider').slick({
@@ -103,5 +105,10 @@
     });
   });
 
+
+  // scrolldir
+  $(document).ready(function () {
+    scrollDir();
+  });
 
 })(jQuery);

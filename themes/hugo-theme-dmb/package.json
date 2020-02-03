@@ -1,0 +1,19 @@
+{
+  "name": "hugo-theme-dmb",
+  "version": "1.0.0",
+  "description": "Build your website with educenter hugo theme by following this easy steps (No Coding Required)",
+  "main": "index.js",
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "aos": "^2.3.4",
+    "ityped": "^1.0.3",
+    "scrollama": "^2.1.4",
+    "scrolldir": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -55,12 +55,28 @@
   background: theme-color("secondary") !important;
 }
 
+.bg-tertiary {
+  background: theme-color("tertiary") !important;
+}
+
 .bg-gray {
   background: theme-color("light") !important;
 }
 
 .text-primary {
-  color:theme-color("primary") !important;
+  color: theme-color("primary") !important;
+}
+
+.text-secondary {
+  color:theme-color("secondary") !important;
+}
+
+.text-tertiary {
+  color:theme-color("tertiary") !important;
+}
+
+.text-white {
+  color: $white !important;
 }
 
 .text-color {
