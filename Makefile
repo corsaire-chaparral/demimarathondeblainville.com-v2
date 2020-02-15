@@ -16,4 +16,4 @@ build-staging:
 	hugo --config=config.yml --minify
 
 all:
-	make build && ./deploy-production
+	make build && ./deploy.sh

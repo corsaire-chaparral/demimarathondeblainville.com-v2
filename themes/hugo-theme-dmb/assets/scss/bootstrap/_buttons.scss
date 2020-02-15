@@ -62,6 +62,11 @@ fieldset:disabled a.btn {
   .btn-#{$color} {
     @include button-variant($value, $value);
   }
+  .btn-hover-#{$color} {
+    &:hover {
+      @include button-variant($value, $value);
+    }
+  }
 }
 
 @each $color, $value in $theme-colors {

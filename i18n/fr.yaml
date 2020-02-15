@@ -108,3 +108,9 @@
 
 - id: download
   translation: Télécharger
+
+- id: register
+  translation: S’enregistrer
+  
+- id: add
+  translation: Ajouter

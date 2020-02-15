@@ -29,7 +29,7 @@
     <nav class="navbar navbar-dark navbar-expand-lg p-0 d-flex flex-row justify-content-lg-stretch align-items-lg-start">
       <a class="navbar-brand col-9 col-md-4" href="{{ .Site.BaseURL | relLangURL }}"><img class="img-fluid"
           src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
-      <button class="navbar-toggler rounded-0 align-self-stretch bg-tertiary" type="button" data-toggle="collapse" data-target="#navigation"
+      <button class="navbar-toggler rounded-0 border-0 align-self-stretch bg-tertiary col-3 col-sm-2" type="button" data-toggle="collapse" data-target="#navigation"
         aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -56,7 +56,10 @@
         {{- end -}}
 
         <li class="nav-item nav-item-cta">
-          <a class="nav-link" href="{{ "/inscription" | relLangURL }}">Inscription</a>
+          <a class="nav-link" href="{{ "/inscription" | relLangURL }}">
+            Inscription
+            <sup><span class="snipcart-items-count"></span></sup>
+          </a>
         </li>
       </ul>
 

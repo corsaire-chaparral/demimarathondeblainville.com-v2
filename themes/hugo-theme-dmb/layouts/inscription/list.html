@@ -1,0 +1,68 @@
+{{ define "main" }}
+
+<div class="container pt-4 pb-3">
+  <div class="row">
+    <div class="col-12">
+  
+      <a href="#" class="h1 btn btn-link border-bottom border-secondary btn-lg px-0 mx-0 snipcart-checkout">
+        Voir le panier <span class="badge badge-dark round ml-1 snipcart-items-count"></span>
+      </a>
+
+      {{- .Content -}}
+    </div>
+  </div>
+</div>
+
+<div class="container border-top border-dark events-list-container mb-5">
+  {{ $paginator := .Paginate .Pages }}
+  {{ range $paginator.Pages }}
+  <div class="row border-dark border-bottom mb-5 mb-lg-0 text-center text-lg-left align-items-center">
+    <div class="col-sm-12 col-lg-3">
+      <h3 class="m-0 py-2 h2"><a href="{{ .Permalink }}" class="text-secondary">{{ .Title }}</a></h3>
+    </div>
+    <div class="col-sm-12 col-lg-6">
+      <p class="text-body m-0 text-lg-left align-self-baseline">{{ .Param "fee" | lang.NumFmt 2 }}$</p>
+    </div>
+    <div class="col-sm-12 col-lg-3 text-right p-0 mt-2 mt-lg-0">
+      <button href="{{ .Permalink }}"
+              class="snipcart-add-item btn btn-dark btn-hover-secondary btn-lg py-3 btn-block"
+              data-item-id="{{ .Name }}"
+              data-item-price="{{ .Param "fee" | lang.NumFmt 2 }}"
+              data-item-url="{{ .Permalink }}"
+              data-item-description="{{ .Description }}"
+              {{ if .Param "thumbnail" -}}
+              data-item-image="{{ .Param "thumbnail" }}"
+              {{- end }}
+              data-item-categories="inscription|2020"
+              data-item-name="{{ .Title }}"
+              
+              {{/* stackable option to avoid merging 2 people */}}
+              data-item-stackable="never"
+              data-item-max-quantity="1"
+              
+              {{/* BEGIN Custom Fields */}}
+              data-item-custom1-name="Prénom"
+              data-item-custom1-required="true"
+              data-item-custom2-name="Nom de famille"
+              data-item-custom3-name="Sexe"
+              data-item-custom3-options="M|F"
+              data-item-custom4-name="Date de naissance"
+              data-item-custom5-name="Adresse (participant)"
+              data-item-custom6-name="Ville"
+              data-item-custom7-name="Province"
+              data-item-custom8-name="Code postal"
+              data-item-custom9-name="Courriel"
+              data-item-custom10-name="Téléphone"
+              data-item-custom11-name="Condition médicale"
+              data-item-custom12-name="Téléphone en cas d’urgence"
+              {{/* END Custom Fields */}}
+              
+              >
+        {{ i18n "add" }} &rarr;
+      </button>
+    </div>
+  </div>
+  {{ end }}
+</div>
+
+{{ end }}

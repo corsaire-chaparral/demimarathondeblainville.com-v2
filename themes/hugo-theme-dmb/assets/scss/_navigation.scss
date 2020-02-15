@@ -47,7 +47,7 @@ $link-cta-spacing: 24px;
 //  padding: .5rem;
   flex-basis: auto; // take up the space
   margin: 0;
-  padding: 1rem;
+  padding: $navbar-brand-padding-y 0;
   @include media-breakpoint-up(sm) {
     padding-left: 3rem; // extra padding on the left
   }
@@ -55,7 +55,7 @@ $link-cta-spacing: 24px;
   position: relative;
 
   img {
-    max-height: 3.5rem; // YMMV
+    max-height: $navbar-brand-image-height; // YMMV
     @include media-breakpoint-down(sm) {
       max-height: 3.5rem;
     }

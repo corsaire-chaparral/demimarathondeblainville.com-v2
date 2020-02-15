@@ -3,12 +3,21 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8">
-        <ul class="list-inline custom-breadcrumb">
-          <li class="list-inline-item h2"><a class="text-primary" href="{{ .Site.BaseURL | absLangURL }}">{{ .Site.Params.home }}</a></li>
-          <li class="list-inline-item h5"><i class="ti-angle-right text-white"></i></li>
-          <li class="list-inline-item text-white h3">{{ .Title }}</li>
-        </ul>
-        <p class="text-lighten">{{ .Params.Description | markdownify }}</p>
+        <nav class="custom-breadcrumb">
+          {{ if .Page.Parent }}
+          <a class="text-primary" href="{{ .Page.Parent.Permalink | absLangURL }}">
+            {{ .Page.Parent.Title | title }}
+          </a>
+          <i class="ti-angle-right text-white"></i>
+          {{- end -}}
+
+          <div class="text-white h1 mb-0">
+            {{ .Title }}
+          </div>
+        </nav>
+        {{- with .Params.Description -}}
+        <p class="text-lighten">{{ . | markdownify }}</p>
+        {{- end -}}
       </div>
     </div>
   </div>
