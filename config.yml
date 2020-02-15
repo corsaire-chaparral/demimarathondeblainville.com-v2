@@ -1,10 +1,15 @@
-baseURL: https://demimarathondeblainville.com
+baseURL: http://nouveau.demimarathondeblainville.com
 languageCode: fr-CA
 DefaultContentLanguage: fr
 title: Le Demi-Marathon de Blainville
 
 theme: hugo-theme-dmb
 
+# Markup
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 # Theme-related config
 
@@ -29,6 +34,8 @@ params:
     - link: "lib/venobox/venobox.css"
     - link: "lib/themify-icons/themify-icons.css"
     - link: "lib/aos/dist/aos.css"
+    - link: "fonts/kelson/stylesheet.css"
+    - link: "fonts/harris/stylesheet.css"
 
     # JS Plugins
     js:
@@ -152,17 +159,31 @@ menu:
 
 
   # footer menu
-  footer:
-  - name: "Info"
+  footer1:
+  - name: "Horaire"
+    URL: "horaire"
+    weight: 10
+  - name: "Parcours"
+    URL: "parcours"
+    weight: 10
+  - name: "Bénévoles"
+    URL: "benevole"
+    weight: 10
+  - name: "Partenaires"
+    URL: "partenaires"
+    weight: 10
+  footer2:
+  - name: "À propos"
     URL: "about"
     weight: 10
-    hasChildren: true
+  - name: "Politique de confidentialité"
+    URL: "vie-privee"
+    weight: 11
 Languages:
   ################################### English language #####################################
   en:
     languageName: "En"
     languageCode: "en-CA"
-    contentDir: "content/english"
     weight: 1
     home: "Home"
     # copyright
@@ -171,7 +192,6 @@ Languages:
   fr:
     languageName: "Fr"
     languageCode: "fr-CA"
-    contentDir: "content/french"
     weight: 2
     home: "Accueil"
     # copyright
