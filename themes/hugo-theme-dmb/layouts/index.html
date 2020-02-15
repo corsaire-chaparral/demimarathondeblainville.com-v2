@@ -5,11 +5,12 @@
 <section class="landing-section d-flex flex-column justify-content-between text-white" style="background-image: url('{{ $data.homepage.bg_image | absURL }}')" data-background="{{ .Params.bg_image | absURL }}">
   
   <div class="container">
-    <h1 class="landing-section__title">
-      {{ $.Site.Title }} —
+    <span class="landing-section__subtitle d-block text-uppercase">
       13 septembre 2020
+    </span>
+    <h1 class="landing-section__title">
+      {{ $.Site.Title }}
     </h1>
-
   </div>
 
   {{- if $data.homepage.landingCTA -}}
@@ -23,35 +24,8 @@
   {{- end -}}
 </section>
 
-<!-- hero slider -->
-{{ if $data.homepage.slider.enable }}
-{{ with $data.homepage.slider }}
-<section class="hero-section overlay bg-cover" data-background="{{ .bg_image | absURL }}">
-  <div class="container">
-    <div class="hero-slider">
-      <!-- slider item -->
-      {{ range .slider_item }}
-      <div class="hero-slider-item">
-        <div class="row">
-          <div class="col-md-8">
-            <h1 class="text-white" data-animation-out="fadeOut{{.animation_out | title }}" data-delay-out="5" data-duration-in=".3"
-              data-animation-in="fadeIn{{.animation_in | title }}" data-delay-in=".1">{{ .title | markdownify }}</h1>
-            <p class="text-muted mb-4" data-animation-out="fadeOut{{.animation_out | title }}" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeIn{{.animation_in | title }}" data-delay-in=".4">{{ .content | markdownify }}</p>
-            {{ if .button.enable }}
-            <a href="{{ .button.link | absLangURL }}" class="btn btn-primary" data-animation-out="fadeOut{{.animation_out | title }}" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeIn{{.animation_in | title }}" data-delay-in=".7">{{ .button.label }}</a>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- /hero slider -->
 
-<section class="full-section image-section" style="background-image: url({{ "/images/backgrounds/depart-dos.jpg" | relURL }})">
+<section class="full-section image-section" style="background-image: url({{ "/images/backgrounds/landing-bg-3.jpg" | relURL }})">
   <div class="container-fluid">
     <div class="row">
     <div class="col-12 p-0">
@@ -61,16 +35,64 @@
   </div>
 </section>
 
-<section class="container-fluid no-gutter">
-  <div class="row">
-    <div class="col-md-6 p-3 bg-light">
-      {{ .Content }}
-    </div>
-    <div class="col-md-6 p-5 bg-dark">
+<section class="bg-light text-tertiary">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6 p-0 position-relative">
+        <figure class="sticky-top mb-0 w-100 vh-100" style="background-image: url({{ "/images/backgrounds/landing-bg.jpg" | relURL }})">
+        </figure>
+      </div>
+      <div class="col-md-6 px-3 py-4">
+        {{ .Content }}
+      </div>
     </div>
   </div>
 </section>
 
+<section class="full-section image-section" style="background-image: url({{ "/images/backgrounds/landing-bg-2.jpg" | relURL }})">
+  <div class="container-fluid">
+    <div class="row">
+    <div class="col-12 p-0">
+<!--      <img class="img-fluid" src="/images/backgrounds/page-title.jpg" />-->
+    </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="container-fluid no-gutter">
+  <div class="row">
+    <div class="col-md-6 px-0 mb-0 bg-light text-secondary">
+      <a href="{{ "/inscription/" | relLangURL }}" class="bg-secondary text-white d-block w-100 h-100 px-3 py-4 h1 text-center">
+        Inscription
+      </a>
+    </div>
+
+    <div class="col-md-6 p-0 bg-dark position-relative">
+      <a href="{{ "/benevole/" | relLangURL }}" class="bg-primary text-white d-block w-100 h-100 px-3 py-4 h1 text-center">
+        Bénévolat
+      </a>
+    </div>
+  </div>
+</section>
+<section class="container-fluid no-gutter">
+  <div class="row">
+    <div class="col-12 px-0">
+      <a href="{{ "/" | relLangURL }}" class="text-gray bg-light d-block w-100 h-100 py-4 h1 text-center">
+        Résultats antérieurs &rarr;
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<section class="bg-light text-tertiary">
+  <div class="container py-3">
+    
+  </div>
+</section>
+
+  
 <!-- banner-feature -->
 {{ if $data.homepage.banner_feature.enable }}
 {{ with $data.homepage.banner_feature }}
@@ -124,42 +146,6 @@
 {{ end }}
 {{ end }}
 <!-- /about us -->
-
-<!-- courses -->
-{{ if $data.homepage.course.enable }}
-<section class="section-sm">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="d-flex align-items-center section-title justify-content-between">
-          <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.course.title }}</h2>
-          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
-          <div>
-            <a href="{{ `course` | relLangURL }}" class="btn btn-sm btn-primary-outline ml-sm-3 d-none d-sm-block">{{ i18n "see_all" }}</a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- course list -->
-    <div class="row justify-content-center">
-      <!-- course item -->
-      {{ range first 6 (where .Site.RegularPages "Type" "course")}}
-      <div class="col-lg-4 col-sm-6 mb-5">
-        {{ .Render "course" }}
-      </div>
-      {{ end }}
-    </div>
-    <!-- /course list -->
-    <!-- mobile see all button -->
-    <div class="row">
-      <div class="col-12 text-center">
-        <a href="{{ `course` | relLangURL }}" class="btn btn-sm btn-primary-outline d-sm-none d-inline-block">{{ i18n "see_all" }}</a>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-<!-- /courses -->
 
 <!-- cta -->
 {{ if $data.homepage.cta.enable }}
@@ -222,27 +208,5 @@
 </section>
 {{ end }}
 <!-- /events -->
-
-<!-- blog -->
-{{ if $data.homepage.blog.enable }}
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <h2 class="section-title">{{ $data.homepage.blog.title }}</h2>
-      </div>
-    </div>
-    <div class="row justify-content-center">
-      <!-- blog post -->
-      {{ range first 3 (where .Site.RegularPages "Type" "post")}}
-      <article class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
-        {{ .Render "post" }}
-      </article>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-<!-- /blog -->
 
 {{ end }}

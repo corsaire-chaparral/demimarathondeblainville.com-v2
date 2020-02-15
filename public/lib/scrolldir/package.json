@@ -1,0 +1,77 @@
+{
+  "_from": "scrolldir",
+  "_id": "scrolldir@1.5.0",
+  "_inBundle": false,
+  "_integrity": "sha512-beoku9Rj3sLZkS48delCZGh2aRX9s3W5Oa3jGSJIS3yOjqyEwDp2MVRRfYNZoE5pI/pih7k+8G+fmM211Q28Zw==",
+  "_location": "/scrolldir",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "scrolldir",
+    "name": "scrolldir",
+    "escapedName": "scrolldir",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/scrolldir/-/scrolldir-1.5.0.tgz",
+  "_shasum": "53f4ddad2aa25df57797db09fd0a2f299b42a3e6",
+  "_spec": "scrolldir",
+  "_where": "/Users/louis/dev/projets/demimarathondeblainville.com-v2/themes/hugo-theme-dmb",
+  "author": {
+    "name": "Patrick Fisher",
+    "email": "patrick@pwfisher.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dollarshaveclub/scrolldir.git/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Vertical scroll direction in CSS",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.46",
+    "@babel/preset-env": "^7.0.0-beta.46",
+    "bower": "^1.7.9",
+    "es-check": "^5.0.0",
+    "eslint": "^5.0.1",
+    "node-qunit-phantomjs": "^2.0.0",
+    "qunit": "^2.6.2",
+    "rollup": "^0.68.0",
+    "rollup-plugin-babel": "^4.0.0-beta.0",
+    "rollup-plugin-replace": "^2.0.0",
+    "rollup-plugin-uglify": "^6.0.0"
+  },
+  "homepage": "https://github.com/dollarshaveclub/scrolldir.git",
+  "keywords": [
+    "jquery",
+    "scroll",
+    "intent",
+    "scrollTop",
+    "position",
+    "javascript",
+    "window"
+  ],
+  "license": "MIT",
+  "main": "dist/scrolldir.js",
+  "module": "dist/scrolldir.es.js",
+  "name": "scrolldir",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dollarshaveclub/scrolldir.git"
+  },
+  "scripts": {
+    "build": "rollup --config rollup.config.js",
+    "lint": "eslint src/*.js --fix",
+    "postpublish": "git tag $npm_package_version && git push origin --tags",
+    "test": "npm run test:acceptance && npm run test:es-check",
+    "test:acceptance": "node ./scripts/run-tests.js",
+    "test:es-check": "es-check es5 dist/scrolldir.auto.js dist/scrolldir.js dist/scrolldir.min.js dist/scrolldir.auto.min.js"
+  },
+  "unpkg": "dist/scrolldir.min.js",
+  "version": "1.5.0"
+}

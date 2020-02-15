@@ -24,7 +24,7 @@ landingCTA:
     link: "#"
     class: "bg-secondary"
   - title: 'Rester informé·e'
-    link: "#"
+    link: "#infolettre"
     class: "bg-primary"
 
 ############################### Banner feature ###############################

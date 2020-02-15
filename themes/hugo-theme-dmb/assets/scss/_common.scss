@@ -1,6 +1,6 @@
-//body {
-//  overflow-x: hidden;
-//}
+body {
+  padding-top: $navbar-brand-height; // navbar brand height
+}
 
 ::selection {
   background: lighten($color: $primary, $amount: 10);
@@ -15,7 +15,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #FFDC11;
+  background-color: theme-color('tertiary');
   z-index: 999999;
   display: flex;
   align-items: center;
@@ -85,6 +85,10 @@
 
 .text-light {
   color: $gray-600 !important;
+}
+
+.text-gray {
+  color: $gray-800 !important;
 }
 
 .text-lighten{
@@ -165,7 +169,10 @@
 
 /* page title */
 .page-title-section {
-  padding: 200px 0 80px;
+  padding: 6vw 0;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 .custom-breadcrumb {

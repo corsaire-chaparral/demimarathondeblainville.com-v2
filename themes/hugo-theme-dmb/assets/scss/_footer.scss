@@ -6,4 +6,5 @@
 
 .footer-box {
   margin-top: -3 * $spacer;
+  z-index: $zindex-sticky + 1; // avoid conflicts with fixed top elements
 }

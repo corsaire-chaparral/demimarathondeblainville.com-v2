@@ -1,0 +1,15 @@
+// Snipcart additional styles
+
+.snipcart {
+  
+  // nest to override
+  .snipcart-layout {
+    // fallback when no `calc` support
+    padding-top: 128px;
+    padding-top: calc(2 * #{$spacer} + 1rem); // compensate for fixed navbar
+    
+//    @include media-breakpoint-up(lg) {
+//      padding-top: 20vh; // compensate for fixed navbar
+//    }
+  }
+}

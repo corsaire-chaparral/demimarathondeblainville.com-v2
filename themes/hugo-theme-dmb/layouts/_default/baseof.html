@@ -3,13 +3,18 @@
 {{- partial "head.html" . -}}
 
 <body>
-	{{- partial "preloader.html" . -}}
-	{{- partial "header.html" . -}}
-	{{ if not .IsHome }}
-	{{ partial "page-header.html" . }}
-	{{ end }}
-	{{- block "main" . }}{{- end }}
-	{{- partial "footer.html" . -}}
+  {{- partial "preloader.html" . -}}
+  {{- partial "header.html" . -}}
+  {{ if not .IsHome }}
+  {{ partial "page-header.html" . }}
+  {{ end }}
+  {{- block "main" . }}
+  <div class="my-5">
+    {{- .Content -}}
+  </div>
+  {{- end }}
+  {{- partial "footer.html" . -}}
+  {{- partial "snipcart.html" . -}}
 </body>
 
 </html>
