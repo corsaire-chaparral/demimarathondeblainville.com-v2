@@ -9,9 +9,9 @@
   {{ partial "page-header.html" . }}
   {{ end }}
   {{- block "main" . }}
-  <div class="my-5">
+  <main class="pb-5 pt-3">
     {{- .Content -}}
-  </div>
+  </main>
   {{- end }}
   {{- partial "footer.html" . -}}
   {{- partial "snipcart.html" . -}}

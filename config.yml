@@ -116,16 +116,20 @@ menu:
   - parent: "Info"
     name: "Horaire"
     URL: "horaire"
+    weight: 11
   - parent: "Info"
     name: "Bénévole"
     URL: "benevole"
+    weight: 12
   - parent: "Info"
     name: "Partenaires"
     URL: "partenaires"
+    weight: 13
     
   - parent: "Info"
     name: "Nous joindre"
     URL: "contact"
+    weight: 14
 
   # Parcours
   - weight: 20
@@ -133,7 +137,7 @@ menu:
     hasChildren: true
     URL: "/parcours/"
   - parent: "Parcours"
-    name: "21 km"
+    name: "21,1 km"
     URL: "/parcours/21-km/"
     weight: 1
   - parent: "Parcours"

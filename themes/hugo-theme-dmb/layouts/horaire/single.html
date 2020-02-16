@@ -1,8 +1,6 @@
 {{ define "main" }}
 {{ $data := index .Site.Data .Site.Language.Lang }}
-
-<!-- blog details -->
-<section class="section-sm py-5">
+<main class="pb-5 pt-3">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 order-2 order-lg-1">
@@ -29,10 +27,10 @@
                 </tr>
               </thead>
               <tbody>
-                {{- range $data.horaire -}}
+                {{- range sort $data.courses "heure" "asc" -}}
                 <tr>
-                  <td>{{ .heure }}</td>
-                  <td>{{ .evenement }}</td>
+                  <td>{{ .heure | dateFormat "15:04" }}</td>
+                  <td>{{ .title }}</td>
                 </tr>
                 {{- end -}}
               </tbody>
@@ -45,7 +43,6 @@
       {{/* partial "blog-sidebar.html" . */}}
     </div>
   </div>
-</section>
-<!-- /blog details -->
+</main>
 
 {{ end }}

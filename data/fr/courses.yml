@@ -1,0 +1,34 @@
+- 
+  id: 21km-2020
+  title: "21,1 km"
+  description: "Le Demi-Marathon complet."
+  fee: 70.00
+  heure: "2020-09-13 08:10:00 -0600"
+
+- 
+  id: 10km-2020
+  title: "10 km"
+  description: ""
+  fee: 50.00
+  heure: "2020-09-13 07:45:00 -0600"
+
+- 
+  id: 5km-2020
+  title: "5 km"
+  description: ""
+  fee: 45.00
+  heure: "2020-09-13 11:00:00 -0600"
+
+- 
+  id: 2km-2020
+  title: "2 km"
+  description: ""
+  fee: 25.00
+  heure: "2020-09-13 11:45:00 -0600"
+
+- 
+  id: 1km-2020
+  title: "1 km"
+  description: ""
+  fee: 20.00
+  heure: "2020-09-13 12:15:00 -0600"
