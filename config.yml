@@ -53,8 +53,12 @@ params:
   description: "This is meta description"
   author: "Themefisher"
   # contact info
-  address: "9567 Turner Trace Apt. BC C3G8A4"
-  mobile: "+211234565523"
+  address: >
+    **Parc Équestre**<br>
+    Chemin du Plan-Bouchard<br>  
+    Blainville (Qc) J7C 3B9
+
+  mobile: ""
   email: "info@demimarathondeblainville.com"
   # contact form action
   contact_form_action: "" # contact form works with https://formspree.io
@@ -118,8 +122,8 @@ menu:
     URL: "horaire"
     weight: 11
   - parent: "Info"
-    name: "Bénévole"
-    URL: "benevole"
+    name: "Bénévoles"
+    URL: "benevoles"
     weight: 12
   - parent: "Info"
     name: "Partenaires"
@@ -166,23 +170,23 @@ menu:
   footer1:
   - name: "Horaire"
     URL: "horaire"
-    weight: 10
+    weight: 11
   - name: "Parcours"
     URL: "parcours"
-    weight: 10
+    weight: 12
   - name: "Bénévoles"
-    URL: "benevole"
-    weight: 10
+    URL: "benevoles"
+    weight: 13
   - name: "Partenaires"
     URL: "partenaires"
-    weight: 10
+    weight: 14
   footer2:
-  - name: "À propos"
-    URL: "about"
-    weight: 10
+  - name: "Nous joindre"
+    URL: "contact"
+    weight: 21
   - name: "Politique de confidentialité"
-    URL: "vie-privee"
-    weight: 11
+    URL: "confidentialite"
+    weight: 22
 Languages:
   ################################### English language #####################################
   en:

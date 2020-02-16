@@ -6,10 +6,9 @@ bg_image: "images/backgrounds/page-bg-2.jpg"
 description : ""
 ---
 
-## À savoir pour les bénévoles
-
-Lorem ipsum dolor sit amet
-
 ## Inscription des bénévoles
 
-<a href="" class="btn btn-primary">Inscription</a>
+Merci pour votre intérêt!
+Nous ouvrirons l’inscription pour les bénévoles bientôt.
+
+<!--<a href="" class="btn btn-primary">Inscription</a>-->

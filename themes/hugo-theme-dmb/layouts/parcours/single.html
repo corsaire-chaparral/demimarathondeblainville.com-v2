@@ -1,0 +1,24 @@
+{{- define "main" -}}
+<div class="container">
+  {{ range .Resources.ByType "image" }}
+  <figure>
+    <a href="{{ .Permalink }}" title="Cliquez pour voir l’image en pleine résolution">
+      <img src="{{ .Permalink }}" alt="{{ .Title }}" class="img-fluid" />
+    </a>
+  </figure>
+  {{- end -}}
+  {{- with (.Resources.ByType "pdf") -}}
+  <ul>
+    {{- range . }}
+    <li>
+      <a href="{{ .Permalink }}" title="{{ .Title }}">
+        Version PDF
+      </a>
+    </li>
+    {{- end -}}
+  </ul>
+  {{- end -}}
+  {{ .Content }}
+
+</div>
+{{- end -}}

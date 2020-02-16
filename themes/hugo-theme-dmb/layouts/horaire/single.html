@@ -1,48 +1,47 @@
 {{ define "main" }}
 {{ $data := index .Site.Data .Site.Language.Lang }}
-<main class="pb-5 pt-3">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 order-2 order-lg-1">
-        <div class="row">
-          {{- if .Params.Image -}}
-          <div class="col-12 mb-4">
-            <img src="{{ .Params.Image | relURL }}" alt="blog-thumb" class="img-fluid w-100">
-          </div>
-          {{- end -}}
 
-          <!-- blog contect -->
-          <div class="col-12 content">
-            {{ .Content }}
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 order-2 order-lg-1">
+      <div class="row">
+        {{- if .Params.Image -}}
+        <div class="col-12 mb-4">
+          <img src="{{ .Params.Image | relURL }}" alt="blog-thumb" class="img-fluid w-100">
+        </div>
+        {{- end -}}
 
-            <table class="table-striped">
-              <thead>
-                <tr>
-                  <th>
-                    Heure
-                  </th>
-                  <th>
-                    Événement
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                {{- range sort $data.courses "heure" "asc" -}}
-                <tr>
-                  <td>{{ .heure | dateFormat "15:04" }}</td>
-                  <td>{{ .title }}</td>
-                </tr>
-                {{- end -}}
-              </tbody>
-            </table>
-            
-          </div>
+        <!-- blog contect -->
+        <div class="col-12 content">
+          {{ .Content }}
+
+          <table class="table-striped">
+            <thead>
+              <tr>
+                <th>
+                  Heure
+                </th>
+                <th>
+                  Événement
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              {{- range sort $data.courses "heure" "asc" -}}
+              <tr>
+                <td>{{ .heure | dateFormat "15:04" }}</td>
+                <td>{{ .title }}</td>
+              </tr>
+              {{- end -}}
+            </tbody>
+          </table>
 
         </div>
+
       </div>
-      {{/* partial "blog-sidebar.html" . */}}
     </div>
+    {{/* partial "blog-sidebar.html" . */}}
   </div>
-</main>
+</div>
 
 {{ end }}

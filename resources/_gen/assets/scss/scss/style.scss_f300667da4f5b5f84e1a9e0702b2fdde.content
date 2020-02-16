@@ -310,6 +310,12 @@ h1, h2, h3, h4, h5, h6,
   margin-bottom: 2vw;
   font-weight: 700;
   line-height: 1.2; }
+  .content > h1, .content > h2, .content > h3, .content > h4, .content > h5, .content > h6, .content >
+  .h1, .content > .h2, .content > .h3, .content > .h4, .content > .h5, .content > .h6 {
+    margin-top: 2.5rem; }
+
+.content br {
+  margin: 0; }
 
 h1, .h1 {
   font-size: 6vw; }
@@ -4100,9 +4106,10 @@ input[type="button"].btn-block {
 
 .alert {
   position: relative;
-  padding: 0.75rem 1.25rem;
+  padding: 1.5rem 1.25rem;
   margin-bottom: 1rem;
-  border: 3px solid transparent;
+  border: 1px solid transparent;
+  border-left-width: 0.75rem;
   border-radius: 0; }
 
 .alert-heading {
@@ -4117,96 +4124,96 @@ input[type="button"].btn-block {
     position: absolute;
     top: 0;
     right: 0;
-    padding: 0.75rem 1.25rem;
+    padding: 1.5rem 1.25rem;
     color: inherit; }
 
 .alert-primary {
-  color: #7a5914;
-  background-color: white;
-  border-color: #fff6e6; }
+  color: #e99703;
+  background-color: #fff6e6;
+  border-color: #e99703; }
   .alert-primary hr {
-    border-top-color: #ffedcd; }
+    border-top-color: #d08703; }
   .alert-primary .alert-link {
-    color: #4e390d; }
+    color: #b77602; }
 
 .alert-secondary {
-  color: #7a4114;
-  background-color: white;
-  border-color: #fff0e6; }
+  color: #e96203;
+  background-color: #fff0e6;
+  border-color: #e96203; }
   .alert-secondary hr {
-    border-top-color: #ffe1cd; }
+    border-top-color: #d05703; }
   .alert-secondary .alert-link {
-    color: #4e2a0d; }
+    color: #b74d02; }
 
 .alert-tertiary {
-  color: #18366f;
-  background-color: white;
-  border-color: #e7edfc; }
+  color: #0d48d1;
+  background-color: #e7edfc;
+  border-color: #0d48d1; }
   .alert-tertiary hr {
-    border-top-color: #d0dcf9; }
+    border-top-color: #0c40b9; }
   .alert-tertiary .alert-link {
-    color: #0f2245; }
+    color: #0a37a1; }
 
 .alert-quaternary {
-  color: #477d77;
-  background-color: white;
-  border-color: #f2fffe; }
+  color: #77e9e2;
+  background-color: #f2fffe;
+  border-color: #77e9e2; }
   .alert-quaternary hr {
-    border-top-color: #d9fffc; }
+    border-top-color: #61e5dd; }
   .alert-quaternary .alert-link {
-    color: #355c58; }
+    color: #4be2d9; }
 
 .alert-success {
-  color: #7a4114;
-  background-color: white;
-  border-color: #fff0e6; }
+  color: #e96203;
+  background-color: #fff0e6;
+  border-color: #e96203; }
   .alert-success hr {
-    border-top-color: #ffe1cd; }
+    border-top-color: #d05703; }
   .alert-success .alert-link {
-    color: #4e2a0d; }
+    color: #b74d02; }
 
 .alert-info {
-  color: #18366f;
-  background-color: white;
-  border-color: #e7edfc; }
+  color: #0d48d1;
+  background-color: #e7edfc;
+  border-color: #0d48d1; }
   .alert-info hr {
-    border-top-color: #d0dcf9; }
+    border-top-color: #0c40b9; }
   .alert-info .alert-link {
-    color: #0f2245; }
+    color: #0a37a1; }
 
 .alert-warning {
-  color: #7a6517;
-  background-color: white;
-  border-color: #fff9e6; }
+  color: #e9b20a;
+  background-color: #fff9e6;
+  border-color: #e9b20a; }
   .alert-warning hr {
-    border-top-color: #fff3cd; }
+    border-top-color: #d19f09; }
   .alert-warning .alert-link {
-    color: #4f410f; }
+    color: #b88d08; }
 
 .alert-danger {
-  color: #6c2d2f;
-  background-color: white;
-  border-color: #fcebec; }
+  color: #c93441;
+  background-color: #fcebec;
+  border-color: #c93441; }
   .alert-danger hr {
-    border-top-color: #f9d5d7; }
+    border-top-color: #b52f3a; }
   .alert-danger .alert-link {
-    color: #481e1f; }
+    color: #a02a34; }
 
 .alert-light {
-  color: #686f68;
-  background-color: white;
-  border-color: #fbfbfb; }
+  color: #c1c8c1;
+  background-color: #fbfbfb;
+  border-color: #c1c8c1; }
   .alert-light hr {
-    border-top-color: #eeeeee; }
+    border-top-color: #b3bcb3; }
   .alert-light .alert-link {
-    color: #4f554f; }
+    color: #a6b0a6; }
 
 .alert-dark {
   color: #212721;
-  background-color: white;
-  border-color: #e9e9e9; }
+  background-color: #e9e9e9;
+  border-color: #212721; }
   .alert-dark hr {
-    border-top-color: gainsboro; }
+    border-top-color: #151915; }
   .alert-dark .alert-link {
     color: #0a0b0a; }
 

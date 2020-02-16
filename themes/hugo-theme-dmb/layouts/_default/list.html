@@ -1,27 +1,30 @@
 {{ define "main" }}
-<main class="pb-5 pt-3">
-  <div class="container">
+<div class="container">
 
+  <div class="content">
     {{ .Content }}
+  </div>
 
-    {{ $paginator := .Paginate .Pages }}
-    {{ range $paginator.Pages }}
-    <div class="row border-secondary border-top align-items-center">
-      <div class="col-12 col-sm-4">
-        <h4 class="m-0"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-      </div>
-      <div class="col-12 col-sm-4">
-        <p class="card-text">{{ .Summary | truncate 100 }}</p>
-      </div>
-      <div class="col-12 col-sm-4 text-right p-0">
-        <a href="{{ .Permalink }}" class="btn btn-secondary btn-lg">{{ i18n "register" }} &rarr;</a>
-      </div>
+  {{ $paginator := .Paginate .Pages }}
+  {{ range $paginator.Pages }}
+  <div class="row border-secondary border-top align-items-center py-2">
+    <div class="col-12 col-sm-4">
+      <h4 class="m-0"><a href="{{ .Permalink }}" class="text-decoration-none">{{ .Title }}</a></h4>
     </div>
-    {{ end }}
+    <div class="col-12 col-sm-4">
+      <p class="card-text">{{ .Description | truncate 100 }}</p>
+    </div>
+    <div class="col-12 col-sm-4 text-right p-0">
+      <a href="{{ .Permalink }}" class="btn btn-secondary btn-lg text-decoration-none">Voir &rarr;</a>
+    </div>
+  </div>
+  {{ end }}
+
+  <div class="row">
     <div class="col-12 mt-4">
       {{ template "_internal/pagination.html" . }}
     </div>
   </div>
-</main>
+</div>
 
 {{ end }}

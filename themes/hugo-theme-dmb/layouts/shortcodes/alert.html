@@ -1,0 +1,3 @@
+<div class="alert {{ .Get 0 | default "alert-secondary" }}">
+  {{ .Inner | markdownify }}
+</div>

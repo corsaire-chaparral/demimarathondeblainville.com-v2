@@ -16,7 +16,8 @@
       $('.navigation').addClass('nav-bg');
       $('.top-hider').addClass('top-height');
       $(document.documentElement).addClass('scrolled')
-    } else {
+    } 
+    if ($('header').offset().top < 450) {
       $('.top-header').removeClass('hide');
       $('.navigation').removeClass('nav-bg');
       $('.top-hider').removeClass('top-height');

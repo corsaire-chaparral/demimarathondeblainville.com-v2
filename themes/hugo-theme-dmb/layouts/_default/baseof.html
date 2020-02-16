@@ -8,12 +8,15 @@
   {{ if not .IsHome }}
   {{ partial "page-header.html" . }}
   {{ end }}
+  <main class="{{if not .IsHome}}pb-5 pt-3{{end}} {{with .Params.mainClass}}{{.}}{{end}}">
   {{- block "main" . }}
-  <main class="pb-5 pt-3">
-    {{- .Content -}}
-  </main>
+    <div class="container">
+      {{- .Content -}}
+    </div>
   {{- end }}
+  </main>
   {{- partial "footer.html" . -}}
+  
   {{- partial "snipcart.html" . -}}
 </body>
 
