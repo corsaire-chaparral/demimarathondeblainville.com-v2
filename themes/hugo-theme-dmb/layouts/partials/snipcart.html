@@ -1,2 +1,4 @@
-<div hidden id="snipcart" data-api-key="MWIxZDNmNDktMWY0Mi00YmI4LTgwMjgtYzk4YjJmNzc0M2UyNjM3MDEzMDcyODE4MzE2MjU5" class="pt-5"></div>
-<script src="https://cdn.snipcart.com/themes/v3.0.7/default/snipcart.js"></script>
+{{ with $.Site.Params.snipcart -}}
+<div hidden id="snipcart" data-api-key="{{ .publicApiKey }}"></div>
+<script src="{{ .scriptUrl | default  "https://cdn.snipcart.com/themes/v3.0.7/default/snipcart.js" }}"></script>
+{{- end }}

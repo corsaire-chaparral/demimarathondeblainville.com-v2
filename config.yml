@@ -1,7 +1,10 @@
-baseURL: http://nouveau.demimarathondeblainville.com
+baseURL: https://nouveau.demimarathondeblainville.com
 languageCode: fr-CA
 DefaultContentLanguage: fr
 title: Le Demi-Marathon de Blainville
+Author:
+  name: Louis-Olivier Brassard
+  email: louis@corsaire-chaparral.org
 
 theme: hugo-theme-dmb
 
@@ -46,12 +49,11 @@ params:
     - link: "lib/filterizr/jquery.filterizr.min.js"
     - link: "lib/scrolldir/dist/scrolldir.min.js"
     - link: "lib/scrollama/dist/scrollama.min.js"
+    
+  # snipcart
+  snipcart:
+    publicApiKey: "MWIxZDNmNDktMWY0Mi00YmI4LTgwMjgtYzk4YjJmNzc0M2UyNjM3MDEzMDcyODE4MzE2MjU5"
 
-  #################### default parameters ################################
-  logo: "images/logo.png"
-  # Meta data
-  description: "This is meta description"
-  author: "Themefisher"
   # contact info
   address: >
     **Parc Équestre**<br>
