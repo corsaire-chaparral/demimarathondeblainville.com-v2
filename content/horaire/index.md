@@ -12,6 +12,8 @@ description : ""
 
 La date limite d’inscription est fixée au **vendredi 11 septembre 2020 à minuit**.
 
+<a href="/inscription/" class="btn btn-secondary text-decoration-none text-uppercase">Inscription &rarr;</a>
+
 ## Dossard
 
 Récupération du dossard le samedi 12 septembre au parc équestre de 10h à 16h.

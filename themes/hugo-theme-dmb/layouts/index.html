@@ -1,6 +1,6 @@
-{{ define "main" }}
+{{ define "main" -}}
 
-{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ $data := index .Site.Data .Site.Language.Lang -}}
 <section class="landing-section d-flex flex-column justify-content-between text-white" style="background-image: url('{{ $data.homepage.bg_image | absURL }}')" data-background="{{ .Params.bg_image | absURL }}">
   
   <div class="container">
@@ -8,14 +8,14 @@
       13 septembre 2020
     </span>
     <h1 class="landing-section__title">
-      {{ $.Site.Title }}
+      {{- $.Site.Title -}}
     </h1>
   </div>
 
   {{- if $data.homepage.landingCTA -}}
   <nav class="landing-section__cta-collection d-flex flex-column flex-md-row no-gutter">
     {{- range $data.homepage.landingCTA -}}
-    <a class="d-block flex-grow-1 py-4 py-sm-3 py-md-3 py-lg-2 px-1 text-center {{ .class }}" href="{{ .link }}">
+    <a class="d-block flex-grow-1 py-4 py-sm-3 py-md-3 py-lg-2 px-1 text-center {{ .class }}" href="{{ .link | relLangURL }}">
       {{- .title -}}
     </a>
     {{- end -}}
@@ -28,20 +28,18 @@
   <div class="container-fluid">
     <div class="row">
     <div class="col-12 p-0">
-<!--      <img class="img-fluid" src="/images/backgrounds/page-title.jpg" />-->
+      {{/*
+      <img class="img-fluid" src="/images/backgrounds/page-title.jpg" />
+      */}}
     </div>
     </div>
   </div>
 </section>
 
-<section class="bg-light text-tertiary">
-  <div class="container-fluid">
+<section class="bg-white">
+  <div class="container px-lg-5">
     <div class="row">
-      <div class="col-md-6 p-0 position-relative">
-        <figure class="sticky-top mb-0 w-100 vh-100" style="background-image: url({{ "/images/backgrounds/landing-bg.jpg" | relURL }})">
-        </figure>
-      </div>
-      <div class="col-md-6 px-3 py-4">
+      <div class="col-12 px-3 py-4">
         {{ .Content }}
       </div>
     </div>
@@ -58,6 +56,23 @@
   </div>
 </section>
 
+<section class="">
+  <div class="container-fluid no-gutter">
+    <h2 class="text-center mb-3 mt-5 mt-md-3">
+      Commanditaires
+    </h2>
+    <div class="row">
+      {{ range $index, $commanditaire := $data.commanditaires -}}
+      {{ range (seq 12)}}
+      <div class="col-12 col-lg-3 col-sm-4 mb-0 p-1 text-center">
+        <img src="{{ $commanditaire.logo }}" class="img-fluid mx-auto" alt="{{ $commanditaire.Title }}" />
+      </div>
+      {{- end }}
+      {{- end }}
+    </div>
+  </div>
+</section>
+
 
 <section class="container-fluid no-gutter">
   <div class="row">
@@ -68,7 +83,7 @@
     </div>
 
     <div class="col-md-6 p-0 bg-dark position-relative">
-      <a href="{{ "/benevole/" | relLangURL }}" class="bg-primary text-white d-block w-100 h-100 px-3 py-4 h1 text-center">
+      <a href="{{ "/benevoles/" | relLangURL }}" class="bg-primary text-white d-block w-100 h-100 px-3 py-4 h1 text-center">
         Bénévolat
       </a>
     </div>
@@ -77,7 +92,7 @@
 <section class="container-fluid no-gutter">
   <div class="row">
     <div class="col-12 px-0">
-      <a href="{{ "/" | relLangURL }}" class="text-gray bg-light d-block w-100 h-100 py-4 h1 text-center">
+      <a href="{{ "/resultats/" | relLangURL }}" class="text-gray bg-light d-block w-100 h-100 py-4 h1 text-center">
         Résultats antérieurs &rarr;
       </a>
     </div>

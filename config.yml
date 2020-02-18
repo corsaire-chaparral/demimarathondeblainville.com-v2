@@ -28,6 +28,8 @@ disableLanguages: [en] # desable language from here
 
 params:
   bg_image: /images/backgrounds/landing-bg.jpg
+  
+  logo: /images/logo.png
   ############################# Plugins ##############################
   plugins:
     # CSS Plugins
@@ -128,8 +130,8 @@ menu:
     URL: "benevoles"
     weight: 12
   - parent: "Info"
-    name: "Partenaires"
-    URL: "partenaires"
+    name: "Commanditaires"
+    URL: "commanditaires"
     weight: 13
     
   - parent: "Info"
@@ -179,8 +181,8 @@ menu:
   - name: "Bénévoles"
     URL: "benevoles"
     weight: 13
-  - name: "Partenaires"
-    URL: "partenaires"
+  - name: "Commanditaires"
+    URL: "commanditaires"
     weight: 14
   footer2:
   - name: "Nous joindre"

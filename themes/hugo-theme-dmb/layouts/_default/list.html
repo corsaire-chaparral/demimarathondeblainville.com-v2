@@ -7,15 +7,15 @@
 
   {{ $paginator := .Paginate .Pages }}
   {{ range $paginator.Pages }}
-  <div class="row border-secondary border-top align-items-center py-2">
+  <div class="row border-secondary text-center text-sm-left border-top align-items-center py-2">
     <div class="col-12 col-sm-4">
       <h4 class="m-0"><a href="{{ .Permalink }}" class="text-decoration-none">{{ .Title }}</a></h4>
     </div>
     <div class="col-12 col-sm-4">
-      <p class="card-text">{{ .Description | truncate 100 }}</p>
+      <p class="my-2">{{ .Description | truncate 100 }}</p>
     </div>
-    <div class="col-12 col-sm-4 text-right p-0">
-      <a href="{{ .Permalink }}" class="btn btn-secondary btn-lg text-decoration-none">Voir &rarr;</a>
+    <div class="col-12 col-sm-4 text-sm-right p-0">
+      <a href="{{ .Permalink }}" class="btn btn-secondary text-decoration-none">Voir &rarr;</a>
     </div>
   </div>
   {{ end }}

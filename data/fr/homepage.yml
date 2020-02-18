@@ -18,14 +18,14 @@ slider:
 ############################### Landing CTAs ###############################
 landingCTA:
   - title: "Horaire et courses"
-    link: "#"
+    link: "/horaire/"
     class: "bg-tertiary"
-  - title: "Inscription"
-    link: "#"
-    class: "bg-secondary"
-  - title: 'Rester informé·e'
-    link: "#infolettre"
+  - title: 'Bénévoles'
+    link: "/benevoles/"
     class: "bg-primary"
+  - title: "Inscription"
+    link: "/inscription/"
+    class: "bg-secondary"
 
 ############################### Banner feature ###############################
 banner_feature:
