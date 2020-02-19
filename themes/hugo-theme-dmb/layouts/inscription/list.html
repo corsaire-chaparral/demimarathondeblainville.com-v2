@@ -5,8 +5,8 @@
   <div class="row">
     <div class="col-12">
   
-      <a href="#" class="h1 btn btn-link btn-lg px-0 mx-0 snipcart-checkout">
-        Voir le panier (<span class="snipcart-items-count"></span>)
+      <a href="#" class="h1 btn btn-link btn-lg px-0 mx-0 snipcart-checkout snipcart-summary">
+        Voir le panier (<span class="snipcart-total-items"></span>)
       </a>
 
       {{- .Content -}}
@@ -33,28 +33,38 @@
               {{ if .thumbnail -}}
               data-item-image="{{ .thumbnail }}"
               {{- end }}
-              data-item-categories="inscription|2020"
+              data-item-categories="inscription, 2020"
               data-item-name="{{ .title }}"
               
               {{/* stackable option to avoid merging 2 people */}}
-              data-item-stackable="never"
-              data-item-max-quantity="1"
+              data-item-stackable="false"
               
               {{/* BEGIN Custom Fields */}}
               data-item-custom1-name="Prénom"
               data-item-custom1-required="true"
               data-item-custom2-name="Nom de famille"
+              data-item-custom2-required="true"
               data-item-custom3-name="Sexe"
               data-item-custom3-options="M|F"
+              data-item-custom3-required="true"
               data-item-custom4-name="Date de naissance"
+              data-item-custom4-required="true"
               data-item-custom5-name="Adresse (participant)"
+              data-item-custom5-required="true"
               data-item-custom6-name="Ville"
+              data-item-custom6-required="true"
               data-item-custom7-name="Province"
+              data-item-custom7-required="true"
               data-item-custom8-name="Code postal"
+              data-item-custom8-required="true"
               data-item-custom9-name="Courriel"
+              data-item-custom9-required="true"
               data-item-custom10-name="Téléphone"
+              data-item-custom10-required="true"
               data-item-custom11-name="Condition médicale"
+              data-item-custom11-required="true"
               data-item-custom12-name="Téléphone en cas d’urgence"
+              data-item-custom12-required="true"
               {{/* END Custom Fields */}}
               
               >

@@ -55,6 +55,8 @@ params:
   # snipcart
   snipcart:
     publicApiKey: "MWIxZDNmNDktMWY0Mi00YmI4LTgwMjgtYzk4YjJmNzc0M2UyNjM3MDEzMDcyODE4MzE2MjU5"
+    styleUrl: "https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css"
+    scriptUrl: "https://cdn.snipcart.com/scripts/2.0/snipcart.js"
 
   # contact info
   address: >
