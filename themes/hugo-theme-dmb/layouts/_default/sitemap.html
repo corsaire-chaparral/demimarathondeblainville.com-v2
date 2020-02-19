@@ -1,0 +1,15 @@
+{{- define "main"}}
+<div class="container font-lg content">
+  <ul>
+  {{- range $.Site.Pages }}
+    <li>
+      {{ if .IsSection }}
+      <a href="{{ .Permalink }}" class="h2"> {{ .Title }}</a>
+      {{ else }}
+      <a href="{{ .Permalink }}"> {{ .Title }}</a>
+      {{ end }}
+    </li>
+  {{- end }}
+</ul>
+</div>
+{{- end }}

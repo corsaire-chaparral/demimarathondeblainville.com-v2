@@ -6,10 +6,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : ""
 ---
 
-Merci à nos chaleureux partenaires :
 
-- Via Capitale
-- Stablex
-- Santé en forme
 
-[Plan de commandite](/Plan_Commandite_DMB_2020.pdf)
+[Plan de commandite](/files/Plan_Commandite_DMB_2020.pdf)

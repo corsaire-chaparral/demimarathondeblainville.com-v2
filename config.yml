@@ -186,6 +186,9 @@ menu:
   - name: "Commanditaires"
     URL: "commanditaires"
     weight: 14
+  - name: "Guides"
+    URL: "guides"
+    weight: 15
   footer2:
   - name: "Nous joindre"
     URL: "contact"
