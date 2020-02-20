@@ -9,6 +9,11 @@ description : ""
 ## Inscription des bénévoles
 
 Merci pour votre intérêt!
-Nous ouvrirons l’inscription pour les bénévoles bientôt.
 
-<!--<a href="" class="btn btn-primary">Inscription</a>-->
+Inscrivez-vous via le formulaire ci-dessous.
+
+---
+
+<script type="text/javascript" src="//campagnes.demimarathondeblainville.com/form/generate.js?id=10"></script>
+
+---
