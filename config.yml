@@ -28,8 +28,10 @@ disableLanguages: [en] # desable language from here
 
 params:
   bg_image: /images/backgrounds/landing-bg.jpg
-  
-  logo: /images/logo.png
+
+  # logo which goes in the navbar
+  logo: /images/logo-navbar.png
+  logo_ration: 3.19
   ############################# Plugins ##############################
   plugins:
     # CSS Plugins
@@ -82,8 +84,7 @@ params:
   subscription:
     enable: true
     # mailchimp subsciption
-    mailchimp_form_action: "" # replace this url with yours
-    mailchimp_form_name: "" # replace this code with yours
+    subscription_form_action: "https://campagnes.demimarathondeblainville.com/form/submit?formId=9" # replace this url with yours
 
   # google map
   map:
@@ -128,14 +129,13 @@ menu:
     URL: "horaire"
     weight: 11
   - parent: "Info"
-    name: "Bénévoles"
-    URL: "benevoles"
-    weight: 12
-  - parent: "Info"
     name: "Commanditaires"
     URL: "commanditaires"
+    weight: 12
+  - parent: "Info"
+    name: "Résultats"
+    URL: "/resultats/"
     weight: 13
-    
   - parent: "Info"
     name: "Nous joindre"
     URL: "contact"
@@ -167,8 +167,8 @@ menu:
     URL: "/parcours/1-km/"
     weight: 5
 
-  - name: "Résultats"
-    URL: "/resultats/"
+  - name: "Bénévoles"
+    URL: "benevoles"
     weight: 30
 
 

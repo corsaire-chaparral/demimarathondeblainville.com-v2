@@ -2,21 +2,15 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-lg-8 order-2 order-lg-1">
-      <div class="row">
-        {{- if .Params.Image -}}
-        <div class="col-12 mb-4">
-          <img src="{{ .Params.Image | relURL }}" alt="blog-thumb" class="img-fluid w-100">
-        </div>
+    <div class="col-12 order-1 content">
+      {{- if .Params.Image -}}
+      <figure>
+        <img src="{{ .Params.Image | relURL }}" alt="blog-thumb" class="img-fluid w-100">
+      </figure>
         {{- end -}}
 
-        <div class="col-12 content">
-          {{ .Content }}
-        </div>
-
-      </div>
+      {{ .Content }}
     </div>
-    {{/* partial "blog-sidebar.html" . */}}
   </div>
 </div>
 

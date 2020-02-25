@@ -1,0 +1,21 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+<table class="table-striped">
+  <thead>
+    <tr>
+      <th>
+        Heure
+      </th>
+      <th>
+        Événement
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    {{- range sort $data.horaire "heure" "asc" -}}
+    <tr>
+      <td>{{ .heure | dateFormat "15:04" }}</td>
+      <td>{{ .title }}</td>
+    </tr>
+    {{- end -}}
+  </tbody>
+</table>

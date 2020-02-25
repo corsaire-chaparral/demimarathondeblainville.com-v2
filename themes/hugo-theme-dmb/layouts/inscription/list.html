@@ -65,6 +65,11 @@
               data-item-custom11-required="true"
               data-item-custom12-name="Téléphone en cas d’urgence"
               data-item-custom12-required="true"
+              
+              {{ if .affiliation -}}
+              data-item-custom13-name="# d’affiliation de votre fédération"
+              data-item-custom13-required="true"
+              {{- end }}
               {{/* END Custom Fields */}}
               
               >

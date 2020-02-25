@@ -336,3 +336,11 @@ textarea.form-control {
     }
   }
 }
+
+.mauticform-helpmessage {
+  display: block;
+}
+
+label {
+  @extend .font-weight-bold;
+}

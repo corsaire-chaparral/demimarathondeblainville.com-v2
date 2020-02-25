@@ -4,11 +4,12 @@
   // Preloader js    
   $(window).on('load', function () {
     $('.preloader').fadeOut(100);
-    handleHeader()
+//    handleHeader()
   });
 
   // Sticky Menu
-  $(window).scroll(handleHeader);
+  // disabled for now, wonky useless anmation
+//  $(window).scroll(handleHeader);
   
   function handleHeader() {
     if ($('header').offset().top > 500) {
@@ -93,9 +94,9 @@
       });
     }
   }
-  $(window).on('scroll', function () {
-    counter();
-  });
+//  $(window).on('scroll', function () {
+//    counter();
+//  });
 
   // Animation
   $(document).ready(function () {
@@ -108,8 +109,8 @@
 
 
   // scrolldir
-  $(document).ready(function () {
-    scrollDir();
-  });
+//  $(document).ready(function () {
+//    scrollDir();
+//  });
 
 })(jQuery);

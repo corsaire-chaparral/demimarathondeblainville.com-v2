@@ -1,49 +1,39 @@
 - 
-  id: 21km-2020
+  title: "Remise des trousses des coureurs"
+  description: ""
+  heure: "2020-09-13 07:00:00 -0600"
+
+- 
   title: "21,1 km"
   description: "Le Demi-Marathon complet."
-  fee: 70.00
   heure: "2020-09-13 08:10:00 -0600"
 
 - 
-  id: 10km-2020
   title: "10 km"
   description: ""
-  fee: 50.00
   heure: "2020-09-13 07:45:00 -0600"
 
 - 
-  id: 5km-course-2020
   title: "5 km course"
   description: ""
-  fee: 40.00
   heure: "2020-09-13 10:40:00 -0600"
 
 - 
-  id: 5km-marche-2020
   title: "5 km marche"
   description: "Départ après le 5km course"
-  fee: 40.00
   heure: "2020-09-13 10:45:00 -0600"
 
 - 
-  id: 2km-2020
   title: "2 km"
   description: ""
-  fee: 20.00
   heure: "2020-09-13 11:50:00 -0600"
 
 - 
-  id: 1km-2020
   title: "1 km"
   description: ""
-  fee: 15.00
   heure: "2020-09-13 12:15:00 -0600"
 
 - 
-  id: 10km-marche-athletique-2020
   title: "10 km marche athlétique"
   description: "Épreuve réservée aux marcheurs avec affiliation"
-  fee: 60.00
-  affiliation: true
   heure: "2020-09-13 12:20:00 -0600"

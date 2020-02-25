@@ -1,9 +1,14 @@
+{{- define "title" }}
+{{ $.Site.Title }}
+{{ end -}}
 {{ define "main" -}}
 
 {{ $data := index .Site.Data .Site.Language.Lang -}}
 <section class="landing-section d-flex flex-column justify-content-between text-white" style="background-image: url('{{ $data.homepage.bg_image | absURL }}')" data-background="{{ .Params.bg_image | absURL }}">
+
+  {{- partial "header.html" . -}}
   
-  <div class="container">
+  <div class="container-fluid px-sm-3 px-lg-5 mt-1">
     <span class="landing-section__subtitle d-block text-uppercase">
       13 septembre 2020
     </span>
@@ -37,9 +42,9 @@
 </section>
 
 <section class="bg-white">
-  <div class="container px-lg-5">
+  <div class="container py-4 px-lg-1">
     <div class="row">
-      <div class="col-12 px-3 py-4">
+      <div class="col-12 content">
         {{ .Content }}
       </div>
     </div>
@@ -56,18 +61,16 @@
   </div>
 </section>
 
-<section class="">
+<section class="py-5 py-md-3">
   <div class="container-fluid no-gutter">
-    <h2 class="text-center mb-3 mt-5 mt-md-3">
-      Commanditaires
+    <h2 class="text-center mt-0 mb-3 mt-md-3">
+      Commanditaires de l’événement
     </h2>
-    <div class="row">
+    <div class="row align-items-center">
       {{ range $index, $commanditaire := $data.commanditaires -}}
-      {{ range (seq 12)}}
-      <div class="col-12 col-lg-3 col-sm-4 mb-0 p-1 text-center">
-        <img src="{{ $commanditaire.logo }}" class="img-fluid mx-auto" alt="{{ $commanditaire.Title }}" />
+      <div class="col-12 col-lg-3 col-sm-4 mb-0 py-2 px-3 px-sm-3 px-lg-4 text-center">
+        <img src="{{ $commanditaire.logo }}" class="img-fluid mx-auto img-commanditaire" alt="{{ $commanditaire.Title }}" />
       </div>
-      {{- end }}
       {{- end }}
     </div>
   </div>
@@ -76,15 +79,15 @@
 
 <section class="container-fluid no-gutter">
   <div class="row">
-    <div class="col-md-6 px-0 mb-0 bg-light text-secondary">
-      <a href="{{ "/inscription/" | relLangURL }}" class="bg-secondary text-white d-block w-100 h-100 px-3 py-4 h1 text-center">
-        Inscription
+    <div class="col-md-6 p-0 bg-dark position-relative">
+      <a href="{{ "/benevoles/" | relLangURL }}" class="bg-primary text-white d-block w-100 h-100 px-3 py-4 h1 text-center">
+        Bénévoles
       </a>
     </div>
 
-    <div class="col-md-6 p-0 bg-dark position-relative">
-      <a href="{{ "/benevoles/" | relLangURL }}" class="bg-primary text-white d-block w-100 h-100 px-3 py-4 h1 text-center">
-        Bénévolat
+    <div class="col-md-6 px-0 mb-0 bg-light text-secondary">
+      <a href="{{ "/inscription/" | relLangURL }}" class="bg-secondary text-white d-block w-100 h-100 px-3 py-4 h1 text-center">
+        Inscription
       </a>
     </div>
   </div>

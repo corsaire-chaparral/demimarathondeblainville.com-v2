@@ -1,5 +1,10 @@
+.no-js {
+  .preloader {
+    display: none;
+  }
+}
 body {
-  padding-top: $navbar-brand-height; // navbar brand height
+//  padding-top: $navbar-brand-height; // navbar brand height
 }
 
 ::selection {
@@ -264,6 +269,10 @@ textarea.form-control{
 
   a {
     text-decoration: underline;
+  }
+  
+  img {
+    @extend .img-fluid;
   }
 
   h1,

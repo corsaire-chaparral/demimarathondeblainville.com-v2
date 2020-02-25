@@ -1,11 +1,22 @@
 <!DOCTYPE html>
-<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-{{- partial "head.html" . -}}
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}" class="no-js">
+  <head>
+    {{- partial "head.html" . -}}
+
+    <title>
+      {{- block "title" . }}
+      {{ with .Params.Title }}{{ . }} | {{ end }}
+      {{ $.Site.Title }}
+      {{ end -}}
+    </title>
+
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+  </head>
 
 <body>
   {{- partial "preloader.html" . -}}
-  {{- partial "header.html" . -}}
   {{ if not .IsHome }}
+  {{- partial "header.html" . -}}
   {{ partial "page-header.html" . }}
   {{ end }}
   <main class="{{if not .IsHome}}pb-5 pt-3{{end}} {{with .Params.mainClass}}{{.}}{{end}}">

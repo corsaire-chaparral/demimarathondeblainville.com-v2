@@ -1,2 +1,34 @@
-- title: ""
-  logo: "/images/commanditaires/sponsors_gold_1.jpg"
+- 
+  title: "Ville de Blainville"
+  logo: "/images/commanditaires/blainville.png"
+  majeur: true
+
+- 
+  title: "Club d’athlétisme Corsaire-Chaparral"
+  logo: "/images/commanditaires/corsaire-chaparral.png"
+  majeur: true
+
+- 
+  title: "Via Capitale"
+  logo: "/images/commanditaires/via-capitale.png"
+  majeur: true
+
+- 
+  title: "Stablex"
+  logo: "/images/commanditaires/stablex.png"
+
+- 
+  title: "Centre Chiro-Santé"
+  logo: "/images/commanditaires/centre-chiro-sante.png"
+
+- 
+  title: "IGA Famille Girard"
+  logo: "/images/commanditaires/iga.png"
+
+- 
+  title: "Ralik"
+  logo: "/images/commanditaires/ralik.png"
+
+- 
+  title: "Tim Hortons"
+  logo: "/images/commanditaires/tim-hortons.jpg"

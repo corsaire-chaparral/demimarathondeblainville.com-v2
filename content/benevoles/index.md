@@ -8,9 +8,7 @@ description : ""
 
 ## Inscription des bénévoles
 
-Merci pour votre intérêt!
-
-Inscrivez-vous via le formulaire ci-dessous.
+Inscrivez-vous via le formulaire ci-dessous!
 
 ---
 

@@ -41,23 +41,32 @@ $link-cta-spacing: 24px;
 //    position: static !important;
     background: $body-bg;
   }
+  
+  // navbar collapse
+  @include media-breakpoint-up(lg) {
+    margin-bottom: -2vh;
+  }
 }
 
 .navbar-brand {
 //  padding: .5rem;
   flex-basis: auto; // take up the space
   margin: 0;
-  padding: $navbar-brand-padding-y 0;
+  padding: $navbar-brand-padding-y 2rem $navbar-brand-padding-y 1rem;
   @include media-breakpoint-up(sm) {
-    padding-left: 3rem; // extra padding on the left
+    padding-left: 2rem; // little padding on the left
+    padding-right: 2rem; // more padding on the right
+  }
+  @include media-breakpoint-up(lg) {
+    padding-left: 2rem; // little padding on the left
+    padding-right: map-get($spacers, 4); // more padding on the right
   }
   transition: all .3s ease .3s;
   position: relative;
 
   img {
-    max-height: $navbar-brand-image-height; // YMMV
     @include media-breakpoint-down(sm) {
-      max-height: 3.5rem;
+//      max-height: 6rem;
     }
     height: auto;
     transition: all .7s $easeInOutQuint .1s;
