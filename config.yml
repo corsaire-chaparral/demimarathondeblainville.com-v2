@@ -53,10 +53,10 @@ params:
     - link: "lib/filterizr/jquery.filterizr.min.js"
     - link: "lib/scrolldir/dist/scrolldir.min.js"
     - link: "lib/scrollama/dist/scrollama.min.js"
-    
+
   # snipcart
   snipcart:
-    publicApiKey: "MWIxZDNmNDktMWY0Mi00YmI4LTgwMjgtYzk4YjJmNzc0M2UyNjM3MDEzMDcyODE4MzE2MjU5"
+    publicApiKey: "MGI1OGExOGUtMjU4Yi00MGI4LTljM2EtYTcyNjhlYjA0YzEzNjM3MTg1MDE1OTA0NTUyODE3"
     styleUrl: "https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css"
     scriptUrl: "https://cdn.snipcart.com/scripts/2.0/snipcart.js"
 

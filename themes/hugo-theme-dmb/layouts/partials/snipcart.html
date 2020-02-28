@@ -1,5 +1,12 @@
 {{ with $.Site.Params.snipcart -}}
 {{/* Snipcart v2 requires jQuery (but not v3) */}}
 <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-<script src="{{ .scriptUrl | default "https://cdn.snipcart.com/scripts/2.0/snipcart.js" }}" data-api-key="{{ .publicApiKey }}" id="snipcart"></script>
+
+<script id="snipcart"
+        src="{{ .scriptUrl | default "https://cdn.snipcart.com/scripts/2.0/snipcart.js" }}"
+        data-api-key="{{ .publicApiKey }}"
+        data-cart-custom1-name="J’accepte les termes et conditions de la course"
+        data-cart-custom1-options="true|false"
+        data-cart-custom1-required="true"
+        ></script>
 {{- end }}

@@ -93,7 +93,11 @@ $link-cta-spacing: 24px;
 //}
 
 .nav-item {
-  font-size: 1rem;
+  @include font-size(1rem)
+  
+  @include media-breakpoint-up(xl) {
+    @include font-size(1.25rem);
+  }
   transition: all .35s;
   color: $white;
   position: relative;

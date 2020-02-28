@@ -10,10 +10,15 @@ serve:
 	hugo serve --disableFastRender
 
 build:
-	hugo '--minify'
+	hugo --minify
 
 build-staging:
-	hugo --config=config.yml --minify
+	hugo --environment staging --minify
+
+all-staging:
+	hugo --environment staging --minify
+	./deploy-staging.sh
 
 all:
-	make build && ./deploy.sh
+	make build
+	./deploy.sh

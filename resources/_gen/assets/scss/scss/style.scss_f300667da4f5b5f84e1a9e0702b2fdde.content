@@ -7922,6 +7922,9 @@ textarea.form-control {
   position: relative;
   z-index: 1;
   background-color: #ffa300; }
+  @media (min-width: 1200px) {
+    .nav-item {
+      font-size: 1.25rem; } }
   .nav-item::before {
     content: '';
     display: block;
