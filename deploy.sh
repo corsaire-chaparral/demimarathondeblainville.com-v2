@@ -1,6 +1,6 @@
 #! /bin/bash
 USER=louis
-SERVERNAME=nouveau.demimarathondeblainville.com
-REMOTEDIR=/var/www/nouveau.demimarathondeblainville.com/public/
+SERVERNAME=demimarathondeblainville.com
+REMOTEDIR=/var/www/www.demimarathondeblainville.com/public/
 
-rsync -vzr --delete public/ $USER@$SERVERNAME:$REMOTEDIR
+rsync -vzr --exclude=from="exclude.deploy" --delete public/ $USER@$SERVERNAME:$REMOTEDIR
