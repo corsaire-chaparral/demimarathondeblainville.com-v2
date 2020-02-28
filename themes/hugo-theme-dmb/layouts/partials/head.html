@@ -18,7 +18,11 @@
 {{ "<!--Favicon-->" | safeHTML }}
 {{ partial "favicon.html" . }}
 
-{{ with $.Site.Params.snipcart -}}
+{{ if $.Site.Params.snipcart.stuleUrl -}}
 {{ "<!-- Snipcart -->" | safeHTML }}
 <link rel="stylesheet" href="{{ .styleUrl | default  "https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" }}" />
+{{ else }}
+{{ "<!-- Snipcart Custom Stylesheet -->" | safeHTML }}
+{{ $snipcartStyle := resources.Get "snipcart-theme-v2/sass/snipcart.scss" | toCSS }}
+<link rel="stylesheet" href="{{ $snipcartStyle.Permalink }}" media="screen">
 {{- end }}

@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-dmb/assets/snipcart-theme-v2"]
+	path = themes/hugo-theme-dmb/assets/snipcart-theme-v2
+	url = git@github.com:corsaire-chaparral/snipcart-theme-v2.git
