@@ -5059,6 +5059,20 @@ a.close.disabled {
   to {
     transform: rotate(360deg); } }
 
+@keyframes land-and-float {
+  0% {
+    transform: translateY(-3.5rem) rotate(-15deg); }
+  20% {
+    transform: translateY(0.5rem) rotate(10deg); }
+  40% {
+    transform: translateY(-0.5rem) rotate(-20deg); }
+  60% {
+    transform: translateY(0.5rem) rotate(0deg); }
+  90% {
+    transform: translateY(-3.5rem) rotate(15deg); }
+  100% {
+    transform: translateY(-3.5rem) rotate(-15deg); } }
+
 .spinner-border {
   display: inline-block;
   width: 2rem;
@@ -7636,6 +7650,12 @@ a.text-dark:hover, a.text-dark:focus {
   display: flex;
   align-items: center;
   justify-content: center; }
+  .preloader img {
+    animation-name: land-and-float;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease; }
 
 /* overlay */
 .outline-0 {

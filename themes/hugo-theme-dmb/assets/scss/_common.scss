@@ -25,6 +25,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  
+  img {
+    animation-name: land-and-float;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease;
+  }
 }
 
 /* overlay */

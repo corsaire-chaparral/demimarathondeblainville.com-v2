@@ -20,13 +20,13 @@
     LOCAL VARIABLES
 \*------------------------------------*/
 /**
-    CUSTOM FONT FAMILY
+  CUSTOM FONT FAMILY
 
-    We don't want to load many fonts on your site so we stay classic.
-    You can add your custom fonts here and/or define your own fonts family variables.
+  We don't want to load many fonts on your site so we stay classic.
+  You can add your custom fonts here and/or define your own fonts family variables.
 */
 /**
-    ICONS FONT
+  ICONS FONT
 */
 @font-face {
   font-family: "Snipcart";
@@ -35,14 +35,14 @@
   font-style: normal; }
 
 /**
-    FONT HELPERS
+  FONT HELPERS
 
-    If you use custom fonts and you don't want browser side weighted/italic fonts:
-    - remove font-weight (or add font-weight: normal for example)
-    - add your font-family. Ex: font-family: 'myFont-bold';
+  If you use custom fonts and you don't want browser side weighted/italic fonts:
+  - remove font-weight (or add font-weight: normal for example)
+  - add your font-family. Ex: font-family: 'myFont-bold';
 */
 /**
-    FONT SIZES
+  FONT SIZES
 */
 /**
     MEDIA QUERIES
@@ -80,7 +80,7 @@ body.snip-open {
   bottom: 0;
   color: #999;
   font-family: Kelson, "Kelson Sans", -apple-system, Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   left: 0;
   line-height: normal;
   overflow-x: auto;
@@ -409,16 +409,16 @@ h4,
   .snip-layout input[type=password],
   .snip-layout select {
     background: #fff;
-    border-radius: 3px;
-    border: 1px solid #eee;
+    border-radius: 0;
+    border: 2px solid #eee;
     box-sizing: border-box;
     color: #555;
     display: block;
-    font-size: 14px;
+    font-size: 16px;
     height: auto;
-    line-height: 18px;
+    line-height: 1;
     margin: 0;
-    padding: .571em .429em;
+    padding: 1em .75em;
     transition: border 0.66s ease;
     width: 100%; }
     .snip-layout input[type=text]:focus, .snip-layout input[type=text]:hover,
@@ -426,7 +426,7 @@ h4,
     .snip-layout input[type=password]:hover,
     .snip-layout select:focus,
     .snip-layout select:hover {
-      border-color: #333; }
+      border-color: #ffa300; }
   .snip-layout .snip-btn {
     font-weight: 700;
     font-family: "ATC-Harris", Menlo, "Courier New", Courier, monospace;
@@ -436,7 +436,7 @@ h4,
     color: #fff;
     cursor: pointer;
     display: inline-block;
-    font-size: 10px;
+    font-size: 11.66666667px;
     height: 66px;
     line-height: 66px;
     outline: 0;
@@ -447,7 +447,7 @@ h4,
       color: inherit; }
     @media only screen and (min-width: 48em) {
       .snip-layout .snip-btn {
-        font-size: 12px;
+        font-size: 14px;
         padding: 0 2em; } }
   .snip-layout .snip-btn--small {
     height: auto;
@@ -455,10 +455,10 @@ h4,
     padding: .417em; }
   .snip-layout .snip-btn--highlight {
     background: #ffa300;
-    color: #222; }
+    color: #000; }
     .snip-layout .snip-btn--highlight:hover {
       background-color: #eb9600;
-      color: #222; }
+      color: #000; }
   .snip-layout .snip-btn--left {
     float: left; }
   .snip-layout .snip-btn--right {
@@ -535,7 +535,7 @@ h4,
       height: 400px; }
   .snip-layout .snip-header {
     font-weight: 700;
-    background: #222;
+    background: #000;
     color: #fff;
     padding: 1em;
     position: relative;
@@ -619,14 +619,14 @@ h4,
       right: 1.25em;
       top: 50%; } }
   .snip-layout .snip-footer {
-    background: #222;
+    background: #000;
     padding: .125em .625em;
     text-transform: uppercase; }
   .snip-layout .snip-footer__copyright {
     background: url("/images/snipcart/lock.png") no-repeat left 0.3em;
     color: #555;
     display: inline-block;
-    font-size: 10px;
+    font-size: 11px;
     height: 35px;
     line-height: 35px;
     padding-left: 3.2em; }
@@ -648,9 +648,9 @@ h4,
     border-top: none;
     border-bottom: 1px solid #eee; }
   .snip-layout .snip-actions__link {
-    color: #999; }
+    color: #555; }
   .snip-layout .snip-actions__link--small {
-    font-size: 12px; }
+    font-size: 14px; }
   .snip-layout .snip-actions__link--right {
     float: right; }
   .snip-layout .snip-table {
@@ -923,7 +923,7 @@ h4,
     width: 100%;
     position: relative;
     overflow: hidden;
-    background-color: #222;
+    background-color: #000;
     margin-top: -.3em; }
     .snip-layout .snip-loader--bar:before {
       display: block;
@@ -962,9 +962,9 @@ h4,
     .snip-layout .snip-form__container + .snip-form__container {
       margin-top: 1em; }
   .snip-layout .snip-form__label {
-    color: #999;
+    color: #000;
     display: block;
-    font-size: 12px;
+    font-size: 14px;
     margin: 0 0 .5em 0;
     overflow: hidden;
     text-transform: uppercase;
@@ -975,7 +975,7 @@ h4,
     font-weight: 700;
     color: #333;
     float: right;
-    font-size: 12px; }
+    font-size: 14px; }
     .snip-layout .snip-form__help:hover {
       text-decoration: underline; }
   .snip-layout .snip-form__select--small {
@@ -985,43 +985,45 @@ h4,
       margin-left: 2%; }
   .snip-layout .snip-form__error {
     background: #f10;
-    border-radius: 3px;
+    border-radius: 0;
     color: #fff;
-    font-size: 14px;
+    font-size: 16px;
     padding: .357em;
     text-align: center; }
   .snip-layout .snip-form__sq-input {
     background: #fff;
-    border-radius: 3px;
-    border: 1px solid #eee;
+    border-radius: 0;
+    border: 2px solid #eee;
     box-sizing: border-box;
     color: #555;
     display: block;
-    font-size: 14px;
+    font-size: 16px;
     height: auto;
-    line-height: 18px;
+    line-height: 1;
     margin: 0;
-    padding: .571em .429em;
+    padding: 1em .75em;
     transition: border 0.66s ease;
     width: 100%; }
     .snip-layout .snip-form__sq-input:focus, .snip-layout .snip-form__sq-input:hover {
-      border-color: #333; }
+      border-color: #ffa300; }
   .snip-layout textarea {
     background: #fff;
-    border-radius: 3px;
-    border: 1px solid #eee;
+    border-radius: 0;
+    border: 2px solid #eee;
     box-sizing: border-box;
     color: #555;
     display: block;
-    font-size: 14px;
+    font-size: 16px;
     height: auto;
-    line-height: 18px;
+    line-height: 1;
     margin: 0;
-    padding: .571em .429em;
+    padding: 1em .75em;
     transition: border 0.66s ease;
     width: 100%; }
     .snip-layout textarea:focus, .snip-layout textarea:hover {
-      border-color: #333; }
+      border-color: #ffa300; }
+  .snip-layout #snipcart-show-discount-box {
+    font-size: 20px; }
   .snip-layout .snip-steps {
     background: #ccc;
     display: block;
@@ -1077,7 +1079,7 @@ h4,
       .snip-layout .snip-step__label {
         font-weight: 700;
         display: table-cell;
-        font-size: 10px;
+        font-size: 14px;
         line-height: 16px;
         padding-right: .5em;
         text-align: left;
@@ -1125,7 +1127,7 @@ h4,
     padding: 2em 15%; }
   .snip-layout .snip-error__text {
     color: #f10;
-    font-size: 14px;
+    font-size: 16px;
     margin-bottom: 1em; }
   .snip-layout .snip-error__text--centered {
     text-align: center; }
@@ -1136,7 +1138,7 @@ h4,
     text-align: center;
     text-transform: uppercase; }
   .snip-layout .snip-error__list {
-    font-size: 14px;
+    font-size: 16px;
     list-style: disc inside;
     margin: 2em 0; }
   .snip-layout .snip-error__list-item {
@@ -1144,7 +1146,7 @@ h4,
   .snip-layout .snip-error__textarea {
     width: 100%; }
   .snip-layout .snip-error__feedback {
-    font-size: 14px;
+    font-size: 16px;
     text-align: center;
     text-transform: uppercase; }
   .snip-layout .snip-static {
@@ -1161,7 +1163,7 @@ h4,
   .snip-layout .snip-static__title--main {
     margin: .5em 1.429em 1em; }
   .snip-layout .snip-static__content {
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.6;
     margin-top: 1em; }
   .snip-layout .snip-static__item {
@@ -1243,7 +1245,7 @@ h4,
   .snip-layout .snip-flash__item {
     border-bottom: 1px solid #333;
     padding: 10px 20px;
-    font-size: 12px; }
+    font-size: 13px; }
   .snip-layout .snip-flash__item--success {
     background-color: #76d443;
     color: #333; }
@@ -1253,7 +1255,7 @@ h4,
     background-color: #ffa300;
     color: #333; }
   .snip-layout .snip-flash__item--confirm {
-    background-color: #222; }
+    background-color: #000; }
     .snip-layout .snip-flash__item--confirm .snip-static__title {
       color: #fff; }
   .snip-layout .snip-flash__item--error {
@@ -1301,5 +1303,5 @@ h4,
     min-height: 100px; }
   @media only screen and (min-width: 64em) {
     .snip-layout {
-      font-size: 16px;
+      font-size: 18px;
       padding: 1.5em 0; } }
