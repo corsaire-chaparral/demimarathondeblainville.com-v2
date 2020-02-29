@@ -14,9 +14,11 @@
   </div>
 </div>
 
-<div class="container border-top border-secondary events-list-container mb-5">
+<div class="container events-list-container mb-5">
+  
+  <hr class="my-2 my-sm-1">
   {{ range $data.courses }}
-  <div class="row border-secondary border-bottom mb-5 mb-lg-0 text-center text-lg-left align-items-center">
+  <div class="row text-center text-lg-left align-items-center">
     <div class="col-sm-12 col-lg-3">
       <h3 class="m-0 py-2 text-secondary">{{ .title }}</h3>
     </div>
@@ -25,7 +27,7 @@
     </div>
     <div class="col-sm-12 col-lg-3 text-right py-2 mt-2 mt-lg-0">
       <button href="#"
-              class="snipcart-add-item btn btn-secondary btn-hover-primary py-2 btn-block"
+              class="snipcart-add-item btn btn-secondary btn-hover-primary py-3 py-sm-2 btn-block"
               data-item-id="{{ .id }}"
               data-item-price="{{ .fee| lang.NumFmt 2 }}"
               data-item-url="{{ $.Page.Permalink }}"
@@ -84,6 +86,8 @@
       </button>
     </div>
   </div>
+
+  <hr class="my-2 my-sm-1">
   {{ end }}
 </div>
 

@@ -7958,19 +7958,21 @@ textarea.form-control {
     transform-origin: bottom left;
     top: 0;
     background-color: inherit; }
-  .nav-item .nav-link {
-    color: #fff; }
   .nav-item:hover {
     background-color: #ff6900;
     color: #fff; }
-    .nav-item:hover .nav-link {
-      color: inherit; }
+  .nav-item .nav-link {
+    color: #fff; }
+    .navbar-light .nav-item .nav-link:hover {
+      color: #fff; }
   .nav-item-cta {
     background-color: #ff6900;
     position: relative;
     z-index: 1; }
-    .nav-item-cta:hover::before {
-      left: -24px; }
+    .nav-item-cta:hover {
+      color: #fff; }
+      .nav-item-cta:hover::before {
+        left: -24px; }
     .nav-item-cta::before {
       content: '';
       display: block;
@@ -8107,28 +8109,27 @@ textarea.form-control {
         font-size: 7.5vw; } }
   .landing-section__subtitle {
     font-family: "ATC Harris", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-    font-size: 1.75rem;
-    color: #80FFF7;
-    margin-bottom: 1rem; }
-  .landing-section__cta-collection {
-    font-size: 0.984375rem; }
+    font-size: 1.25rem;
+    color: #80FFF7; }
     @media (min-width: 768px) {
-      .landing-section__cta-collection {
-        font-size: 1.125rem; } }
-    .landing-section__cta-collection a {
-      color: #fff;
-      font-weight: lighter; }
-      .landing-section__cta-collection a:hover {
-        text-decoration: none; }
+      .landing-section__subtitle {
+        font-size: 1.75rem; } }
+  @media (min-width: 768px) {
+    .landing-section__cta-collection {
+      font-size: 1.125rem; } }
+  .landing-section__cta-collection a {
+    color: #fff;
+    font-weight: lighter; }
+    .landing-section__cta-collection a:hover {
+      text-decoration: none; }
 
 .full-section {
   min-height: 100vh; }
 
 .image-section {
-  background-position: center center;
-  background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed; }
+  background-repeat: no-repeat;
+  background-position: center center; }
 
 .scroll-info-text h2 {
   font-size: 1.6rem; }

@@ -5,9 +5,10 @@
     {{ .Content }}
   </div>
 
+  <hr class="my-2 my-sm-1">
   {{ $paginator := .Paginate .Pages }}
   {{ range $paginator.Pages }}
-  <div class="row border-secondary text-center text-sm-left border-top align-items-center py-2">
+  <div class="row text-center text-sm-left align-items-center py-3 py-sm-2 no-gutters">
     <div class="col-12 col-sm-4">
       <h4 class="m-0"><a href="{{ .Permalink }}" class="text-decoration-none">{{ .Title }}</a></h4>
     </div>
@@ -15,9 +16,10 @@
       <p class="my-2">{{ .Description | truncate 100 }}</p>
     </div>
     <div class="col-12 col-sm-4 text-sm-right p-0">
-      <a href="{{ .Permalink }}" class="btn btn-secondary text-decoration-none">Voir &rarr;</a>
+      <a href="{{ .Permalink }}" class="btn btn-secondary py-3 py-sm-2 text-decoration-none">Voir &rarr;</a>
     </div>
   </div>
+  <hr class="my-2 my-sm-2">
   {{ end }}
 
   <div class="row">

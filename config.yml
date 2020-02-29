@@ -68,7 +68,7 @@ params:
     J7C 3B9
 
   mobile: ""
-  email: "info@demimarathondeblainville.com"
+  email: "demimarathon@corsaire-chaparral.org"
   # contact form action
   contact_form_action: "" # contact form works with https://formspree.io
   # Google Analitycs

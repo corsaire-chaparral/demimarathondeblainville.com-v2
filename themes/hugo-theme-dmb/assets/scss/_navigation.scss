@@ -120,20 +120,21 @@ $link-cta-spacing: 24px;
     top: 0;
     background-color: inherit;
   }
-  
-  
-  .nav-link {
-    color: $white;
-  }
-  
+
   &:hover {
     background-color: theme-color('secondary');
     color: $white;
-    
-    .nav-link {
-      color: inherit;
+  }
+
+  .nav-link {
+    color: $white;
+    .navbar-light & {
+      &:hover {
+        color: $white;
+      }
     }
   }
+  
 
   &-cta {
     background-color: theme-color('secondary');
@@ -143,6 +144,7 @@ $link-cta-spacing: 24px;
     &:hover {
       
 //      background-color: lighten(theme-color('secondary'), 5%);
+      color: $white;
       
       &::before {
         left: -($link-cta-spacing);

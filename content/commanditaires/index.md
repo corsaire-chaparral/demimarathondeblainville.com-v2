@@ -6,4 +6,8 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : ""
 ---
 
-Consultez le [plan de commandite](/files/Plan_Commandite_DMB_2020.pdf)
+## Obtenez de la visibilité pour votre entreprise
+
+Le Demi-Marathon de Blainville cherche des partenaires pour cet événement.
+
+<a class="btn text-decoration-none btn-secondary" href="/files/Plan_Commandite_DMB_2020.pdf">Plan de commandite ></a>
