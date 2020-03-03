@@ -15,6 +15,13 @@
           <div class="mauticform-innerform">
 
             <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
+              
+
+            <div id="mauticform_ajoutalinfolettre_email2" style="display:none" class="mauticform-row mauticform-email mauticform-field-2">
+                <label id="mauticform_label_ajoutalinfolettre_email2" for="mauticform_input_ajoutalinfolettre_email2" class="mauticform-label">Email2</label>
+                <input id="mauticform_input_ajoutalinfolettre_email2" name="mauticform[email2]" value="" class="mauticform-input" type="email">
+                <span class="mauticform-errormsg" style="display: none;"></span>
+            </div>
 
               <div class="input-group" id="mauticform_ajoutalinfolettre_courriel" data-validate="courriel" data-validation-type="email">
                 <input type="email" class="form-control border-0" id="newsletter" name="mauticform[courriel]" placeholder="{{ i18n "enter_email" }}" required>
@@ -151,3 +158,34 @@
     }
   }
 </script>
+
+
+---
+
+<div id="mauticform_wrapper_ajoutalinfolettre" class="mauticform_wrapper">
+    <form autocomplete="false" role="form" method="post" action="https://campagnes.demimarathondeblainville.com/form/submit?formId=9" id="mauticform_ajoutalinfolettre" data-mautic-form="ajoutalinfolettre" enctype="multipart/form-data">
+        <div class="mauticform-error" id="mauticform_ajoutalinfolettre_error"></div>
+        <div class="mauticform-message" id="mauticform_ajoutalinfolettre_message"></div>
+        <div class="mauticform-innerform">
+
+            
+          <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
+
+            <div id="mauticform_ajoutalinfolettre_courriel" data-validate="courriel" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-1 mauticform-required">
+                <label id="mauticform_label_ajoutalinfolettre_courriel" for="mauticform_input_ajoutalinfolettre_courriel" class="mauticform-label">Courriel</label>
+                <input id="mauticform_input_ajoutalinfolettre_courriel" name="mauticform[courriel]" value="" placeholder="Votre courriel…" class="mauticform-input" type="email">
+                <span class="mauticform-errormsg" style="display: none;">Ceci est requis.</span>
+            </div>
+
+            <div id="mauticform_ajoutalinfolettre_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-3">
+                <button type="submit" name="mauticform[submit]" id="mauticform_input_ajoutalinfolettre_submit" value="" class="mauticform-button btn btn-default">Envoyer</button>
+            </div>
+            </div>
+        </div>
+
+        <input type="hidden" name="mauticform[formId]" id="mauticform_ajoutalinfolettre_id" value="9">
+        <input type="hidden" name="mauticform[return]" id="mauticform_ajoutalinfolettre_return" value="">
+        <input type="hidden" name="mauticform[formName]" id="mauticform_ajoutalinfolettre_name" value="ajoutalinfolettre">
+
+        </form>
+</div>
