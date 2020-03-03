@@ -3,6 +3,11 @@ title: Accueil
 type: home
 
 bg_image: /images/backgrounds/landing-bg.jpg
+
+# Aliases for sites linking to old URLs
+aliases:
+- /en/
+- /fr/
 ---
 
 ## À propos de l’événement
