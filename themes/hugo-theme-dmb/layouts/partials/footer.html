@@ -8,6 +8,9 @@
     <div class="row py-3">
       <div class="col-md-9 ml-auto bg-primary footer-box position-relative p-3 p-xl-2 mb-1 mauticform_wrapper" id="infolettre">
         <h3 class="text-white">{{ i18n "subscribe_newsletter" }}</h3>
+        
+        <p class="text-white">Restez informé·e et recevez nos promotions exclusives!</p>
+
         <form action="{{ .subscription_form_action }}" method="post" target="_blank" id="mauticform_ajoutalinfolettre" role="form"  data-mautic-form="ajoutalinfolettre" enctype="multipart/form-data" name="mauticform_ajoutalinfolettre">
           
           <div class="mauticform-error" id="mauticform_ajoutalinfolettre_error"></div>
