@@ -8,7 +8,13 @@ bg_image: /images/backgrounds/landing-bg.jpg
 aliases:
 - /en/
 - /fr/
+
+alert: "COVID-19: L’événement est reporté au **12 septembre 2021**. Les personnes inscrites recevront des instructions par courriel."
 ---
+
+{{< alert "alert-danger" >}}
+COVID-19: L’événement est reporté au **12 septembre 2021**. Les personnes inscrites recevront des instructions par courriel.
+{{< /alert >}}
 
 ## À propos de l’événement
 

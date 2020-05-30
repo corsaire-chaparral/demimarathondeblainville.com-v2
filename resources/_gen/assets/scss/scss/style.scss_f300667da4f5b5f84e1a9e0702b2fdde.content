@@ -7991,7 +7991,7 @@ textarea.form-control {
   text-transform: uppercase;
   font-weight: 600;
   color: inherit;
-  padding: 4vw 2vw; }
+  padding: 3vw 4vw; }
 
 .navbar-light .navbar-nav .nav-link {
   color: #fff; }
@@ -8108,12 +8108,7 @@ textarea.form-control {
       .landing-section__title {
         font-size: 7.5vw; } }
   .landing-section__subtitle {
-    font-family: "ATC Harris", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-    font-size: 1.25rem;
-    color: #80FFF7; }
-    @media (min-width: 768px) {
-      .landing-section__subtitle {
-        font-size: 1.75rem; } }
+    font-family: "ATC Harris", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
   @media (min-width: 768px) {
     .landing-section__cta-collection {
       font-size: 1.125rem; } }

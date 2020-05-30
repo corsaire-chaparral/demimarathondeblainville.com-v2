@@ -8,11 +8,17 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : ""
 ---
 
+{{< alert "alert-danger" >}}
+COVID-19: L’événement est reporté au **12 septembre 2021**. Les personnes inscrites recevront des instructions par courriel.
+{{< /alert >}}
+
 ## Inscription
 
-La date limite d’inscription est fixée au **vendredi 11 septembre 2020 à minuit**.
+~~La date limite d’inscription est fixée au **vendredi 11 septembre 2020 à minuit**.~~
 
-<a href="/inscription/" class="btn btn-secondary text-decoration-none text-uppercase">Inscription &rarr;</a>
+**&rarr; Les inscriptions sont annulées en raison du report de l’événement à l’année 2021.**
+
+<!--<a href="/inscription/" class="btn btn-secondary text-decoration-none text-uppercase">Inscription &rarr;</a>-->
 
 ## Dossard
 

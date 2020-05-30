@@ -56,12 +56,14 @@
         {{- end -}}
         {{- end -}}
 
+        {{- if .Params.enableInscription }}
         <li class="nav-item nav-item-cta">
           <a class="nav-link" href="{{ "/inscription" | relLangURL }}">
             Inscription
             <sup class="snipcart-summary"><span class="snipcart-total-items"></span></sup>
           </a>
         </li>
+        {{ end -}}
       </ul>
 
       <!-- Language List -->

@@ -24,11 +24,11 @@
   
   &__subtitle {
     font-family: $font-family-monospace;
-    font-size: 1.25rem;
+//    font-size: 1.25rem;
     @include media-breakpoint-up(md) {
-      font-size: 1.75rem;
+//      font-size: 1.75rem;
     }
-    color: theme-color('quaternary');
+//    color: theme-color('quaternary');
   }
   
   &__cta-collection {

@@ -4,13 +4,14 @@
 {{ define "main" -}}
 
 {{ $data := index .Site.Data .Site.Language.Lang -}}
-<section class="landing-section d-flex flex-column justify-content-between text-white" style="background-image: url('{{ $data.homepage.bg_image | absURL }}')" data-background="{{ .Params.bg_image | absURL }}">
 
+<section class="landing-section d-flex flex-column justify-content-between text-white" style="background-image: url('{{ $data.homepage.bg_image | absURL }}')" data-background="{{ .Params.bg_image | absURL }}">
+  
   {{- partial "header.html" . -}}
   
   <div class="container-fluid px-sm-3 px-lg-5 py-3 py-md-1">
-    <span class="landing-section__subtitle d-block text-uppercase">
-      13 septembre 2020
+    <span class="landing-section__subtitle bg-danger d-block text-uppercase p-1">
+      <del style="opacity: 0.6">13 septembre 2020</del> &rarr; Événement reporté au 12 septembre 2021
     </span>
     <h1 class="landing-section__title pb-2">
       {{- $.Site.Title -}}
