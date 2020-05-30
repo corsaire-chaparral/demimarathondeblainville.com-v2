@@ -4,15 +4,19 @@
 <div class="container">
   <div class="row">
     <div class="col-12">
-  
+      
+      {{ if not .Params.disableRegistration }}
       <a href="#" class="h1 btn btn-link btn-lg px-0 mx-0 snipcart-checkout snipcart-summary">
         Voir le panier (<span class="snipcart-total-items"></span>)
       </a>
+      {{ end }}
 
       {{- .Content -}}
     </div>
   </div>
 </div>
+
+{{ if not .Params.disableRegistration }}
 
 <div class="container events-list-container mb-5">
   
@@ -90,5 +94,6 @@
   <hr class="my-2 my-sm-1">
   {{ end }}
 </div>
+{{ end }}
 
 {{ end }}
