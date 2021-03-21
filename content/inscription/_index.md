@@ -2,19 +2,23 @@
 title: Inscription
 bg_image: "images/backgrounds/page-bg-5.jpg"
 
-disableRegistration: true
+#disableRegistration: true
 ---
 
-{{< alert "alert-danger" >}}
-COVID-19: L’événement est reporté au **12 septembre 2021**. Les personnes inscrites recevront des instructions par courriel.
-{{< /alert >}}
+## <span class="badge badge-primary">Édition 2021</span> Les inscriptions pour l’édition du 12 septembre 2021 sont désormais ouvertes!
 
+Bien que le comité souhaite tenir des courses sur l’ensemble des distances, **il est possible que seules deux distances se déroulent en personne**, selon les normes sanitaires énoncées par le gouvernement.
 
-{{< alert "alert-dark" >}}
-#### Note
+En cas d’annulation de votre distance, **3 choix s’offrent à vous :**
 
-En s’inscrivant, chaque participant·e accepte les [termes et conditions de l’événement](/files/renonciation.pdf).
-{{< /alert >}}
+1. **Obtenir un remboursement complet.** (Vous devrez vous réinscrire l’année prochaine.)
+2. **Transférer** votre inscription à l’année prochaine, au tarif préférentiel.
+3. **Convertir** 100% du montant de votre inscription en don aux organismes soutenus par l’événement.
 
-\*Les inscriptions ne seront pas possibles le jour de la course.
+À moins d’avis contraire, les inscriptions seront automatiquement transférées à l’anné prochaine.
+
+Dans le cas où le nombre d’inscriptions doit être limité, la participation sera accordée **en priorité** aux premières personnes inscrites, selon le principe de premier arrivé, premier servi.  
+**En cas de doute, inscrivez-vous le plus tôt possible afin de réserver votre place!**
+
+\*Note importante : les inscriptions ne seront pas possibles le jour de la course.
 

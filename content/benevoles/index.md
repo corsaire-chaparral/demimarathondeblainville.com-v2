@@ -6,16 +6,12 @@ bg_image: "images/backgrounds/page-bg-2.jpg"
 description : ""
 ---
 
-{{< alert "alert-danger" >}}
-COVID-19: L’événement est reporté au **12 septembre 2021**. Les personnes inscrites recevront des instructions par courriel.
-{{< /alert >}}
-
 ## Inscription des bénévoles
 
-Inscrivez-vous via le formulaire ci-dessous!
+Le formulaire d’inscription comme bénévole sera disponible sous peu.
 
----
+<!-- --- -->
 
 <script type="text/javascript" src="//campagnes.demimarathondeblainville.com/form/generate.js?id=10"></script>
 
----
+<!-- --- -->

@@ -5,6 +5,10 @@
     <a href="{{ .Permalink }}" title="Cliquez pour voir l’image en pleine résolution">
       <img src="{{ .Permalink }}" alt="{{ .Title }}" class="img-fluid" />
     </a>
+
+    <figcaption>
+      Cliquez sur la carte pour voir l’image en haute résolution
+    </figcaption>
   </figure>
   {{- end -}}
   {{- with (.Resources.ByType "pdf") -}}

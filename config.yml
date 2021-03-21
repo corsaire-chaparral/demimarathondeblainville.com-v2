@@ -28,8 +28,9 @@ disableLanguages: [en] # desable language from here
 
 params:
   bg_image: /images/backgrounds/landing-bg.jpg
-  
-  enableInscription: false
+
+  # Enable 'Inscription' section
+  enableInscription: true
 
   # logo which goes in the navbar
   logo: /images/logo-navbar.png
@@ -59,8 +60,6 @@ params:
   # snipcart
   snipcart:
     publicApiKey: "MGI1OGExOGUtMjU4Yi00MGI4LTljM2EtYTcyNjhlYjA0YzEzNjM3MTg1MDE1OTA0NTUyODE3"
-    styleUrl: "https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css"
-    scriptUrl: "https://cdn.snipcart.com/scripts/2.0/snipcart.js"
 
   # contact info
   address: >
@@ -207,7 +206,7 @@ Languages:
     weight: 1
     home: "Home"
     # copyright
-    copyright: "&copy; 2020 Le Demi-Marathon de Blainville"
+    copyright: "&copy; 2021 Le Demi-Marathon de Blainville"
   ################################### French language #####################################
   fr:
     languageName: "Fr"
@@ -215,4 +214,4 @@ Languages:
     weight: 2
     home: "Accueil"
     # copyright
-    copyright: "&copy; 2020 Le Demi-Marathon de Blainville"
+    copyright: "&copy; 2021 Le Demi-Marathon de Blainville"

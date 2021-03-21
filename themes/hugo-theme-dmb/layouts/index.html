@@ -10,8 +10,8 @@
   {{- partial "header.html" . -}}
   
   <div class="container-fluid px-sm-3 px-lg-5 py-3 py-md-1">
-    <span class="landing-section__subtitle bg-danger d-block text-uppercase p-1">
-      <del style="opacity: 0.6">13 septembre 2020</del> &rarr; Événement reporté au 12 septembre 2021
+    <span class="landing-section__subtitle d-block text-uppercase p-1">
+      Dimanche 12 septembre 2021
     </span>
     <h1 class="landing-section__title pb-2">
       {{- $.Site.Title -}}
@@ -29,19 +29,6 @@
   {{- end -}}
 </section>
 
-
-<section class="full-section image-section" style="background-image: url({{ "/images/backgrounds/landing-bg-3.jpg" | relURL }})">
-  <div class="container-fluid">
-    <div class="row">
-    <div class="col-12 p-0">
-      {{/*
-      <img class="img-fluid" src="/images/backgrounds/page-title.jpg" />
-      */}}
-    </div>
-    </div>
-  </div>
-</section>
-
 <section class="bg-white">
   <div class="container py-4 px-lg-1">
     <div class="row">
@@ -52,15 +39,27 @@
   </div>
 </section>
 
-<section class="full-section image-section" style="background-image: url({{ "/images/backgrounds/landing-bg-2.jpg" | relURL }})">
-  <div class="container-fluid">
-    <div class="row">
+<section class="full-section image-section" style="background-image: url({{ "/images/backgrounds/landing-bg-3.jpg" | relURL }})">
+<div class="container-fluid">
+  <div class="row">
     <div class="col-12 p-0">
-<!--      <img class="img-fluid" src="/images/backgrounds/page-title.jpg" />-->
-    </div>
+      {{/*
+      <img class="img-fluid" src="/images/backgrounds/page-title.jpg" />
+      */}}
     </div>
   </div>
+</div>
 </section>
+
+<!--<section class="full-section image-section" style="background-image: url({{ "/images/backgrounds/landing-bg-2.jpg" | relURL }})">-->
+<!--  <div class="container-fluid">-->
+<!--    <div class="row">-->
+<!--    <div class="col-12 p-0">-->
+<!--&lt;!&ndash;      <img class="img-fluid" src="/images/backgrounds/page-title.jpg" />&ndash;&gt;-->
+<!--    </div>-->
+<!--    </div>-->
+<!--  </div>-->
+<!--</section>-->
 
 <section class="py-5 py-md-3">
   <div class="container-fluid no-gutter">
