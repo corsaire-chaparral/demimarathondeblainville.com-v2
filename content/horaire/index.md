@@ -36,6 +36,7 @@ Enfin, nous tenons à vous rappeler que le port du dossard **à l’avant** et *
 
 ## Catégories d’âge
 <div class="row">
+<!--
   <div class="col-12 col-sm-4">
     <h4>1 km</h4>
     <ul class="list">
@@ -56,6 +57,7 @@ Enfin, nous tenons à vous rappeler que le port du dossard **à l’avant** et *
       <li>40 ans et plus</li>
     </ul>
   </div>
+-->
   <div class="col-12 col-sm-4">
     <h4>5 km</h4>
     <ul class="list">

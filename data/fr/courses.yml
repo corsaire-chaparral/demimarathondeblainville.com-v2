@@ -3,42 +3,42 @@
   title: "21,1 km"
   description: "Le Demi-Marathon, parcours certifié."
   fee: 70.00
-  heure: "2021-09-12 08:10:00 -0600"
+  heure: "2021-09-12 08:10:00 -0400"
 
 - 
   id: 10km-2021
   title: "10 km"
   description: ""
   fee: 50.00
-  heure: "2021-09-12 07:45:00 -0600"
+  heure: "2021-09-12 07:45:00 -0400"
 
 - 
   id: 5km-course-2021
   title: "5 km course"
   description: ""
   fee: 40.00
-  heure: "2021-09-12 10:40:00 -0600"
+  heure: "2021-09-12 10:40:00 -0400"
 
 - 
   id: 5km-marche-2021
   title: "5 km marche"
   description: "Départ après le 5km course"
   fee: 40.00
-  heure: "2021-09-12 10:45:00 -0600"
+  heure: "2021-09-12 10:45:00 -0400"
 
-- 
-  id: 2km-2021
-  title: "2 km"
-  description: ""
-  fee: 20.00
-  heure: "2021-09-12 11:50:00 -0600"
+#-
+#  id: 2km-2021
+#  title: "2 km"
+#  description: ""
+#  fee: 20.00
+#  heure: "2021-09-12 11:50:00 -0400"
 
-- 
-  id: 1km-2021
-  title: "1 km"
-  description: ""
-  fee: 15.00
-  heure: "2021-09-12 12:15:00 -0600"
+#-
+#  id: 1km-2021
+#  title: "1 km"
+#  description: ""
+#  fee: 15.00
+#  heure: "2021-09-12 12:15:00 -0400"
 
 - 
   id: 3km-marche-athletique-2021
@@ -46,11 +46,11 @@
   description: "Épreuve réservée aux marcheurs avec affiliation"
   fee: 40.00
   affiliation: true
-  heure: "2021-09-12 12:20:00 -0600"
+  heure: "2021-09-12 12:20:00 -0400"
 -
-  id: 10km-marche-athletique-2021
-  title: "10 km marche athlétique"
+  id: 5km-marche-athletique-2021
+  title: "5 km marche athlétique"
   description: "Épreuve réservée aux marcheurs avec affiliation"
   fee: 60.00
   affiliation: true
-  heure: "2021-09-12 12:20:00 -0600"
+  heure: "2021-09-12 12:20:00 -0400"

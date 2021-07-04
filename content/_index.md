@@ -30,15 +30,27 @@ Dans le cas où le nombre d’inscriptions doit être limité, la participation 
 
 À l’écoute des coureurs, le Demi-marathon de Blainville présenté par Via Capitale revient pour sa 5<sup>e</sup> édition (prise 2, confinement oblige!) avec plusieurs améliorations et nouveautés!
 
-En plus d’offrir de magnifiques parcours de 1 km et 2 km pour les enfants et de 5 km, 10 km et 21 km pour les coureurs de tous les niveaux, de nombreux services seront disponibles : chronométrage par puce, points d’eau sur le parcours, équipe de premiers soins, parcours sécurisés, marquage au km, collation après la course, animation pour les plus petits, plusieurs kiosques de promotion et de nombreux bénévoles pour assurer la réussite de l’événement!
+En plus d’offrir de magnifiques parcours de 5 km, 10 km et 21 km pour les coureurs de tous les niveaux ainsi que (nouveau!) deux épreuves de **marche athlétique**, de nombreux services seront disponibles (certains en attente en raison des mesures sanitaires) : chronométrage par puce, points d’eau sur le parcours, équipe de premiers soins, parcours sécurisés, marquage au km et de nombreux bénévoles pour assurer la réussite de l’événement!
 
 ## Les épreuves
 
-- Course de 5 km, 10 km et 21km
+{{< alert "alert-tertiary" >}}
+
+#### Attention!
+
+En raison des normes sanitaires en vigueur, limitation des inscriptions à **500 participant·e·s au total**.
+
+{{< /alert >}}
+
+- Courses de 5 km, 10 km et 21km
 - Marche de 5 km
-- Course de 2 km
-- Course de 1 km
-- <span class="badge badge-primary text-uppercase small d-inline">nouveau!</span> 10 km marche athlétique
+- ~~Course de 2 km~~ **Épreuve annulée**
+- ~~Course de 1 km~~ **Épreuve annulée**
+- <span class="badge badge-primary text-uppercase small d-inline">nouveau!</span> 3 km et 5 km marche athlétique
+
+<a href="/inscription/" class="btn btn-secondary btn-block">Inscription</a>
+
+---
 
 ## Au profit de l’organisme Centre sportif Blainville
 
