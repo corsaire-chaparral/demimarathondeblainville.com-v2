@@ -27,7 +27,7 @@ Dans le cas où le nombre d’inscriptions doit être limité, la participation 
 
 #### Attention!
 
-En raison des normes sanitaires en vigueur, limitation des inscriptions à **500 participant·e·s au total**.
+Afin d’offrir une expérience plus sécuritaire, limitation des inscriptions à **500 participant·e·s au total**.
 
 Avec l’évolution de la situation sanitaire, ce nombre pourrait être appelé à changer.
 La participation sera accordée en priorité aux premières personnes inscrites, selon du principe de premier arrivé, premier servi.
@@ -36,3 +36,8 @@ La participation sera accordée en priorité aux premières personnes inscrites,
 
 \*Note importante : les inscriptions ne seront pas possibles le jour de la course.
 
+## Nouveauté : épreuves de marche athlétique
+
+La tenue de **deux épreuves de marche athlétique** sur un parcours sanctionné par athlétisme Canada est une présentation de Décathlon, partenaire du Demi-Marathon de Blainville.
+
+![Logo Décathlon](/images/commanditaires/logo-decathlon.jpg)

@@ -32,13 +32,15 @@ Dans le cas où le nombre d’inscriptions doit être limité, la participation 
 
 En plus d’offrir de magnifiques parcours de 5 km, 10 km et 21 km pour les coureurs de tous les niveaux ainsi que (nouveau!) deux épreuves de **marche athlétique**, de nombreux services seront disponibles (certains en attente en raison des mesures sanitaires) : chronométrage par puce, points d’eau sur le parcours, équipe de premiers soins, parcours sécurisés, marquage au km et de nombreux bénévoles pour assurer la réussite de l’événement!
 
+Cet événement est sanctionné par la [Fédération québécoise d’athlétisme](https://athletisme-quebec.ca/).
+
 ## Les épreuves
 
 {{< alert "alert-tertiary" >}}
 
 #### Attention!
 
-En raison des normes sanitaires en vigueur, limitation des inscriptions à **500 participant·e·s au total**.
+Afin d’offrir une expérience plus sécuritaire, limitation des inscriptions à **500 participant·e·s au total**.
 
 {{< /alert >}}
 
@@ -46,7 +48,7 @@ En raison des normes sanitaires en vigueur, limitation des inscriptions à **500
 - Marche de 5 km
 - ~~Course de 2 km~~ **Épreuve annulée**
 - ~~Course de 1 km~~ **Épreuve annulée**
-- <span class="badge badge-primary text-uppercase small d-inline">nouveau!</span> 3 km et 5 km marche athlétique
+- <span class="badge badge-primary text-uppercase small d-inline">nouveau!</span> 3 km et 5 km marche athlétique (présenté par Décathlon)
 
 <a href="/inscription/" class="btn btn-secondary btn-block">Inscription</a>
 
