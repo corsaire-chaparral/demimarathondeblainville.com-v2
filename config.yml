@@ -55,7 +55,7 @@ params:
     - link: "lib/venobox/venobox.min.js"
     - link: "lib/filterizr/jquery.filterizr.min.js"
     - link: "lib/scrolldir/dist/scrolldir.min.js"
-    - link: "lib/scrollama/dist/scrollama.min.js"
+    - link: "lib/scrollama/build/scrollama.min.js"
 
   # snipcart
   snipcart:

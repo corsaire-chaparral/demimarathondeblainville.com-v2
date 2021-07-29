@@ -8140,7 +8140,7 @@ textarea.form-control {
 
 .footer-box {
   margin-top: -12vw;
-  z-index: 1021; }
+  z-index: 10; }
 
 .snipcart .snipcart-layout {
   padding-top: 128px;

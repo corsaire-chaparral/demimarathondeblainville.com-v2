@@ -19,14 +19,7 @@ Réservez votre place le plus tôt possible afin d’assurer votre participation
 ## Dossard
 
 
-Récupération du dossard le samedi 12 septembre au parc équestre de 10h à 16h.
-
-{{% alert %}}
-
-En raison du contexte sanitaire, le comité étudie la possibilité d’effectuer l’envoi des dossards **par la poste**.
-D’autres informations suivront.
-
-{{% /alert %}}
+Récupération du dossard le samedi 11 septembre au parc équestre de 10h à 16h ainsi que le matin même de l’événement.
 
 Enfin, nous tenons à vous rappeler que le port du dossard **à l’avant** et **par-dessus toute pièce de vêtement** est obligatoire pendant votre course.
 

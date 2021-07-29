@@ -46,7 +46,7 @@
     nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'ti-angle-right\'></i></button>',
     dots: true
   });
-  $('.hero-slider').slickAnimation();
+  // $('.hero-slider').slickAnimation();
 
   // venobox popup
   $(document).ready(function () {

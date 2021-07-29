@@ -12,17 +12,6 @@ aliases:
 alert: "COVID-19: L’événement est reporté au **12 septembre 2021**. Les personnes inscrites recevront des instructions par courriel."
 ---
 
-{{< alert "alert-tertiary" >}}
-
-## COVID-19
-L’événement se tiendra le dimanche 12 septembre 2021. Le comité organisateur étudie les différents scénarios en fonction des mesures de la santé publique.
-Dans le cas où le nombre d’inscriptions doit être limité, la participation sera accordée en priorité aux premières personnes inscrites, selon le principe de premier arrivé, premier servi.
-
-**En cas de doute, inscrivez-vous le plus tôt possible afin de réserver votre place!**
-
-{{< /alert >}}
-
-<a class="btn btn-block btn-secondary my-2" href="/inscription">Je m’inscris</a>
 
 ## À propos de l’événement
 
@@ -36,21 +25,25 @@ Cet événement est sanctionné par la [Fédération québécoise d’athlétism
 
 ## Les épreuves
 
+
 {{< alert "alert-tertiary" >}}
 
 #### Attention!
+
 
 Afin d’offrir une expérience plus sécuritaire, limitation des inscriptions à **500 participant·e·s au total**.
 
 {{< /alert >}}
 
+
 - Courses de 5 km, 10 km et 21km
-- Marche de 5 km
+- Marche urbiane de 5 km
 - ~~Course de 2 km~~ **Épreuve annulée**
 - ~~Course de 1 km~~ **Épreuve annulée**
 - <span class="badge badge-primary text-uppercase small d-inline">nouveau!</span> 3 km et 5 km marche athlétique (présenté par Décathlon)
 
-<a href="/inscription/" class="btn btn-secondary btn-block">Inscription</a>
+<a class="btn btn-block btn-secondary my-2" href="/inscription">Je m’inscris</a>
+
 
 ---
 
