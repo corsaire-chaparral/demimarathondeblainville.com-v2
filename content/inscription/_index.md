@@ -22,7 +22,13 @@ La participation sera accordée en priorité aux premières personnes inscrites,
 
 ## Nouveauté : épreuves de marche athlétique
 
-La tenue de **deux épreuves de marche athlétique** sur un parcours sanctionné par athlétisme Canada est une présentation de Décathlon, partenaire du Demi-Marathon de Blainville.
+Ajout **deux épreuves de marche athlétique** sur un parcours sanctionné par athlétisme Canada.
+
+Le 5 km marche athlétique fera office de championnat canadien de marche chez les vétérans.
+
+![Canadian masters athletics - Vétérans canadiens en athlétisme](/images/cma-logo.jpg)
+
+La marche athlétique est une présentation de Décathlon, partenaire du Demi-Marathon de Blainville.
 
 ![Logo Décathlon](/images/commanditaires/logo-decathlon.jpg)
 
