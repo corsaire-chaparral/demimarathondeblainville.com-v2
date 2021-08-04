@@ -1448,8 +1448,8 @@ pre {
 .form-control {
   display: block;
   width: 100%;
-  height: calc(1.62em + 3.5rem + 4px);
-  padding: 1.75rem 1.5rem;
+  height: calc(1.62em + 2.5rem + 4px);
+  padding: 1.25rem 1.35rem;
   font-family: "ATC Harris", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size: 1.125rem;
   font-weight: 400;
@@ -1492,8 +1492,8 @@ select.form-control:focus::-ms-value {
   width: 100%; }
 
 .col-form-label {
-  padding-top: calc(1.75rem + 2px);
-  padding-bottom: calc(1.75rem + 2px);
+  padding-top: calc(1.25rem + 2px);
+  padding-bottom: calc(1.25rem + 2px);
   margin-bottom: 0;
   font-size: inherit;
   line-height: 1.62; }
@@ -1513,7 +1513,7 @@ select.form-control:focus::-ms-value {
 .form-control-plaintext {
   display: block;
   width: 100%;
-  padding: 1.75rem 0;
+  padding: 1.25rem 0;
   margin-bottom: 0;
   font-size: 1.125rem;
   line-height: 1.62;
@@ -1617,23 +1617,23 @@ textarea.form-control {
 
 .was-validated .form-control:valid, .form-control.is-valid {
   border-color: #ff6900;
-  padding-right: calc(1.62em + 3.5rem);
+  padding-right: calc(1.62em + 2.5rem);
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath fill='%23ff6900' d='M2.3 6.73L.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e");
   background-repeat: no-repeat;
-  background-position: right calc(0.405em + 0.875rem) center;
-  background-size: calc(0.81em + 1.75rem) calc(0.81em + 1.75rem); }
+  background-position: right calc(0.405em + 0.625rem) center;
+  background-size: calc(0.81em + 1.25rem) calc(0.81em + 1.25rem); }
   .was-validated .form-control:valid:focus, .form-control.is-valid:focus {
     border-color: #ff6900;
     box-shadow: 0 0 0 0.2rem rgba(255, 105, 0, 0.25); }
 
 .was-validated textarea.form-control:valid, textarea.form-control.is-valid {
-  padding-right: calc(1.62em + 3.5rem);
-  background-position: top calc(0.405em + 0.875rem) right calc(0.405em + 0.875rem); }
+  padding-right: calc(1.62em + 2.5rem);
+  background-position: top calc(0.405em + 0.625rem) right calc(0.405em + 0.625rem); }
 
 .was-validated .custom-select:valid, .custom-select.is-valid {
   border-color: #ff6900;
-  padding-right: calc(0.75em + 5.125rem);
-  background: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='4' height='5' viewBox='0 0 4 5'%3e%3cpath fill='%23384338' d='M2 0L0 2h4zm0 5L0 3h4z'/%3e%3c/svg%3e") no-repeat right 1.5rem center/8px 10px, url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath fill='%23ff6900' d='M2.3 6.73L.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e") #fff no-repeat center right 2.5rem/calc(0.81em + 1.75rem) calc(0.81em + 1.75rem); }
+  padding-right: calc(0.75em + 4.225rem);
+  background: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='4' height='5' viewBox='0 0 4 5'%3e%3cpath fill='%23384338' d='M2 0L0 2h4zm0 5L0 3h4z'/%3e%3c/svg%3e") no-repeat right 1.35rem center/8px 10px, url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath fill='%23ff6900' d='M2.3 6.73L.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e") #fff no-repeat center right 2.35rem/calc(0.81em + 1.25rem) calc(0.81em + 1.25rem); }
   .was-validated .custom-select:valid:focus, .custom-select.is-valid:focus {
     border-color: #ff6900;
     box-shadow: 0 0 0 0.2rem rgba(255, 105, 0, 0.25); }
@@ -1697,23 +1697,23 @@ textarea.form-control {
 
 .was-validated .form-control:invalid, .form-control.is-invalid {
   border-color: #dc3545;
-  padding-right: calc(1.62em + 3.5rem);
+  padding-right: calc(1.62em + 2.5rem);
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='none' stroke='%23dc3545' viewBox='0 0 12 12'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23dc3545' stroke='none'/%3e%3c/svg%3e");
   background-repeat: no-repeat;
-  background-position: right calc(0.405em + 0.875rem) center;
-  background-size: calc(0.81em + 1.75rem) calc(0.81em + 1.75rem); }
+  background-position: right calc(0.405em + 0.625rem) center;
+  background-size: calc(0.81em + 1.25rem) calc(0.81em + 1.25rem); }
   .was-validated .form-control:invalid:focus, .form-control.is-invalid:focus {
     border-color: #dc3545;
     box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25); }
 
 .was-validated textarea.form-control:invalid, textarea.form-control.is-invalid {
-  padding-right: calc(1.62em + 3.5rem);
-  background-position: top calc(0.405em + 0.875rem) right calc(0.405em + 0.875rem); }
+  padding-right: calc(1.62em + 2.5rem);
+  background-position: top calc(0.405em + 0.625rem) right calc(0.405em + 0.625rem); }
 
 .was-validated .custom-select:invalid, .custom-select.is-invalid {
   border-color: #dc3545;
-  padding-right: calc(0.75em + 5.125rem);
-  background: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='4' height='5' viewBox='0 0 4 5'%3e%3cpath fill='%23384338' d='M2 0L0 2h4zm0 5L0 3h4z'/%3e%3c/svg%3e") no-repeat right 1.5rem center/8px 10px, url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='none' stroke='%23dc3545' viewBox='0 0 12 12'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23dc3545' stroke='none'/%3e%3c/svg%3e") #fff no-repeat center right 2.5rem/calc(0.81em + 1.75rem) calc(0.81em + 1.75rem); }
+  padding-right: calc(0.75em + 4.225rem);
+  background: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='4' height='5' viewBox='0 0 4 5'%3e%3cpath fill='%23384338' d='M2 0L0 2h4zm0 5L0 3h4z'/%3e%3c/svg%3e") no-repeat right 1.35rem center/8px 10px, url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='none' stroke='%23dc3545' viewBox='0 0 12 12'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23dc3545' stroke='none'/%3e%3c/svg%3e") #fff no-repeat center right 2.35rem/calc(0.81em + 1.25rem) calc(0.81em + 1.25rem); }
   .was-validated .custom-select:invalid:focus, .custom-select.is-invalid:focus {
     border-color: #dc3545;
     box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25); }
@@ -1806,7 +1806,7 @@ textarea.form-control {
   user-select: none;
   background-color: transparent;
   border: 1px solid transparent;
-  padding: 1.7rem 1.5rem;
+  padding: 1.25rem 1.35rem;
   font-size: 1.125rem;
   line-height: 1.62;
   border-radius: 0;
@@ -2795,8 +2795,8 @@ input.btn-block[type="button"] {
   border-bottom-left-radius: 0; }
 
 .dropdown-toggle-split {
-  padding-right: 1.125rem;
-  padding-left: 1.125rem; }
+  padding-right: 1.0125rem;
+  padding-left: 1.0125rem; }
   .dropdown-toggle-split::after, .dropup .dropdown-toggle-split::after, .dropright .dropdown-toggle-split::after {
     margin-left: 0; }
   .dropleft .dropdown-toggle-split::before {
@@ -2920,7 +2920,7 @@ input.btn-block[type="button"] {
 .input-group-text {
   display: flex;
   align-items: center;
-  padding: 1.75rem 1.5rem;
+  padding: 1.25rem 1.35rem;
   margin-bottom: 0;
   font-size: 1.125rem;
   font-weight: 400;
@@ -2967,7 +2967,7 @@ input.btn-block[type="button"] {
 
 .input-group-lg > .custom-select,
 .input-group-sm > .custom-select {
-  padding-right: 2.5rem; }
+  padding-right: 2.35rem; }
 
 .input-group > .input-group-prepend > .btn,
 .input-group > .input-group-prepend > .input-group-text,
@@ -3101,15 +3101,15 @@ input.btn-block[type="button"] {
 .custom-select {
   display: inline-block;
   width: 100%;
-  height: calc(1.62em + 3.5rem + 4px);
-  padding: 1.75rem 2.5rem 1.75rem 1.5rem;
+  height: calc(1.62em + 2.5rem + 4px);
+  padding: 1.25rem 2.35rem 1.25rem 1.35rem;
   font-family: "ATC Harris", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.62;
   color: #212721;
   vertical-align: middle;
-  background: #fff url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='4' height='5' viewBox='0 0 4 5'%3e%3cpath fill='%23384338' d='M2 0L0 2h4zm0 5L0 3h4z'/%3e%3c/svg%3e") no-repeat right 1.5rem center/8px 10px;
+  background: #fff url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='4' height='5' viewBox='0 0 4 5'%3e%3cpath fill='%23384338' d='M2 0L0 2h4zm0 5L0 3h4z'/%3e%3c/svg%3e") no-repeat right 1.35rem center/8px 10px;
   border: 2px solid #d3dad3;
   border-radius: 0;
   appearance: none; }
@@ -3122,7 +3122,7 @@ input.btn-block[type="button"] {
       background-color: #fff; }
   .custom-select[multiple], .custom-select[size]:not([size="1"]) {
     height: auto;
-    padding-right: 1.5rem;
+    padding-right: 1.35rem;
     background-image: none; }
   .custom-select:disabled {
     color: #677a67;
@@ -3151,14 +3151,14 @@ input.btn-block[type="button"] {
   position: relative;
   display: inline-block;
   width: 100%;
-  height: calc(1.62em + 3.5rem + 4px);
+  height: calc(1.62em + 2.5rem + 4px);
   margin-bottom: 0; }
 
 .custom-file-input {
   position: relative;
   z-index: 2;
   width: 100%;
-  height: calc(1.62em + 3.5rem + 4px);
+  height: calc(1.62em + 2.5rem + 4px);
   margin: 0;
   opacity: 0; }
   .custom-file-input:focus ~ .custom-file-label {
@@ -3177,8 +3177,8 @@ input.btn-block[type="button"] {
   right: 0;
   left: 0;
   z-index: 1;
-  height: calc(1.62em + 3.5rem + 4px);
-  padding: 1.75rem 1.5rem;
+  height: calc(1.62em + 2.5rem + 4px);
+  padding: 1.25rem 1.35rem;
   font-family: "ATC Harris", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-weight: 400;
   line-height: 1.62;
@@ -3193,8 +3193,8 @@ input.btn-block[type="button"] {
     bottom: 0;
     z-index: 3;
     display: block;
-    height: calc(1.62em + 3.5rem);
-    padding: 1.75rem 1.5rem;
+    height: calc(1.62em + 2.5rem);
+    padding: 1.25rem 1.35rem;
     line-height: 1.62;
     color: #212721;
     content: "Browse";
