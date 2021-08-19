@@ -139,9 +139,13 @@ menu:
     URL: "/resultats/"
     weight: 13
   - parent: "Info"
+    name: "Marche CMA"
+    URL: "championnat-canadien-masters"
+    weight: 14
+  - parent: "Info"
     name: "Nous joindre"
     URL: "contact"
-    weight: 14
+    weight: 15
 
   # Parcours
   - weight: 20
