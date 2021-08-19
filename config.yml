@@ -18,7 +18,7 @@ markup:
 
 ######################## default configuration ####################
 # post pagination
-paginate: "6"
+paginate: "99"
 # post excerpt
 summaryLength: "10"
 # disqus short name
