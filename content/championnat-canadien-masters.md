@@ -9,14 +9,14 @@ description: Championnat canadien vétéran de 5 km marche athlétique.
 
 **Responsable du volet marche** : [Michel Parent](mailto:michelparent2404@gmail.com)
 
-**Sanction** :
-- Fédération québécoise d’athlétisme
-- Canadian Masters Athletics / Vétérans canadiens en athlétisme
+**Organismes responsables** :
+- [Fédération québécoise d’athlétisme](https://athletisme-quebec.ca/)
+- [Canadian Masters Athletics / Vétérans canadiens en athlétisme](https://canadianmasters.ca/)
 
 **Distance du championnat** : 5 km marche athlétique  
 <small>(un 3 km marche athlétique est également offert)</small>
 
-**Carte du parcours** : *(à venir)*
+[**Carte du parcours**](/parcours/5-km-marche-athletique/) (boucle de 1 km)
 
 ---
 

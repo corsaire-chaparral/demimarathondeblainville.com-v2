@@ -172,6 +172,15 @@ menu:
     name: "1 km"
     URL: "/parcours/1-km/"
     weight: 5
+  - parent: "Parcours"
+    name: "3 km marche athlétique"
+    URL: "/parcours/3-km-marche-athletique/"
+    weight: 6
+  - parent: "Parcours"
+    name: "5 km marche athlétique"
+    URL: "/parcours/5-km-marche-athletique/"
+    weight: 6
+
 
   - name: "Bénévoles"
     URL: "benevoles"
