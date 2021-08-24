@@ -1,16 +1,17 @@
 ---
 title: Championnat canadien des maîtres, marche athlétique
 description: Championnat canadien vétéran de 5 km marche athlétique.
-#url: /championnat-canadien-masters/
 ---
 
 ## Informations générales (*general info*)
 
 ![Canadian masters athletics - Vétérans canadiens en athlétisme](/images/cma-logo.jpg)
 
-**Responsable du volet marche** : Michel Parent
+**Responsable du volet marche** : [Michel Parent](mailto:michelparent2404@gmail.com)
 
-**Sanction** : athlétisme Canada
+**Sanction** :
+- Fédération québécoise d’athlétisme
+- Canadian Masters Athletics / Vétérans canadiens en athlétisme
 
 **Distance du championnat** : 5 km marche athlétique  
 <small>(un 3 km marche athlétique est également offert)</small>
