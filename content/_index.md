@@ -9,9 +9,16 @@ aliases:
 - /en/
 - /fr/
 
-alert: "COVID-19: L’événement est reporté au **12 septembre 2021**. Les personnes inscrites recevront des instructions par courriel."
 ---
 
+{{< alert alert-tertiary >}}
+
+## COVID-19 et passport vaccinal
+Le passeport vaccinal sera requis pour participer à l’événement (2 doses reçues).
+
+[En savoir plus &rarr;](/covid19-passeport-vaccinal/)
+
+{{< /alert >}}
 
 ## À propos de l’événement
 
