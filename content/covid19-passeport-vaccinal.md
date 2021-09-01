@@ -32,7 +32,7 @@ Le passeport vaccinal sera **requis** pour les activités suivantes :
 Le passeport vaccinal est **requis** pour participer à cet événement.
 Vous devez être « adéquatement protégé », c’est-à-dire avoir reçu 2 doses.
 
-Vous devez être en mesure de présenter une preuve de vaccination complète (2 doses), soit à l’aide du code QR fourni par le gouvernement (imprimé ou en version numérique, document PDF ou via l’application [VaxiCode](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/deroulement-vaccination-contre-la-covid-19/passeport-de-vaccination-covid-19/aide-pour-vaxicode)).
+Vous devez être en mesure de présenter une preuve de vaccination complète, soit à l’aide du **code QR** fourni par le gouvernement (imprimé ou PDF sur appareil mobile) ou en version numérique, via l’application [VaxiCode](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/deroulement-vaccination-contre-la-covid-19/passeport-de-vaccination-covid-19/aide-pour-vaxicode)).
 
 ## Je ne suis pas adéquatement protégé. Quels sont mes choix?
 
