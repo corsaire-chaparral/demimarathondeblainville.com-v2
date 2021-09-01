@@ -77,8 +77,7 @@ Certains services, comme le goûter d’après-course, pourraient ne pas être o
 🚑 Premiers soins sur place  
 🚧 Parcours sécurisé  
 🏁 Marquage au km  
-<span style="opacity:0.6">🍎 Désaltération et goûter après la course</span> — En attente  
-<span style="opacity:0.6">😃 Animation pour les enfants</span> — En attente  
-<span style="opacity:0.6">✅ Vestiaire gratuit</span> — En attente  
-<span style="opacity:0.6">🏆 Podium pour les 3 premiers chronos de chaque course par catégorie d’âge, homme et femme</span> — En attente
+🍎 Désaltération et goûter  
+🥇 Médaille pour chaque participant·e + baluchon  
+🏆 Podium pour les 3 premiers chronos de chaque course par catégorie d’âge, homme et femme
 
