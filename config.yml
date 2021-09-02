@@ -131,21 +131,25 @@ menu:
     URL: "horaire"
     weight: 11
   - parent: "Info"
+    name: "COVID-19"
+    URL: "covid19-passeport-vaccinal"
+    weight: 12
+  - parent: "Info"
     name: "Commanditaires"
     URL: "commanditaires"
-    weight: 12
+    weight: 13
   - parent: "Info"
     name: "Résultats"
     URL: "/resultats/"
-    weight: 13
+    weight: 14
   - parent: "Info"
     name: "Marche CMA"
     URL: "championnat-canadien-masters"
-    weight: 14
+    weight: 15
   - parent: "Info"
     name: "Nous joindre"
     URL: "contact"
-    weight: 15
+    weight: 16
 
   # Parcours
   - weight: 20

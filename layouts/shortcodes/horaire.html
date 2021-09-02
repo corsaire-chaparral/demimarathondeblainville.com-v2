@@ -14,7 +14,7 @@
     {{- range sort $data.horaire "heure" "asc" -}}
     <tr>
       <td>{{ .heure | dateFormat "15:04" }}</td>
-      <td>{{ .title }}</td>
+      <td>{{ .title | markdownify }}</td>
     </tr>
     {{- end -}}
   </tbody>

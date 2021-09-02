@@ -1,17 +1,22 @@
 - 
   title: "Remise des trousses des coureurs"
   description: ""
-  heure: "2021-09-11 07:00:00 -0400"
+  heure: "2021-09-11 06:30:00 -0400"
+
+-
+  title: "10 km"
+  description: ""
+  heure: "2021-09-12 07:45:00 -0400"
 
 - 
   title: "21,1 km"
   description: "Le Demi-Marathon complet."
   heure: "2021-09-12 08:10:00 -0400"
 
-- 
-  title: "10 km"
-  description: ""
-  heure: "2021-09-12 07:45:00 -0400"
+-
+  title: "3 km et 5 km marche athlétique"
+  description: "Épreuve réservée aux marcheurs avec affiliation"
+  heure: "2021-09-12 09:15:00 -0400"
 
 - 
   title: "5 km course"
@@ -33,7 +38,3 @@
 #  description: ""
 #  heure: "2021-09-12 12:15:00 -0400"
 
-- 
-  title: "3 km et 5 km marche athlétique"
-  description: "Épreuve réservée aux marcheurs avec affiliation"
-  heure: "2021-09-12 12:00:00 -0400"

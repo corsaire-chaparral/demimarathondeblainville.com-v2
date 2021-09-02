@@ -33,3 +33,7 @@ La marche athlétique est une présentation de **Décathlon**, partenaire du Dem
 ## Hébergement (*lodging*)
 
 Hôtel Super 8 St-Jérôme : http://www.super8stjerome.com/
+
+## Catégories
+
+Voir les catégories des *masters* dans la section [horaire](/horaire/).

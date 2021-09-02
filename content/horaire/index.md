@@ -8,18 +8,19 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : ""
 ---
 
-## Inscription
+## Dossard (trousse du coureur)
 
-**Les inscriptions sont ouvertes pour l’édition 2021!**
+Récupération de la trousse du coureur le samedi 11 septembre au parc équestre de **10h à 16h** ainsi que le matin même de l’événement.
 
-Réservez votre place le plus tôt possible afin d’assurer votre participation en priorité.
+{{< alert alert-tertiary >}}
 
-<a href="/inscription/" class="btn btn-secondary text-decoration-none text-uppercase">Je m’inscris &rarr;</a>
+Nous vous invitons **fortement** à venir récupérer les dossards la **veille** de l’événement, soit le samedi 11 septembre, afin d’éviter les temps d’attente et réduire les rassemblements; il sera très difficile de récupérer le dossard le matin même.
 
-## Dossard
+Les coureurs devront présenter une **pièce d'identité** et leur **preuve vaccinale** afin de pouvoir récupérer leur trousse. Voir la page [COVID-19 + passeport vaccinal](/covid19-passeport-vaccinal/)
 
+Le respect des consignes sanitaires sera obligatoire : port du masque à l’intérieur; distanciation de 1 mètre à l’extérieur.
 
-Récupération du dossard le samedi 11 septembre au parc équestre de 10h à 16h ainsi que le matin même de l’événement.
+{{< /alert >}}
 
 Enfin, nous tenons à vous rappeler que le port du dossard **à l’avant** et **par-dessus toute pièce de vêtement** est obligatoire pendant votre course.
 
@@ -92,4 +93,28 @@ Enfin, nous tenons à vous rappeler que le port du dossard **à l’avant** et *
       <li>80 ans et plus</li>
     </ul>
   </div>
+  <div class="col-12 col-sm-4">
+    <h4>Masters (racewalk)</h4>
+    <ul class="list">
+      <li>35-39</li>
+      <li>40-44</li>
+      <li>45-49</li>
+      <li>50-54</li>
+      <li>55-59</li>
+      <li>60-64</li>
+      <li>65-69</li>
+      <li>70-74</li>
+      <li>75-79</li>
+      <li>80-84</li>
+      <li>85 ans et plus</li>
+    </ul>
+  </div>
 </div>
+
+## Inscription
+
+Places limitées!
+Réservez votre place le plus tôt possible afin d’assurer votre participation en priorité - attribution des dossards selon le principe de **premier arrivé, premier servi**.
+
+<a href="/inscription/" class="btn btn-secondary text-decoration-none text-uppercase">Je m’inscris &rarr;</a>
+
