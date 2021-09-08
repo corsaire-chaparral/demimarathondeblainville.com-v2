@@ -30,6 +30,9 @@ En plus d’offrir de magnifiques parcours de 5 km, 10 km et 21 km pour les cour
 
 Cet événement est sanctionné par la [Fédération québécoise d’athlétisme](https://athletisme-quebec.ca/).
 
+![Sanction FQA - Argent](/images/FQA_Sanction-Argent.png)
+![Sanction FQA - COVID](/images/FQA_Sanction_Covid.png)
+
 ## Les épreuves
 
 
@@ -62,14 +65,6 @@ Cet organisme fournit des paniers d’effets scolaires pour les familles blainvi
 ## Services
 
 De nombreux services seront mis à votre disposition afin de rendre votre course agréable et enrichissante.
-
-{{< alert "alert-primary" >}}
-
-#### Note
-
-Certains services, comme le goûter d’après-course, pourraient ne pas être offerts en raison des normes sanitaires.
-
-{{< /alert >}}
 
 ⏱ Chronométrage professionnel par Sportstats  
 🥈 Certification ARGENT par la Fédération québécoise d’athlétisme  
