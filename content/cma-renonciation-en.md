@@ -1,6 +1,12 @@
 ---
 title: "Waiver - Canadian Masters Championships"
+lang: en
 ---
+
+![Canadian masters athletics - Vétérans canadiens en athlétisme](/images/cma-logo.jpg)
+
+## Waiver
+[Version française]({{< ref cma-renonciation-en >}})
 
 By completing my registration, I, the aforementioned participant, waive and release and any all rights and claims for damages I may have against the Canadian Masters Athletics («CMA») and the Club d’athlétisme Corsaire-Chaparral (the «Organizer») and assigns for any and all injuries suffered by me in the Canadian Masters 5 Kilometers Racewalk Championships (the «Championship»).
 

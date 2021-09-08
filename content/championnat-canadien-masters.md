@@ -37,3 +37,9 @@ Hôtel Super 8 St-Jérôme : http://www.super8stjerome.com/
 ## Catégories
 
 Voir les catégories des *masters* dans la section [horaire](/horaire/).
+
+## Décharge (*waiver*)
+
+Tous les athlètes doivent prendre connaissance et adhérer à la [déclaration de renonciation]({{< ref cma-renonciation-fr >}}).
+
+*All participants must consent to the [waiver]({{< ref cma-renonciation-en >}}).*

@@ -2,6 +2,11 @@
 title: "Décharge - Championnat canadien des maîtres"
 ---
 
+![Canadian masters athletics - Vétérans canadiens en athlétisme](/images/cma-logo.jpg)
+
+## Renonciation
+[*English Version*]({{< ref cma-renonciation-en >}})
+
 En complétant mon inscription, je décharge (moi ou l’athlète concerné par la présente inscription), parmi les autres, la Canadian Masters Athletics («CMA») et le Club d’athlétisme Corsaire-Chaparral (l’«Organisateur») ainsi que ses administrateurs de toutes responsabilités civiles reliées à une perte, un dommage ou une blessure que je pourrais subir en raison de ma participation au Championnat canadien de 5 kilomètres marche des vétérans (le «Championnat») et renonce à toute forme de poursuite à l'égard des parties nommées ci-haut.
 
 Je comprends que le paiement de mon inscription est <strong>non remboursable</strong> et non échangeable.
