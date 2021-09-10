@@ -116,5 +116,10 @@ Enfin, nous tenons à vous rappeler que le port du dossard **à l’avant** et *
 Places limitées!
 Réservez votre place le plus tôt possible afin d’assurer votre participation en priorité - attribution des dossards selon le principe de **premier arrivé, premier servi**.
 
+Les inscriptions sont fermées.
+
+<!--
+
 <a href="/inscription/" class="btn btn-secondary text-decoration-none text-uppercase">Je m’inscris &rarr;</a>
 
+-->

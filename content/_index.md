@@ -52,8 +52,11 @@ Afin d’offrir une expérience plus sécuritaire, limitation des inscriptions �
 - ~~Course de 1 km~~ **Épreuve annulée**
 - <span class="badge badge-primary text-uppercase small d-inline">nouveau!</span> 3 km et 5 km marche athlétique (présenté par Décathlon) et [championnat canadien chez les maîtres](championnat-canadien-masters) (5 km)
 
+<!--
+
 <a class="btn btn-block btn-secondary my-2" href="/inscription">Je m’inscris</a>
 
+-->
 
 ---
 
