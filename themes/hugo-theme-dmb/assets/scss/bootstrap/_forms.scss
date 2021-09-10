@@ -341,6 +341,11 @@ textarea.form-control {
   display: block;
 }
 
+.mauticform-message:not(:empty) {
+  color: theme-color("secondary");
+  font-size: 1.33rem;
+}
+
 label {
   @extend .font-weight-bold;
 }

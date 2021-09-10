@@ -1795,6 +1795,10 @@ textarea.form-control {
 .mauticform-helpmessage {
   display: block; }
 
+.mauticform-message:not(:empty) {
+  color: #ff6900;
+  font-size: 1.33rem; }
+
 .btn {
   display: inline-block;
   font-family: "ATC Harris", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
