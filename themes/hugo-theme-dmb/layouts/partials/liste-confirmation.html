@@ -1,0 +1,21 @@
+<ul>
+  {{ range $.Site.Data.fr.inscriptions2021 }}
+  <li>{{ .prenom }} {{ .nomDeFamille | upper }} ({{ .anneeDeNaissance }})
+    <br>
+    <small>
+      Dossard #{{ .dossard }} -
+      {{ if eq .course "21,1 km" -}}
+      <strong class="badge badge-secondary">
+        {{ else if eq .course "10 km" -}}
+        <strong class="badge badge-primary">
+          {{ else if eq .course "5 km" -}}
+          <strong class="badge badge-tertiary">
+            {{ else -}}
+            <strong class="badge badge-light">
+              {{ end -}}
+      {{- .course -}}
+    </strong>
+    </small>
+  </li>
+  {{ end }}
+</ul>

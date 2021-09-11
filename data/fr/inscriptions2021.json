@@ -1,0 +1,4082 @@
+[
+  {
+    "dossard": 1179,
+    "course": "21,1 km",
+    "prenom": "Caroline",
+    "nomDeFamille": "Ainsley",
+    "anneeDeNaissance": 1975,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1180,
+    "course": "21,1 km",
+    "prenom": "Sara-rose",
+    "nomDeFamille": "Ainsley",
+    "anneeDeNaissance": 2002,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1250,
+    "course": "10 km",
+    "prenom": "Roxanne",
+    "nomDeFamille": "Alarie",
+    "anneeDeNaissance": 1972,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1524,
+    "course": "5 km",
+    "prenom": "Monica",
+    "nomDeFamille": "Allain",
+    "anneeDeNaissance": 1975,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1501,
+    "course": "10 km",
+    "prenom": "Antoine",
+    "nomDeFamille": "Allie",
+    "anneeDeNaissance": 1999,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1000,
+    "course": "21,1 km",
+    "prenom": "Saul",
+    "nomDeFamille": "Alvarenga",
+    "anneeDeNaissance": 1983,
+    "ville": "St Eustache"
+  },
+  {
+    "dossard": 1251,
+    "course": "10 km",
+    "prenom": "Sylvie",
+    "nomDeFamille": "Amos",
+    "anneeDeNaissance": 1975,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1525,
+    "course": "5 km",
+    "prenom": "Martin",
+    "nomDeFamille": "Archambault",
+    "anneeDeNaissance": 1961,
+    "ville": "Montréal"
+  },
+  {
+    "dossard": 1588,
+    "course": "5 km",
+    "prenom": "Martin",
+    "nomDeFamille": "Archambault",
+    "anneeDeNaissance": 1961,
+    "ville": "Montréal"
+  },
+  {
+    "dossard": 1502,
+    "course": "10 km",
+    "prenom": "Clemente",
+    "nomDeFamille": "Arismendi",
+    "anneeDeNaissance": 1981,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1350,
+    "course": "5 km",
+    "prenom": "Christine",
+    "nomDeFamille": "Auclair",
+    "anneeDeNaissance": 1977,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1503,
+    "course": "10 km",
+    "prenom": "Sylvain",
+    "nomDeFamille": "Audet",
+    "anneeDeNaissance": 1955,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1526,
+    "course": "5 km",
+    "prenom": "Isabelle",
+    "nomDeFamille": "Audy",
+    "anneeDeNaissance": 1982,
+    "ville": "St-eustache"
+  },
+  {
+    "dossard": 1590,
+    "course": "5 km",
+    "prenom": "Isabelle",
+    "nomDeFamille": "Audy",
+    "anneeDeNaissance": 1982,
+    "ville": "St-eustache"
+  },
+  {
+    "dossard": 1252,
+    "course": "10 km",
+    "prenom": "AMIRA",
+    "nomDeFamille": "BACHA",
+    "anneeDeNaissance": 1990,
+    "ville": "BLAINVILLE"
+  },
+  {
+    "dossard": 1253,
+    "course": "10 km",
+    "prenom": "Peggy",
+    "nomDeFamille": "Badra",
+    "anneeDeNaissance": 1969,
+    "ville": "Dollard des Ormeaux"
+  },
+  {
+    "dossard": 1254,
+    "course": "10 km",
+    "prenom": "Peggy",
+    "nomDeFamille": "Badra",
+    "anneeDeNaissance": 1969,
+    "ville": "Dollard des Ormeaux"
+  },
+  {
+    "dossard": 1255,
+    "course": "10 km",
+    "prenom": "Chantal",
+    "nomDeFamille": "Ball",
+    "anneeDeNaissance": 1985,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1001,
+    "course": "21,1 km",
+    "prenom": "Maxime",
+    "nomDeFamille": "Baltazar",
+    "anneeDeNaissance": 1979,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1351,
+    "course": "5 km",
+    "prenom": "Louise",
+    "nomDeFamille": "Barbeau",
+    "anneeDeNaissance": 1967,
+    "ville": "Pointe-Claire"
+  },
+  {
+    "dossard": 1352,
+    "course": "5 km",
+    "prenom": "Emilie",
+    "nomDeFamille": "Baril",
+    "anneeDeNaissance": 1988,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1353,
+    "course": "5 km",
+    "prenom": "Rejean",
+    "nomDeFamille": "Baril",
+    "anneeDeNaissance": 1957,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1002,
+    "course": "21,1 km",
+    "prenom": "Kevin",
+    "nomDeFamille": "Barinotto",
+    "anneeDeNaissance": 1995,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1003,
+    "course": "21,1 km",
+    "prenom": "Jerome",
+    "nomDeFamille": "Bascoul",
+    "anneeDeNaissance": 1979,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1256,
+    "course": "10 km",
+    "prenom": "Richard",
+    "nomDeFamille": "Bayouk",
+    "anneeDeNaissance": 1969,
+    "ville": "Sainte-Marthe-sur-le-Lac"
+  },
+  {
+    "dossard": 1004,
+    "course": "21,1 km",
+    "prenom": "Denis",
+    "nomDeFamille": "Beauchamp",
+    "anneeDeNaissance": 1951,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1257,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Cynthia-Rose",
+    "nomDeFamille": "Beauchamp",
+    "anneeDeNaissance": 1953,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1005,
+    "course": "21,1 km",
+    "prenom": "Jean-Nicolas",
+    "nomDeFamille": "Beaudry",
+    "anneeDeNaissance": 1978,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1006,
+    "course": "21,1 km",
+    "prenom": "Ariane",
+    "nomDeFamille": "Beausoleil",
+    "anneeDeNaissance": 1997,
+    "ville": "Sait-Jerome"
+  },
+  {
+    "dossard": 1450,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Yvan",
+    "nomDeFamille": "Bechard",
+    "anneeDeNaissance": 1962,
+    "ville": "Sainte-Catherine"
+  },
+  {
+    "dossard": 1596,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Nicole",
+    "nomDeFamille": "Bégin",
+    "anneeDeNaissance": 1959,
+    "ville": "Verdun"
+  },
+  {
+    "dossard": 1354,
+    "course": "5 km",
+    "prenom": "Laure",
+    "nomDeFamille": "Begny Champion",
+    "anneeDeNaissance": 1983,
+    "ville": "Saint-Jerome"
+  },
+  {
+    "dossard": 1007,
+    "course": "21,1 km",
+    "prenom": "Philippe",
+    "nomDeFamille": "Belanger",
+    "anneeDeNaissance": 1966,
+    "ville": "Mont Royal"
+  },
+  {
+    "dossard": 1008,
+    "course": "21,1 km",
+    "prenom": "Sylvie",
+    "nomDeFamille": "Belanger",
+    "anneeDeNaissance": 1964,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1258,
+    "course": "10 km",
+    "prenom": "Michel",
+    "nomDeFamille": "Belanger",
+    "anneeDeNaissance": 1965,
+    "ville": "Mascouche"
+  },
+  {
+    "dossard": 1451,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Alexandre",
+    "nomDeFamille": "Belanger",
+    "anneeDeNaissance": 1978,
+    "ville": "Saint-Hyacinthe"
+  },
+  {
+    "dossard": 1259,
+    "course": "10 km",
+    "prenom": "Karlaine",
+    "nomDeFamille": "Belanger-Barrette",
+    "anneeDeNaissance": 1994,
+    "ville": "Mascouche"
+  },
+  {
+    "dossard": 1355,
+    "course": "5 km",
+    "prenom": "raymond",
+    "nomDeFamille": "belisle",
+    "anneeDeNaissance": 1942,
+    "ville": "St-Eustache"
+  },
+  {
+    "dossard": 1580,
+    "course": "5 km",
+    "prenom": "raymond",
+    "nomDeFamille": "belisle",
+    "anneeDeNaissance": 1942,
+    "ville": "St-Eustache"
+  },
+  {
+    "dossard": 1009,
+    "course": "21,1 km",
+    "prenom": "Andree",
+    "nomDeFamille": "Bellefeuille",
+    "anneeDeNaissance": 1982,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1169,
+    "course": "21,1 km",
+    "prenom": "gabriel",
+    "nomDeFamille": "bellefeuille",
+    "anneeDeNaissance": 2001,
+    "ville": "st-lin"
+  },
+  {
+    "dossard": 1010,
+    "course": "21,1 km",
+    "prenom": "Gabriel",
+    "nomDeFamille": "Bellerose",
+    "anneeDeNaissance": 1979,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1260,
+    "course": "10 km",
+    "prenom": "Aldo",
+    "nomDeFamille": "Bellon",
+    "anneeDeNaissance": 1949,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1011,
+    "course": "21,1 km",
+    "prenom": "Imrane",
+    "nomDeFamille": "Bengassem",
+    "anneeDeNaissance": 2003,
+    "ville": "Repentigny"
+  },
+  {
+    "dossard": 1012,
+    "course": "21,1 km",
+    "prenom": "Aiman",
+    "nomDeFamille": "Benkhadra",
+    "anneeDeNaissance": 1992,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1261,
+    "course": "10 km",
+    "prenom": "Etienne",
+    "nomDeFamille": "Benoit-Labelle",
+    "anneeDeNaissance": 1997,
+    "ville": "SAINTE-THERESE"
+  },
+  {
+    "dossard": 1262,
+    "course": "10 km",
+    "prenom": "Youssef",
+    "nomDeFamille": "Bentaiebi",
+    "anneeDeNaissance": 1986,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1013,
+    "course": "21,1 km",
+    "prenom": "Marie",
+    "nomDeFamille": "Bentejac",
+    "anneeDeNaissance": 1990,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1263,
+    "course": "10 km",
+    "prenom": "Jean-Francois",
+    "nomDeFamille": "Bergeron",
+    "anneeDeNaissance": 1985,
+    "ville": "Saint-Jerome"
+  },
+  {
+    "dossard": 1356,
+    "course": "5 km",
+    "prenom": "Rosalie",
+    "nomDeFamille": "Bergeron",
+    "anneeDeNaissance": 2010,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1527,
+    "course": "5 km",
+    "prenom": "Ghislain",
+    "nomDeFamille": "Bergeron",
+    "anneeDeNaissance": 1979,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1528,
+    "course": "5 km",
+    "prenom": "caroline",
+    "nomDeFamille": "bergeron",
+    "anneeDeNaissance": 1972,
+    "ville": "sainte-therese"
+  },
+  {
+    "dossard": 1014,
+    "course": "21,1 km",
+    "prenom": "Lisa",
+    "nomDeFamille": "Bernardi",
+    "anneeDeNaissance": 1967,
+    "ville": "St-Laurent"
+  },
+  {
+    "dossard": 1015,
+    "course": "10 km",
+    "prenom": "Hannah",
+    "nomDeFamille": "Bernatchez",
+    "anneeDeNaissance": 1986,
+    "ville": "Vanier"
+  },
+  {
+    "dossard": 1264,
+    "course": "10 km",
+    "prenom": "Gino",
+    "nomDeFamille": "Bernatchez",
+    "anneeDeNaissance": 1974,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1357,
+    "course": "5 km",
+    "prenom": "Dominic",
+    "nomDeFamille": "Berube",
+    "anneeDeNaissance": 1970,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1016,
+    "course": "21,1 km",
+    "prenom": "Anik",
+    "nomDeFamille": "Bilodeau",
+    "anneeDeNaissance": 1976,
+    "ville": "Pointe-Calumet"
+  },
+  {
+    "dossard": 1265,
+    "course": "10 km",
+    "prenom": "Monique",
+    "nomDeFamille": "Bisaillon",
+    "anneeDeNaissance": 1959,
+    "ville": "Gatineau"
+  },
+  {
+    "dossard": 1017,
+    "course": "21,1 km",
+    "prenom": "Jocelyn",
+    "nomDeFamille": "Bisson",
+    "anneeDeNaissance": 1961,
+    "ville": "Pointe-aux-Trembles"
+  },
+  {
+    "dossard": 1267,
+    "course": "10 km",
+    "prenom": "Danae",
+    "nomDeFamille": "Blais",
+    "anneeDeNaissance": 1999,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1529,
+    "course": "5 km",
+    "prenom": "Jorge",
+    "nomDeFamille": "Blanco",
+    "anneeDeNaissance": 1980,
+    "ville": "Boisbriand"
+  },
+  {
+    "dossard": 1358,
+    "course": "5 km",
+    "prenom": "Claude",
+    "nomDeFamille": "Blier",
+    "anneeDeNaissance": 1962,
+    "ville": "Pointe-claire"
+  },
+  {
+    "dossard": 1018,
+    "course": "21,1 km",
+    "prenom": "Melissa",
+    "nomDeFamille": "Blondin",
+    "anneeDeNaissance": 1988,
+    "ville": "Saint-Jerome"
+  },
+  {
+    "dossard": 1268,
+    "course": "10 km",
+    "prenom": "Jerome",
+    "nomDeFamille": "Blouin",
+    "anneeDeNaissance": 1995,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1019,
+    "course": "10 km",
+    "prenom": "Cynthia",
+    "nomDeFamille": "Boisvert",
+    "anneeDeNaissance": 1986,
+    "ville": "Montreal-Ouest"
+  },
+  {
+    "dossard": 1020,
+    "course": "21,1 km",
+    "prenom": "Roberto",
+    "nomDeFamille": "Bonetti",
+    "anneeDeNaissance": 1965,
+    "ville": "Outremont"
+  },
+  {
+    "dossard": 1270,
+    "course": "10 km",
+    "prenom": "Line",
+    "nomDeFamille": "Bonnoyer",
+    "anneeDeNaissance": 1965,
+    "ville": "POINTE-CALUMET"
+  },
+  {
+    "dossard": 1359,
+    "course": "5 km",
+    "prenom": "Jerome",
+    "nomDeFamille": "Borcard",
+    "anneeDeNaissance": 1997,
+    "ville": "Saint-Roch de l'Achigan"
+  },
+  {
+    "dossard": 1271,
+    "course": "10 km",
+    "prenom": "Marie-Laurence",
+    "nomDeFamille": "Bordeleau",
+    "anneeDeNaissance": 1990,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1380,
+    "course": "5 km",
+    "prenom": "Karine",
+    "nomDeFamille": "Boucher",
+    "anneeDeNaissance": 1982,
+    "ville": "Bois-des-Filion"
+  },
+  {
+    "dossard": 1452,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Marlene",
+    "nomDeFamille": "Bouillon",
+    "anneeDeNaissance": 1965,
+    "ville": "Levis"
+  },
+  {
+    "dossard": 1166,
+    "course": "21,1 km",
+    "prenom": "simon",
+    "nomDeFamille": "boulanger",
+    "anneeDeNaissance": 1979,
+    "ville": "terrebonne"
+  },
+  {
+    "dossard": 1167,
+    "course": "21,1 km",
+    "prenom": "Alexis",
+    "nomDeFamille": "Boulanger",
+    "anneeDeNaissance": 2005,
+    "ville": "terrebonne"
+  },
+  {
+    "dossard": 1360,
+    "course": "5 km",
+    "prenom": "Jean-philippe",
+    "nomDeFamille": "Boulanger Aquin",
+    "anneeDeNaissance": 1983,
+    "ville": "Saint-Jerome"
+  },
+  {
+    "dossard": 1021,
+    "course": "21,1 km",
+    "prenom": "Joelle",
+    "nomDeFamille": "Bourdages",
+    "anneeDeNaissance": 1984,
+    "ville": "Quebec"
+  },
+  {
+    "dossard": 1022,
+    "course": "21,1 km",
+    "prenom": "Daniel",
+    "nomDeFamille": "Bourgeois",
+    "anneeDeNaissance": 1969,
+    "ville": "La Prairie"
+  },
+  {
+    "dossard": 1361,
+    "course": "5 km",
+    "prenom": "Nancy",
+    "nomDeFamille": "Bourgeois",
+    "anneeDeNaissance": 1969,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1572,
+    "course": "5 km",
+    "prenom": "Nancy",
+    "nomDeFamille": "Bourgeois",
+    "anneeDeNaissance": 1969,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1272,
+    "course": "10 km",
+    "prenom": "Alex-Anne",
+    "nomDeFamille": "Bourgeois Lavoie",
+    "anneeDeNaissance": 1992,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1023,
+    "course": "21,1 km",
+    "prenom": "Fodile",
+    "nomDeFamille": "Boussahra",
+    "anneeDeNaissance": 1991,
+    "ville": "Verdun"
+  },
+  {
+    "dossard": 1024,
+    "course": "21,1 km",
+    "prenom": "Brian",
+    "nomDeFamille": "Brand",
+    "anneeDeNaissance": 1966,
+    "ville": "Mississauga"
+  },
+  {
+    "dossard": 1530,
+    "course": "5 km",
+    "prenom": "Annabelle",
+    "nomDeFamille": "Brassard",
+    "anneeDeNaissance": 2008,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1531,
+    "course": "5 km",
+    "prenom": "Louis-Olivier",
+    "nomDeFamille": "Brassard",
+    "anneeDeNaissance": 1996,
+    "ville": "Lorraine"
+  },
+  {
+    "dossard": 1025,
+    "course": "21,1 km",
+    "prenom": "Cynthia",
+    "nomDeFamille": "Brasseur Jeffrey",
+    "anneeDeNaissance": 1988,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1026,
+    "course": "21,1 km",
+    "prenom": "Francis",
+    "nomDeFamille": "Brind amour",
+    "anneeDeNaissance": 1993,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1027,
+    "course": "21,1 km",
+    "prenom": "Emile",
+    "nomDeFamille": "Brousseau",
+    "anneeDeNaissance": 2001,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1453,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Rejean",
+    "nomDeFamille": "Bruneau",
+    "anneeDeNaissance": 1958,
+    "ville": "Notre-Dame-du-Mont-Carmel"
+  },
+  {
+    "dossard": 1273,
+    "course": "10 km",
+    "prenom": "Danny",
+    "nomDeFamille": "Burns",
+    "anneeDeNaissance": 1959,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1274,
+    "course": "10 km",
+    "prenom": "Nicolas",
+    "nomDeFamille": "cacheleux",
+    "anneeDeNaissance": 1981,
+    "ville": "blainville"
+  },
+  {
+    "dossard": 1362,
+    "course": "5 km",
+    "prenom": "Sonia",
+    "nomDeFamille": "Cacheleux",
+    "anneeDeNaissance": 1985,
+    "ville": "blainville"
+  },
+  {
+    "dossard": 1275,
+    "course": "10 km",
+    "prenom": "Stephane",
+    "nomDeFamille": "Caille",
+    "anneeDeNaissance": 1968,
+    "ville": "Saint-Eustache"
+  },
+  {
+    "dossard": 1276,
+    "course": "10 km",
+    "prenom": "Audrey",
+    "nomDeFamille": "Campeau-Jette",
+    "anneeDeNaissance": 1990,
+    "ville": "Sainte-Therese"
+  },
+  {
+    "dossard": 1335,
+    "course": "10 km",
+    "prenom": "Annick",
+    "nomDeFamille": "Campeau-Jetté",
+    "anneeDeNaissance": 1990,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1028,
+    "course": "21,1 km",
+    "prenom": "SALLY",
+    "nomDeFamille": "CANCILLA",
+    "anneeDeNaissance": 1966,
+    "ville": "TERREBONNE"
+  },
+  {
+    "dossard": 1363,
+    "course": "5 km",
+    "prenom": "Francis",
+    "nomDeFamille": "Caouette",
+    "anneeDeNaissance": 1958,
+    "ville": "Ste-Therese"
+  },
+  {
+    "dossard": 1029,
+    "course": "21,1 km",
+    "prenom": "Olivier",
+    "nomDeFamille": "Caramagno",
+    "anneeDeNaissance": 1993,
+    "ville": "Sainte-Therese"
+  },
+  {
+    "dossard": 1364,
+    "course": "5 km",
+    "prenom": "Sophia",
+    "nomDeFamille": "Cayer-Falardeau",
+    "anneeDeNaissance": 1989,
+    "ville": "Ste-Therese"
+  },
+  {
+    "dossard": 1277,
+    "course": "10 km",
+    "prenom": "Gabriel",
+    "nomDeFamille": "Chabot-Dugal",
+    "anneeDeNaissance": 2000,
+    "ville": "Sainte-Marthe-Sur-le-Lac"
+  },
+  {
+    "dossard": 1030,
+    "course": "21,1 km",
+    "prenom": "Melanie",
+    "nomDeFamille": "Chagnon",
+    "anneeDeNaissance": 1976,
+    "ville": "Lanoraie"
+  },
+  {
+    "dossard": 1031,
+    "course": "21,1 km",
+    "prenom": "Jacques",
+    "nomDeFamille": "Chalifoux",
+    "anneeDeNaissance": 1964,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1032,
+    "course": "21,1 km",
+    "prenom": "Jean-Noel",
+    "nomDeFamille": "Chan-Duhon",
+    "anneeDeNaissance": 1957,
+    "ville": "Dollard-des-Ormeaux"
+  },
+  {
+    "dossard": 1278,
+    "course": "10 km",
+    "prenom": "Julie-Rose",
+    "nomDeFamille": "Charbonneau",
+    "anneeDeNaissance": 2001,
+    "ville": "Bois-des-Filion"
+  },
+  {
+    "dossard": 1365,
+    "course": "5 km",
+    "prenom": "Gabrielle",
+    "nomDeFamille": "Charbonneau",
+    "anneeDeNaissance": 1993,
+    "ville": "Mascouche"
+  },
+  {
+    "dossard": 1597,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Dominic",
+    "nomDeFamille": "Chartier",
+    "anneeDeNaissance": 1972,
+    "ville": "Trois-Rivières"
+  },
+  {
+    "dossard": 1532,
+    "course": "5 km",
+    "prenom": "Paul",
+    "nomDeFamille": "Chevilley",
+    "anneeDeNaissance": 1991,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1033,
+    "course": "21,1 km",
+    "prenom": "Jeremie",
+    "nomDeFamille": "chiron-escallier",
+    "anneeDeNaissance": 1982,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1279,
+    "course": "5 km",
+    "prenom": "Manon",
+    "nomDeFamille": "Cholette",
+    "anneeDeNaissance": 1957,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1366,
+    "course": "5 km",
+    "prenom": "Pascale",
+    "nomDeFamille": "Cholette-Dufour",
+    "anneeDeNaissance": 1988,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1034,
+    "course": "21,1 km",
+    "prenom": "Andre",
+    "nomDeFamille": "Choquette",
+    "anneeDeNaissance": 1967,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1035,
+    "course": "21,1 km",
+    "prenom": "Andre",
+    "nomDeFamille": "Choquette",
+    "anneeDeNaissance": 1967,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1367,
+    "course": "5 km",
+    "prenom": "Vern",
+    "nomDeFamille": "Christensen",
+    "anneeDeNaissance": 1940,
+    "ville": "Toronto"
+  },
+  {
+    "dossard": 1164,
+    "course": "21,1 km",
+    "prenom": "Gabriel",
+    "nomDeFamille": "Ciulbea",
+    "anneeDeNaissance": 1976,
+    "ville": "BLAINVILLE"
+  },
+  {
+    "dossard": 1368,
+    "course": "5 km",
+    "prenom": "Sylvain",
+    "nomDeFamille": "Correia",
+    "anneeDeNaissance": 1974,
+    "ville": "Lanoraie"
+  },
+  {
+    "dossard": 1036,
+    "course": "21,1 km",
+    "prenom": "Andre",
+    "nomDeFamille": "Cote",
+    "anneeDeNaissance": 1958,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1037,
+    "course": "21,1 km",
+    "prenom": "Sebastien",
+    "nomDeFamille": "Coulombe",
+    "anneeDeNaissance": 1969,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1038,
+    "course": "21,1 km",
+    "prenom": "Mathieu",
+    "nomDeFamille": "Coursol",
+    "anneeDeNaissance": 1976,
+    "ville": "Longueuil"
+  },
+  {
+    "dossard": 1039,
+    "course": "21,1 km",
+    "prenom": "Mario",
+    "nomDeFamille": "Cousineau",
+    "anneeDeNaissance": 1971,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1040,
+    "course": "21,1 km",
+    "prenom": "Nathan",
+    "nomDeFamille": "Coutu",
+    "anneeDeNaissance": 2006,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1041,
+    "course": "21,1 km",
+    "prenom": "Nicholas",
+    "nomDeFamille": "Couture",
+    "anneeDeNaissance": 1994,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1369,
+    "course": "5 km",
+    "prenom": "Shara",
+    "nomDeFamille": "Crane",
+    "anneeDeNaissance": 1984,
+    "ville": "St-Albans"
+  },
+  {
+    "dossard": 1280,
+    "course": "10 km",
+    "prenom": "Annie",
+    "nomDeFamille": "Cusson",
+    "anneeDeNaissance": 1979,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1042,
+    "course": "21,1 km",
+    "prenom": "Jean-Michel",
+    "nomDeFamille": "Cyr",
+    "anneeDeNaissance": 1985,
+    "ville": "Repentigny"
+  },
+  {
+    "dossard": 1043,
+    "course": "21,1 km",
+    "prenom": "Marie-Christine",
+    "nomDeFamille": "Cyr",
+    "anneeDeNaissance": 1989,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1281,
+    "course": "10 km",
+    "prenom": "Joanie",
+    "nomDeFamille": "Cyr",
+    "anneeDeNaissance": 1998,
+    "ville": "Fatima"
+  },
+  {
+    "dossard": 1533,
+    "course": "5 km",
+    "prenom": "Joshu",
+    "nomDeFamille": "D’Avignon",
+    "anneeDeNaissance": 2011,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1370,
+    "course": "5 km",
+    "prenom": "Elizabeth",
+    "nomDeFamille": "Damboise",
+    "anneeDeNaissance": 2001,
+    "ville": "BLAINVILLE"
+  },
+  {
+    "dossard": 1371,
+    "course": "5 km",
+    "prenom": "Melissa",
+    "nomDeFamille": "Damboise",
+    "anneeDeNaissance": 1998,
+    "ville": "BLAINVILLE"
+  },
+  {
+    "dossard": 1534,
+    "course": "5 km",
+    "prenom": "Daniel",
+    "nomDeFamille": "Damboise",
+    "anneeDeNaissance": 1964,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1578,
+    "course": "5 km",
+    "prenom": "Mélissa",
+    "nomDeFamille": "Damboise",
+    "anneeDeNaissance": 1998,
+    "ville": "BLAINVILLE"
+  },
+  {
+    "dossard": 1579,
+    "course": "5 km",
+    "prenom": "Elizabeth",
+    "nomDeFamille": "Damboise",
+    "anneeDeNaissance": 2001,
+    "ville": "BLAINVILLE"
+  },
+  {
+    "dossard": 1589,
+    "course": "5 km",
+    "prenom": "Daniel",
+    "nomDeFamille": "Damboise",
+    "anneeDeNaissance": 1964,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1372,
+    "course": "5 km",
+    "prenom": "Martine",
+    "nomDeFamille": "Dandonneau",
+    "anneeDeNaissance": 1961,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1373,
+    "course": "5 km",
+    "prenom": "Amelie",
+    "nomDeFamille": "Dansereau",
+    "anneeDeNaissance": 1994,
+    "ville": "Mascouche"
+  },
+  {
+    "dossard": 1282,
+    "course": "10 km",
+    "prenom": "Genevieve",
+    "nomDeFamille": "David Watson",
+    "anneeDeNaissance": 1991,
+    "ville": "montreal"
+  },
+  {
+    "dossard": 1454,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Anne",
+    "nomDeFamille": "de Thy",
+    "anneeDeNaissance": 1953,
+    "ville": "Toronto"
+  },
+  {
+    "dossard": 1374,
+    "course": "5 km",
+    "prenom": "Benoit",
+    "nomDeFamille": "Deguire",
+    "anneeDeNaissance": 1969,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1044,
+    "course": "21,1 km",
+    "prenom": "Alex",
+    "nomDeFamille": "Delorme",
+    "anneeDeNaissance": 1988,
+    "ville": "Gatineau"
+  },
+  {
+    "dossard": 1045,
+    "course": "21,1 km",
+    "prenom": "Robert",
+    "nomDeFamille": "Delorme",
+    "anneeDeNaissance": 1955,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1175,
+    "course": "21,1 km",
+    "prenom": "Hugues",
+    "nomDeFamille": "Demers",
+    "anneeDeNaissance": 1988,
+    "ville": "St therese"
+  },
+  {
+    "dossard": 1284,
+    "course": "10 km",
+    "prenom": "Stephanie",
+    "nomDeFamille": "Demers",
+    "anneeDeNaissance": 1976,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1535,
+    "course": "5 km",
+    "prenom": "Sophia",
+    "nomDeFamille": "Denis",
+    "anneeDeNaissance": 2010,
+    "ville": "Blainvile"
+  },
+  {
+    "dossard": 1375,
+    "course": "5 km",
+    "prenom": "Joelle",
+    "nomDeFamille": "Desnoyers",
+    "anneeDeNaissance": 1976,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1172,
+    "course": "21,1 km",
+    "prenom": "Daniel",
+    "nomDeFamille": "Desrochers",
+    "anneeDeNaissance": 1957,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1285,
+    "course": "10 km",
+    "prenom": "john",
+    "nomDeFamille": "deuel",
+    "anneeDeNaissance": 1961,
+    "ville": "lorraine"
+  },
+  {
+    "dossard": 1046,
+    "course": "21,1 km",
+    "prenom": "Felix",
+    "nomDeFamille": "Deziel",
+    "anneeDeNaissance": 2003,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1504,
+    "course": "10 km",
+    "prenom": "Ousmane Satina",
+    "nomDeFamille": "Diallo",
+    "anneeDeNaissance": 1974,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1047,
+    "course": "21,1 km",
+    "prenom": "Valerie",
+    "nomDeFamille": "Dion",
+    "anneeDeNaissance": 1976,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1287,
+    "course": "10 km",
+    "prenom": "Isabelle",
+    "nomDeFamille": "Dion",
+    "anneeDeNaissance": 1971,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1288,
+    "course": "10 km",
+    "prenom": "Laurier",
+    "nomDeFamille": "Dion",
+    "anneeDeNaissance": 2007,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1289,
+    "course": "10 km",
+    "prenom": "Simon",
+    "nomDeFamille": "Domaschio",
+    "anneeDeNaissance": 1988,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1536,
+    "course": "5 km",
+    "prenom": "Marie-anne",
+    "nomDeFamille": "Dorion",
+    "anneeDeNaissance": 2006,
+    "ville": "Saint Jérôme"
+  },
+  {
+    "dossard": 1048,
+    "course": "21,1 km",
+    "prenom": "Denis",
+    "nomDeFamille": "Doucet",
+    "anneeDeNaissance": 1953,
+    "ville": "Varennes"
+  },
+  {
+    "dossard": 1376,
+    "course": "5 km",
+    "prenom": "Jennifer",
+    "nomDeFamille": "Douville",
+    "anneeDeNaissance": 1982,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1455,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Rosalie",
+    "nomDeFamille": "Drapeau",
+    "anneeDeNaissance": 2003,
+    "ville": "Saint-Roch-des-Aulnaies"
+  },
+  {
+    "dossard": 1290,
+    "course": "10 km",
+    "prenom": "Julie-Eve",
+    "nomDeFamille": "Drouin-Houle",
+    "anneeDeNaissance": 1989,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1377,
+    "course": "5 km",
+    "prenom": "Marie-Eve",
+    "nomDeFamille": "Dube",
+    "anneeDeNaissance": 1979,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1292,
+    "course": "10 km",
+    "prenom": "Catherine",
+    "nomDeFamille": "Dubuc",
+    "anneeDeNaissance": 1990,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1049,
+    "course": "21,1 km",
+    "prenom": "Vincent",
+    "nomDeFamille": "Ducharme",
+    "anneeDeNaissance": 1994,
+    "ville": "Sainte-Martine"
+  },
+  {
+    "dossard": 1537,
+    "course": "5 km",
+    "prenom": "Gilles",
+    "nomDeFamille": "Ducharme",
+    "anneeDeNaissance": 1965,
+    "ville": "Sainte-Martine"
+  },
+  {
+    "dossard": 1293,
+    "course": "10 km",
+    "prenom": "Sophie",
+    "nomDeFamille": "Dufault",
+    "anneeDeNaissance": 1975,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1538,
+    "course": "5 km",
+    "prenom": "Marie-Ève",
+    "nomDeFamille": "Dufort",
+    "anneeDeNaissance": 1983,
+    "ville": "Saint-Lin-Laurentides"
+  },
+  {
+    "dossard": 1294,
+    "course": "10 km",
+    "prenom": "Pascal",
+    "nomDeFamille": "Dufour",
+    "anneeDeNaissance": 1973,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1378,
+    "course": "5 km",
+    "prenom": "Cindy",
+    "nomDeFamille": "Dufresne",
+    "anneeDeNaissance": 1996,
+    "ville": "Repentigny"
+  },
+  {
+    "dossard": 1539,
+    "course": "5 km",
+    "prenom": "Étienne",
+    "nomDeFamille": "Dulong",
+    "anneeDeNaissance": 2007,
+    "ville": "Blainvile"
+  },
+  {
+    "dossard": 1540,
+    "course": "5 km",
+    "prenom": "Annie",
+    "nomDeFamille": "Dulong",
+    "anneeDeNaissance": 1972,
+    "ville": "Blainvile"
+  },
+  {
+    "dossard": 1171,
+    "course": "21,1 km",
+    "prenom": "Katerine",
+    "nomDeFamille": "Dumontier",
+    "anneeDeNaissance": 1986,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1295,
+    "course": "10 km",
+    "prenom": "Mathieu",
+    "nomDeFamille": "Duperche",
+    "anneeDeNaissance": 1981,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1050,
+    "course": "21,1 km",
+    "prenom": "Marc",
+    "nomDeFamille": "Dussault",
+    "anneeDeNaissance": 1962,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1051,
+    "course": "21,1 km",
+    "prenom": "Philippe",
+    "nomDeFamille": "Dussault",
+    "anneeDeNaissance": 1988,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1052,
+    "course": "21,1 km",
+    "prenom": "Jeff",
+    "nomDeFamille": "Edwards",
+    "anneeDeNaissance": 1976,
+    "ville": "Nepean"
+  },
+  {
+    "dossard": 1296,
+    "course": "10 km",
+    "prenom": "Emilie",
+    "nomDeFamille": "Evanko",
+    "anneeDeNaissance": 1994,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1173,
+    "course": "21,1 km",
+    "prenom": "pierre",
+    "nomDeFamille": "fafard",
+    "anneeDeNaissance": 1964,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1456,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Line",
+    "nomDeFamille": "Falcon",
+    "anneeDeNaissance": 1964,
+    "ville": "St-Ignace de Stanbridge"
+  },
+  {
+    "dossard": 1053,
+    "course": "21,1 km",
+    "prenom": "Robin",
+    "nomDeFamille": "Fauteux",
+    "anneeDeNaissance": 2001,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1054,
+    "course": "21,1 km",
+    "prenom": "David-Alexandre",
+    "nomDeFamille": "Fauvelle",
+    "anneeDeNaissance": 1987,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1379,
+    "course": "5 km",
+    "prenom": "Marie Josee",
+    "nomDeFamille": "Filion",
+    "anneeDeNaissance": 1970,
+    "ville": "St Eustache"
+  },
+  {
+    "dossard": 1573,
+    "course": "5 km",
+    "prenom": "Marie Josée",
+    "nomDeFamille": "Filion",
+    "anneeDeNaissance": 1970,
+    "ville": "St Eustache"
+  },
+  {
+    "dossard": 1381,
+    "course": "5 km",
+    "prenom": "Julie",
+    "nomDeFamille": "Fitzmorris",
+    "anneeDeNaissance": 1967,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1457,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Johanna",
+    "nomDeFamille": "Flipsen",
+    "anneeDeNaissance": 1955,
+    "ville": "Edmonton"
+  },
+  {
+    "dossard": 1055,
+    "course": "21,1 km",
+    "prenom": "Joshua",
+    "nomDeFamille": "Flores",
+    "anneeDeNaissance": 1991,
+    "ville": "Boisbriand"
+  },
+  {
+    "dossard": 1383,
+    "course": "5 km",
+    "prenom": "Maggie",
+    "nomDeFamille": "Fontaine",
+    "anneeDeNaissance": 1980,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1056,
+    "course": "21,1 km",
+    "prenom": "LOUIS",
+    "nomDeFamille": "FORTIER",
+    "anneeDeNaissance": 1963,
+    "ville": "MONTREAL"
+  },
+  {
+    "dossard": 1184,
+    "course": "21,1 km",
+    "prenom": "Jonathan",
+    "nomDeFamille": "Fournier",
+    "anneeDeNaissance": 1994,
+    "ville": "Lorraine"
+  },
+  {
+    "dossard": 1057,
+    "course": "21,1 km",
+    "prenom": "Giovanna",
+    "nomDeFamille": "Franzoni",
+    "anneeDeNaissance": 1956,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1058,
+    "course": "21,1 km",
+    "prenom": "Mathieu",
+    "nomDeFamille": "Frenette",
+    "anneeDeNaissance": 1996,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1059,
+    "course": "21,1 km",
+    "prenom": "Jean paul",
+    "nomDeFamille": "Frey",
+    "anneeDeNaissance": 1957,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1298,
+    "course": "10 km",
+    "prenom": "William",
+    "nomDeFamille": "Fugere",
+    "anneeDeNaissance": 1992,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1060,
+    "course": "21,1 km",
+    "prenom": "Isabelle",
+    "nomDeFamille": "Gagne",
+    "anneeDeNaissance": 1982,
+    "ville": "Ste-anne-des-plaines"
+  },
+  {
+    "dossard": 1165,
+    "course": "21,1 km",
+    "prenom": "Julien",
+    "nomDeFamille": "Gagnon",
+    "anneeDeNaissance": 1997,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1186,
+    "course": "21,1 km",
+    "prenom": "Marc-Andre",
+    "nomDeFamille": "Gagnon",
+    "anneeDeNaissance": 1990,
+    "ville": "Boisbriand"
+  },
+  {
+    "dossard": 1505,
+    "course": "10 km",
+    "prenom": "Andree-Anne",
+    "nomDeFamille": "Gagnon-Audet",
+    "anneeDeNaissance": 1986,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1299,
+    "course": "10 km",
+    "prenom": "Chantal",
+    "nomDeFamille": "Gallou",
+    "anneeDeNaissance": 1985,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1300,
+    "course": "10 km",
+    "prenom": "Chantal",
+    "nomDeFamille": "Gallou",
+    "anneeDeNaissance": 1985,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1541,
+    "course": "5 km",
+    "prenom": "Heidy",
+    "nomDeFamille": "Garneau",
+    "anneeDeNaissance": 2008,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1170,
+    "course": "21,1 km",
+    "prenom": "Suzanne",
+    "nomDeFamille": "Gascon",
+    "anneeDeNaissance": 1958,
+    "ville": "St-Colomban"
+  },
+  {
+    "dossard": 1062,
+    "course": "21,1 km",
+    "prenom": "Genevieve",
+    "nomDeFamille": "Gaudette",
+    "anneeDeNaissance": 1985,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1063,
+    "course": "21,1 km",
+    "prenom": "Benoit",
+    "nomDeFamille": "Gaudreau",
+    "anneeDeNaissance": 1965,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1542,
+    "course": "5 km",
+    "prenom": "Julie",
+    "nomDeFamille": "Gaumond",
+    "anneeDeNaissance": 1978,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1301,
+    "course": "10 km",
+    "prenom": "Roch",
+    "nomDeFamille": "Gauthier",
+    "anneeDeNaissance": 1960,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1302,
+    "course": "10 km",
+    "prenom": "Eve",
+    "nomDeFamille": "Gauthier-Sansoucy",
+    "anneeDeNaissance": 1994,
+    "ville": "boisbriands"
+  },
+  {
+    "dossard": 1543,
+    "course": "5 km",
+    "prenom": "jean pierre",
+    "nomDeFamille": "gelinas",
+    "anneeDeNaissance": 1960,
+    "ville": "blainville"
+  },
+  {
+    "dossard": 1593,
+    "course": "5 km",
+    "prenom": "jean pierre",
+    "nomDeFamille": "gelinas",
+    "anneeDeNaissance": 1960,
+    "ville": "blainville"
+  },
+  {
+    "dossard": 1303,
+    "course": "10 km",
+    "prenom": "Vanessa",
+    "nomDeFamille": "Gendron",
+    "anneeDeNaissance": 1990,
+    "ville": "Boisbriand"
+  },
+  {
+    "dossard": 1304,
+    "course": "10 km",
+    "prenom": "Julie",
+    "nomDeFamille": "Germain",
+    "anneeDeNaissance": 1972,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1544,
+    "course": "5 km",
+    "prenom": "Laurence",
+    "nomDeFamille": "Gervais",
+    "anneeDeNaissance": 2005,
+    "ville": "Pointe-Calumet"
+  },
+  {
+    "dossard": 1305,
+    "course": "10 km",
+    "prenom": "jacques",
+    "nomDeFamille": "Gilbert",
+    "anneeDeNaissance": 1957,
+    "ville": "Vaudreuil-Dorion"
+  },
+  {
+    "dossard": 1064,
+    "course": "21,1 km",
+    "prenom": "Claudia",
+    "nomDeFamille": "Girard Morin",
+    "anneeDeNaissance": 1982,
+    "ville": "Sainte-Adele"
+  },
+  {
+    "dossard": 1065,
+    "course": "21,1 km",
+    "prenom": "marie-france",
+    "nomDeFamille": "giroux",
+    "anneeDeNaissance": 1972,
+    "ville": "blainville"
+  },
+  {
+    "dossard": 1506,
+    "course": "10 km",
+    "prenom": "Marylène",
+    "nomDeFamille": "Glaude",
+    "anneeDeNaissance": 1983,
+    "ville": "Sainte-Adèle"
+  },
+  {
+    "dossard": 1066,
+    "course": "21,1 km",
+    "prenom": "Macland",
+    "nomDeFamille": "Glaudin",
+    "anneeDeNaissance": 1988,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1545,
+    "course": "5 km",
+    "prenom": "Roger",
+    "nomDeFamille": "Glockseisen",
+    "anneeDeNaissance": 1970,
+    "ville": "Anjou"
+  },
+  {
+    "dossard": 1067,
+    "course": "21,1 km",
+    "prenom": "Chris",
+    "nomDeFamille": "Gnes",
+    "anneeDeNaissance": 1981,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1306,
+    "course": "10 km",
+    "prenom": "Suzanne",
+    "nomDeFamille": "Gohier",
+    "anneeDeNaissance": 1959,
+    "ville": "Saint-Jerome"
+  },
+  {
+    "dossard": 1384,
+    "course": "5 km",
+    "prenom": "Nathalie",
+    "nomDeFamille": "GOHIER",
+    "anneeDeNaissance": 1963,
+    "ville": "ST JEROME"
+  },
+  {
+    "dossard": 1385,
+    "course": "5 km",
+    "prenom": "Normand",
+    "nomDeFamille": "Gohier",
+    "anneeDeNaissance": 1957,
+    "ville": "St-Jerome"
+  },
+  {
+    "dossard": 1307,
+    "course": "10 km",
+    "prenom": "Patrice",
+    "nomDeFamille": "Gouin",
+    "anneeDeNaissance": 1960,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1068,
+    "course": "21,1 km",
+    "prenom": "JC",
+    "nomDeFamille": "Goyeche",
+    "anneeDeNaissance": 1985,
+    "ville": "Sainte-Adele"
+  },
+  {
+    "dossard": 1507,
+    "course": "10 km",
+    "prenom": "Philippe",
+    "nomDeFamille": "Grenier",
+    "anneeDeNaissance": 1977,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1386,
+    "course": "5 km",
+    "prenom": "-jeanne",
+    "nomDeFamille": "guerin",
+    "anneeDeNaissance": 1961,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1586,
+    "course": "5 km",
+    "prenom": "-jeanne",
+    "nomDeFamille": "guerin",
+    "anneeDeNaissance": 1961,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1308,
+    "course": "10 km",
+    "prenom": "Isabelle",
+    "nomDeFamille": "Hache",
+    "anneeDeNaissance": 1980,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1546,
+    "course": "5 km",
+    "prenom": "Titouan",
+    "nomDeFamille": "Hachet",
+    "anneeDeNaissance": 1993,
+    "ville": "Sainte-Anne-des-Lacs"
+  },
+  {
+    "dossard": 1069,
+    "course": "21,1 km",
+    "prenom": "Bobby",
+    "nomDeFamille": "Hains",
+    "anneeDeNaissance": 1972,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1547,
+    "course": "5 km",
+    "prenom": "Stéphane",
+    "nomDeFamille": "Hamelin",
+    "anneeDeNaissance": 1975,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1309,
+    "course": "10 km",
+    "prenom": "Kim",
+    "nomDeFamille": "Hebert Jeannotte",
+    "anneeDeNaissance": 1989,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1387,
+    "course": "5 km",
+    "prenom": "Therese",
+    "nomDeFamille": "Herard",
+    "anneeDeNaissance": 1957,
+    "ville": "Repentigny"
+  },
+  {
+    "dossard": 1188,
+    "course": "21,1 km",
+    "prenom": "Annie",
+    "nomDeFamille": "Houle",
+    "anneeDeNaissance": 1972,
+    "ville": "Repentigny"
+  },
+  {
+    "dossard": 1310,
+    "course": "10 km",
+    "prenom": "pierre",
+    "nomDeFamille": "houle",
+    "anneeDeNaissance": 1968,
+    "ville": "Gatineau"
+  },
+  {
+    "dossard": 1311,
+    "course": "10 km",
+    "prenom": "Valerie",
+    "nomDeFamille": "Hunt",
+    "anneeDeNaissance": 1981,
+    "ville": "Saint Jerome"
+  },
+  {
+    "dossard": 1388,
+    "course": "5 km",
+    "prenom": "Marie-Eve",
+    "nomDeFamille": "Isabelle",
+    "anneeDeNaissance": 1986,
+    "ville": "St-Lin-Laurentides"
+  },
+  {
+    "dossard": 1584,
+    "course": "5 km",
+    "prenom": "Marie-Eve",
+    "nomDeFamille": "Isabelle",
+    "anneeDeNaissance": 1986,
+    "ville": "St-Lin-Laurentides"
+  },
+  {
+    "dossard": 1389,
+    "course": "5 km",
+    "prenom": "Jessica",
+    "nomDeFamille": "Jamieson",
+    "anneeDeNaissance": 1995,
+    "ville": "Saint-Jerome"
+  },
+  {
+    "dossard": 1312,
+    "course": "10 km",
+    "prenom": "Melissa",
+    "nomDeFamille": "Jean",
+    "anneeDeNaissance": 1990,
+    "ville": "Gatineau"
+  },
+  {
+    "dossard": 1070,
+    "course": "21,1 km",
+    "prenom": "Harry",
+    "nomDeFamille": "Jean-Charles",
+    "anneeDeNaissance": 1985,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1071,
+    "course": "21,1 km",
+    "prenom": "Juan",
+    "nomDeFamille": "Jimenez",
+    "anneeDeNaissance": 1987,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1313,
+    "course": "10 km",
+    "prenom": "Lisiane",
+    "nomDeFamille": "Jobidon",
+    "anneeDeNaissance": 1978,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1174,
+    "course": "21,1 km",
+    "prenom": "Pascal",
+    "nomDeFamille": "Jourdain",
+    "anneeDeNaissance": 1968,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1314,
+    "course": "10 km",
+    "prenom": "Sukhjit",
+    "nomDeFamille": "Kaur",
+    "anneeDeNaissance": 1987,
+    "ville": "Barnala"
+  },
+  {
+    "dossard": 1390,
+    "course": "5 km",
+    "prenom": "Sharanjeet",
+    "nomDeFamille": "Kaur",
+    "anneeDeNaissance": 1986,
+    "ville": "Ludhiana"
+  },
+  {
+    "dossard": 1315,
+    "course": "10 km",
+    "prenom": "Caroline",
+    "nomDeFamille": "Keable",
+    "anneeDeNaissance": 1980,
+    "ville": "Bromont"
+  },
+  {
+    "dossard": 1316,
+    "course": "10 km",
+    "prenom": "Marie-Anne",
+    "nomDeFamille": "Keable",
+    "anneeDeNaissance": 1984,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1508,
+    "course": "10 km",
+    "prenom": "Natasha",
+    "nomDeFamille": "Kepekci",
+    "anneeDeNaissance": 1993,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1072,
+    "course": "21,1 km",
+    "prenom": "Antonia",
+    "nomDeFamille": "Konstantinov",
+    "anneeDeNaissance": 1995,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1391,
+    "course": "5 km",
+    "prenom": "Sylvia",
+    "nomDeFamille": "Kuncer",
+    "anneeDeNaissance": 1970,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1317,
+    "course": "10 km",
+    "prenom": "Cedric P",
+    "nomDeFamille": "La Barre",
+    "anneeDeNaissance": 1991,
+    "ville": "Boisbriand"
+  },
+  {
+    "dossard": 1548,
+    "course": "5 km",
+    "prenom": "Jean-François",
+    "nomDeFamille": "Labelle",
+    "anneeDeNaissance": 1985,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1073,
+    "course": "21,1 km",
+    "prenom": "Frederic",
+    "nomDeFamille": "Labrie",
+    "anneeDeNaissance": 1974,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1318,
+    "course": "10 km",
+    "prenom": "Genevieve",
+    "nomDeFamille": "Labrie",
+    "anneeDeNaissance": 1978,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1392,
+    "course": "5 km",
+    "prenom": "Sylvain",
+    "nomDeFamille": "Labrie",
+    "anneeDeNaissance": 1965,
+    "ville": "Morin-Heights"
+  },
+  {
+    "dossard": 1577,
+    "course": "5 km",
+    "prenom": "Sylvain",
+    "nomDeFamille": "Labrie",
+    "anneeDeNaissance": 1965,
+    "ville": "Morin-Heights"
+  },
+  {
+    "dossard": 1319,
+    "course": "10 km",
+    "prenom": "Karyne",
+    "nomDeFamille": "Lachance",
+    "anneeDeNaissance": 1976,
+    "ville": "St-lin-laurentides"
+  },
+  {
+    "dossard": 1458,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Kim",
+    "nomDeFamille": "Lachance",
+    "anneeDeNaissance": 1984,
+    "ville": "Saint-Liboire"
+  },
+  {
+    "dossard": 1598,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Sonia",
+    "nomDeFamille": "Lacôme",
+    "anneeDeNaissance": 1966,
+    "ville": "Montréal"
+  },
+  {
+    "dossard": 1459,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Denis",
+    "nomDeFamille": "Laflamme",
+    "anneeDeNaissance": 1954,
+    "ville": "Boucherville"
+  },
+  {
+    "dossard": 1320,
+    "course": "10 km",
+    "prenom": "Francois",
+    "nomDeFamille": "Lafreniere",
+    "anneeDeNaissance": 1984,
+    "ville": "Quebec"
+  },
+  {
+    "dossard": 1074,
+    "course": "21,1 km",
+    "prenom": "Damien",
+    "nomDeFamille": "Lagrange",
+    "anneeDeNaissance": 1983,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1075,
+    "course": "21,1 km",
+    "prenom": "Sylvain",
+    "nomDeFamille": "Lajoie",
+    "anneeDeNaissance": 1972,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1076,
+    "course": "21,1 km",
+    "prenom": "Michel",
+    "nomDeFamille": "Lalonde",
+    "anneeDeNaissance": 1965,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1321,
+    "course": "10 km",
+    "prenom": "maggie",
+    "nomDeFamille": "lambert",
+    "anneeDeNaissance": 1988,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1322,
+    "course": "10 km",
+    "prenom": "Guillaume",
+    "nomDeFamille": "Lambert-Heon",
+    "anneeDeNaissance": 1993,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1077,
+    "course": "21,1 km",
+    "prenom": "Korinne",
+    "nomDeFamille": "Lamy",
+    "anneeDeNaissance": 2000,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1078,
+    "course": "21,1 km",
+    "prenom": "Alexandre",
+    "nomDeFamille": "Landry",
+    "anneeDeNaissance": 1979,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1079,
+    "course": "10 km",
+    "prenom": "Genevieve",
+    "nomDeFamille": "Landry",
+    "anneeDeNaissance": 1984,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1323,
+    "course": "10 km",
+    "prenom": "Francois",
+    "nomDeFamille": "Landry",
+    "anneeDeNaissance": 1985,
+    "ville": "St-Hippolyte"
+  },
+  {
+    "dossard": 1393,
+    "course": "5 km",
+    "prenom": "Nathalie",
+    "nomDeFamille": "Landry",
+    "anneeDeNaissance": 1969,
+    "ville": "blainville"
+  },
+  {
+    "dossard": 1574,
+    "course": "5 km",
+    "prenom": "Nathalie",
+    "nomDeFamille": "Landry",
+    "anneeDeNaissance": 1969,
+    "ville": "blainville"
+  },
+  {
+    "dossard": 1178,
+    "course": "21,1 km",
+    "prenom": "Frédérique",
+    "nomDeFamille": "Langevin",
+    "anneeDeNaissance": 1980,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1394,
+    "course": "5 km",
+    "prenom": "Josee",
+    "nomDeFamille": "Lanthier",
+    "anneeDeNaissance": 1971,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1080,
+    "course": "21,1 km",
+    "prenom": "Julien",
+    "nomDeFamille": "Lapierre",
+    "anneeDeNaissance": 1984,
+    "ville": "Sainte-Marthe-sur-le-lac"
+  },
+  {
+    "dossard": 1395,
+    "course": "5 km",
+    "prenom": "Marie",
+    "nomDeFamille": "Lapierre",
+    "anneeDeNaissance": 1987,
+    "ville": "L'Assomption"
+  },
+  {
+    "dossard": 1324,
+    "course": "10 km",
+    "prenom": "Karine",
+    "nomDeFamille": "Lapointe",
+    "anneeDeNaissance": 1979,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1325,
+    "course": "10 km",
+    "prenom": "Marc",
+    "nomDeFamille": "Lapointe",
+    "anneeDeNaissance": 1957,
+    "ville": "Saint-Adolphe-D'Howard"
+  },
+  {
+    "dossard": 1396,
+    "course": "5 km",
+    "prenom": "Sandra",
+    "nomDeFamille": "Lapointe",
+    "anneeDeNaissance": 1983,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1326,
+    "course": "10 km",
+    "prenom": "Sophie",
+    "nomDeFamille": "Laporte",
+    "anneeDeNaissance": 1967,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1397,
+    "course": "5 km",
+    "prenom": "robert",
+    "nomDeFamille": "Lariviere",
+    "anneeDeNaissance": 1937,
+    "ville": "saint sauveur des monts"
+  },
+  {
+    "dossard": 1585,
+    "course": "5 km",
+    "prenom": "robert",
+    "nomDeFamille": "Lariviere",
+    "anneeDeNaissance": 1937,
+    "ville": "saint sauveur des monts"
+  },
+  {
+    "dossard": 1398,
+    "course": "5 km",
+    "prenom": "Laurence",
+    "nomDeFamille": "Laroche",
+    "anneeDeNaissance": 1982,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1081,
+    "course": "21,1 km",
+    "prenom": "Caroline",
+    "nomDeFamille": "Larouche",
+    "anneeDeNaissance": 1987,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1082,
+    "course": "21,1 km",
+    "prenom": "Marie-Pier",
+    "nomDeFamille": "Larrivee",
+    "anneeDeNaissance": 1990,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1399,
+    "course": "5 km",
+    "prenom": "Marc-Andre",
+    "nomDeFamille": "Latour",
+    "anneeDeNaissance": 1966,
+    "ville": "AMHERST"
+  },
+  {
+    "dossard": 1400,
+    "course": "5 km",
+    "prenom": "Yanira",
+    "nomDeFamille": "lauzon",
+    "anneeDeNaissance": 1991,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1581,
+    "course": "5 km",
+    "prenom": "Yanira",
+    "nomDeFamille": "lauzon",
+    "anneeDeNaissance": 1991,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1083,
+    "course": "21,1 km",
+    "prenom": "Sabrina",
+    "nomDeFamille": "Laverdiere",
+    "anneeDeNaissance": 1983,
+    "ville": "L’epiphanie"
+  },
+  {
+    "dossard": 1549,
+    "course": "5 km",
+    "prenom": "Thomas",
+    "nomDeFamille": "Laviolette",
+    "anneeDeNaissance": 2000,
+    "ville": "Mascouche"
+  },
+  {
+    "dossard": 1327,
+    "course": "10 km",
+    "prenom": "Andreanne",
+    "nomDeFamille": "Lavoie",
+    "anneeDeNaissance": 1987,
+    "ville": "Saint-Hippolyte"
+  },
+  {
+    "dossard": 1328,
+    "course": "10 km",
+    "prenom": "Cynthia",
+    "nomDeFamille": "Lavoie",
+    "anneeDeNaissance": 1984,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1401,
+    "course": "5 km",
+    "prenom": "Cynthia",
+    "nomDeFamille": "Lavoie",
+    "anneeDeNaissance": 1984,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1550,
+    "course": "5 km",
+    "prenom": "Caroline",
+    "nomDeFamille": "Lavoie",
+    "anneeDeNaissance": 1980,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1551,
+    "course": "5 km",
+    "prenom": "David",
+    "nomDeFamille": "Lavoie",
+    "anneeDeNaissance": 2005,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1552,
+    "course": "5 km",
+    "prenom": "Sylvain",
+    "nomDeFamille": "Lavoie",
+    "anneeDeNaissance": 1974,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1085,
+    "course": "21,1 km",
+    "prenom": "Marie-Claude",
+    "nomDeFamille": "Le Sauteur",
+    "anneeDeNaissance": 1969,
+    "ville": "St Laurent"
+  },
+  {
+    "dossard": 1402,
+    "course": "5 km",
+    "prenom": "nathalie",
+    "nomDeFamille": "leblanc",
+    "anneeDeNaissance": 1978,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1086,
+    "course": "10 km",
+    "prenom": "Mathieu",
+    "nomDeFamille": "Leclerc",
+    "anneeDeNaissance": 1977,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1087,
+    "course": "21,1 km",
+    "prenom": "Stephanie",
+    "nomDeFamille": "Leclerc",
+    "anneeDeNaissance": 1974,
+    "ville": "Mont-Saint-Hilaire"
+  },
+  {
+    "dossard": 1329,
+    "course": "10 km",
+    "prenom": "Andre",
+    "nomDeFamille": "Leduc",
+    "anneeDeNaissance": 1976,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1403,
+    "course": "5 km",
+    "prenom": "Emile",
+    "nomDeFamille": "Leduc",
+    "anneeDeNaissance": 2006,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1330,
+    "course": "10 km",
+    "prenom": "Claudia",
+    "nomDeFamille": "Lefebvre",
+    "anneeDeNaissance": 1997,
+    "ville": "Rosemere"
+  },
+  {
+    "dossard": 1331,
+    "course": "10 km",
+    "prenom": "Pierre",
+    "nomDeFamille": "Lefrancois",
+    "anneeDeNaissance": 1959,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1332,
+    "course": "10 km",
+    "prenom": "Audrey-anne",
+    "nomDeFamille": "Legault",
+    "anneeDeNaissance": 1993,
+    "ville": "Rosemere"
+  },
+  {
+    "dossard": 1404,
+    "course": "5 km",
+    "prenom": "Cinthya",
+    "nomDeFamille": "Legault",
+    "anneeDeNaissance": 1995,
+    "ville": "Bois-Des-Filions"
+  },
+  {
+    "dossard": 1177,
+    "course": "21,1 km",
+    "prenom": "Florence",
+    "nomDeFamille": "Lelievre",
+    "anneeDeNaissance": 1999,
+    "ville": "Sainte-Thérèse"
+  },
+  {
+    "dossard": 1553,
+    "course": "5 km",
+    "prenom": "Gaël",
+    "nomDeFamille": "Lemée",
+    "anneeDeNaissance": 2006,
+    "ville": "Montréal"
+  },
+  {
+    "dossard": 1554,
+    "course": "5 km",
+    "prenom": "Patrick",
+    "nomDeFamille": "Lemée",
+    "anneeDeNaissance": 1965,
+    "ville": "Montréal"
+  },
+  {
+    "dossard": 1088,
+    "course": "21,1 km",
+    "prenom": "Jean-Martin",
+    "nomDeFamille": "Lemieux",
+    "anneeDeNaissance": 1985,
+    "ville": "Ste-Marthe-sur-le-Lac"
+  },
+  {
+    "dossard": 1089,
+    "course": "21,1 km",
+    "prenom": "Audreane",
+    "nomDeFamille": "Lemire",
+    "anneeDeNaissance": 2001,
+    "ville": "Saint-Lin-Laurentides"
+  },
+  {
+    "dossard": 1090,
+    "course": "21,1 km",
+    "prenom": "Martin",
+    "nomDeFamille": "Lesage",
+    "anneeDeNaissance": 1981,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1091,
+    "course": "21,1 km",
+    "prenom": "Martin",
+    "nomDeFamille": "Lesage",
+    "anneeDeNaissance": 1981,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1092,
+    "course": "21,1 km",
+    "prenom": "Jean",
+    "nomDeFamille": "Lesperance",
+    "anneeDeNaissance": 1967,
+    "ville": "Lorraine"
+  },
+  {
+    "dossard": 1333,
+    "course": "10 km",
+    "prenom": "Juliane",
+    "nomDeFamille": "Lessard",
+    "anneeDeNaissance": 1997,
+    "ville": "Sainte-Therese"
+  },
+  {
+    "dossard": 1405,
+    "course": "5 km",
+    "prenom": "Mathieu",
+    "nomDeFamille": "Lessard",
+    "anneeDeNaissance": 1984,
+    "ville": "Lorraine"
+  },
+  {
+    "dossard": 1093,
+    "course": "21,1 km",
+    "prenom": "Yi",
+    "nomDeFamille": "Li",
+    "anneeDeNaissance": 1975,
+    "ville": "BLAINVILLE"
+  },
+  {
+    "dossard": 1334,
+    "course": "10 km",
+    "prenom": "Marie-Eve",
+    "nomDeFamille": "Limoges",
+    "anneeDeNaissance": 1978,
+    "ville": "Saint-Jerome"
+  },
+  {
+    "dossard": 1182,
+    "course": "21,1 km",
+    "prenom": "eduart",
+    "nomDeFamille": "lino",
+    "anneeDeNaissance": 1964,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1336,
+    "course": "10 km",
+    "prenom": "Marine",
+    "nomDeFamille": "Lucas",
+    "anneeDeNaissance": 1989,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1337,
+    "course": "10 km",
+    "prenom": "Sebastien",
+    "nomDeFamille": "Lussier",
+    "anneeDeNaissance": 1978,
+    "ville": "Sherbrooke"
+  },
+  {
+    "dossard": 1509,
+    "course": "10 km",
+    "prenom": "Emerick",
+    "nomDeFamille": "Lussier",
+    "anneeDeNaissance": 2007,
+    "ville": "Sherbrooke"
+  },
+  {
+    "dossard": 1338,
+    "course": "10 km",
+    "prenom": "Elise",
+    "nomDeFamille": "Lynch",
+    "anneeDeNaissance": 2006,
+    "ville": "Rosemere"
+  },
+  {
+    "dossard": 1095,
+    "course": "21,1 km",
+    "prenom": "Alexandra",
+    "nomDeFamille": "Major",
+    "anneeDeNaissance": 1994,
+    "ville": "sherbrooke"
+  },
+  {
+    "dossard": 1339,
+    "course": "10 km",
+    "prenom": "Shanna",
+    "nomDeFamille": "Marchand",
+    "anneeDeNaissance": 1990,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1096,
+    "course": "21,1 km",
+    "prenom": "Alexis",
+    "nomDeFamille": "Marcil",
+    "anneeDeNaissance": 1984,
+    "ville": "Saint-Lin-Laurentides"
+  },
+  {
+    "dossard": 1168,
+    "course": "21,1 km",
+    "prenom": "Claudia",
+    "nomDeFamille": "Marcotte",
+    "anneeDeNaissance": 1976,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1187,
+    "course": "21,1 km",
+    "prenom": "Sebastien",
+    "nomDeFamille": "Marcoux",
+    "anneeDeNaissance": 1971,
+    "ville": "blainville"
+  },
+  {
+    "dossard": 1340,
+    "course": "10 km",
+    "prenom": "Dominic",
+    "nomDeFamille": "Marcoux",
+    "anneeDeNaissance": 1978,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1406,
+    "course": "5 km",
+    "prenom": "Dominic",
+    "nomDeFamille": "Marcoux",
+    "anneeDeNaissance": 1978,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1097,
+    "course": "21,1 km",
+    "prenom": "Caroline",
+    "nomDeFamille": "Marois",
+    "anneeDeNaissance": 1974,
+    "ville": "Lorraine"
+  },
+  {
+    "dossard": 1555,
+    "course": "5 km",
+    "prenom": "Megane",
+    "nomDeFamille": "Marquis",
+    "anneeDeNaissance": 2006,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1098,
+    "course": "21,1 km",
+    "prenom": "Mathilde",
+    "nomDeFamille": "Marre",
+    "anneeDeNaissance": 1972,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1099,
+    "course": "21,1 km",
+    "prenom": "Josee",
+    "nomDeFamille": "Marsolais",
+    "anneeDeNaissance": 1965,
+    "ville": "Outremont"
+  },
+  {
+    "dossard": 1341,
+    "course": "10 km",
+    "prenom": "Line",
+    "nomDeFamille": "Martel",
+    "anneeDeNaissance": 1968,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1556,
+    "course": "5 km",
+    "prenom": "Dominic",
+    "nomDeFamille": "Martel",
+    "anneeDeNaissance": 1989,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1342,
+    "course": "5 km",
+    "prenom": "Maria",
+    "nomDeFamille": "Martino",
+    "anneeDeNaissance": 1972,
+    "ville": "Bois-des-Filion"
+  },
+  {
+    "dossard": 1407,
+    "course": "5 km",
+    "prenom": "Michel",
+    "nomDeFamille": "Mason",
+    "anneeDeNaissance": 1961,
+    "ville": "Boisbriand"
+  },
+  {
+    "dossard": 1100,
+    "course": "21,1 km",
+    "prenom": "Daniel",
+    "nomDeFamille": "Massicotte",
+    "anneeDeNaissance": 1967,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1343,
+    "course": "10 km",
+    "prenom": "Marina",
+    "nomDeFamille": "Mathieu",
+    "anneeDeNaissance": 1993,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1510,
+    "course": "10 km",
+    "prenom": "Jonathan",
+    "nomDeFamille": "Matte",
+    "anneeDeNaissance": 1982,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1101,
+    "course": "21,1 km",
+    "prenom": "Wendy",
+    "nomDeFamille": "Matthews",
+    "anneeDeNaissance": 1971,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1408,
+    "course": "5 km",
+    "prenom": "Line",
+    "nomDeFamille": "McDuff",
+    "anneeDeNaissance": 1963,
+    "ville": "Granby"
+  },
+  {
+    "dossard": 1102,
+    "course": "21,1 km",
+    "prenom": "Steve",
+    "nomDeFamille": "McGrath",
+    "anneeDeNaissance": 1976,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1344,
+    "course": "10 km",
+    "prenom": "MUSTAPHA",
+    "nomDeFamille": "MEDANI",
+    "anneeDeNaissance": 1990,
+    "ville": "BLAINVILLE"
+  },
+  {
+    "dossard": 1409,
+    "course": "5 km",
+    "prenom": "Simon",
+    "nomDeFamille": "Melki",
+    "anneeDeNaissance": 1993,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1345,
+    "course": "10 km",
+    "prenom": "Benoit",
+    "nomDeFamille": "Menard",
+    "anneeDeNaissance": 1976,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1460,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Jean",
+    "nomDeFamille": "Menetrier",
+    "anneeDeNaissance": 1944,
+    "ville": "Quebec"
+  },
+  {
+    "dossard": 1346,
+    "course": "10 km",
+    "prenom": "Emile",
+    "nomDeFamille": "Mercille-Brunelle",
+    "anneeDeNaissance": 1990,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1347,
+    "course": "10 km",
+    "prenom": "Tristan",
+    "nomDeFamille": "Mercille-Brunelle",
+    "anneeDeNaissance": 1995,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1103,
+    "course": "21,1 km",
+    "prenom": "Frederique",
+    "nomDeFamille": "Messier",
+    "anneeDeNaissance": 1997,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1104,
+    "course": "21,1 km",
+    "prenom": "Frederic",
+    "nomDeFamille": "Meunier",
+    "anneeDeNaissance": 1973,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1557,
+    "course": "5 km",
+    "prenom": "Jean Etzer",
+    "nomDeFamille": "Mevoit",
+    "anneeDeNaissance": 1988,
+    "ville": "Montréal"
+  },
+  {
+    "dossard": 1105,
+    "course": "21,1 km",
+    "prenom": "Denis",
+    "nomDeFamille": "Michaud",
+    "anneeDeNaissance": 1970,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1410,
+    "course": "5 km",
+    "prenom": "Nathan",
+    "nomDeFamille": "Michaud",
+    "anneeDeNaissance": 2006,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1411,
+    "course": "5 km",
+    "prenom": "Sabrina",
+    "nomDeFamille": "Michaud",
+    "anneeDeNaissance": 1979,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1412,
+    "course": "5 km",
+    "prenom": "Stephane",
+    "nomDeFamille": "Michaud",
+    "anneeDeNaissance": 1970,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1511,
+    "course": "10 km",
+    "prenom": "David",
+    "nomDeFamille": "Miller",
+    "anneeDeNaissance": 1956,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1348,
+    "course": "10 km",
+    "prenom": "Georges",
+    "nomDeFamille": "Misturada",
+    "anneeDeNaissance": 1966,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1558,
+    "course": "5 km",
+    "prenom": "Andreia",
+    "nomDeFamille": "Miu",
+    "anneeDeNaissance": 1994,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1559,
+    "course": "5 km",
+    "prenom": "Nicoleta",
+    "nomDeFamille": "Miu",
+    "anneeDeNaissance": 1972,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1349,
+    "course": "10 km",
+    "prenom": "Danielle",
+    "nomDeFamille": "Moineau",
+    "anneeDeNaissance": 1961,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1106,
+    "course": "21,1 km",
+    "prenom": "Mickael",
+    "nomDeFamille": "Monteiro",
+    "anneeDeNaissance": 1986,
+    "ville": "Sainte-Therese"
+  },
+  {
+    "dossard": 1107,
+    "course": "21,1 km",
+    "prenom": "Catherine",
+    "nomDeFamille": "Moreau",
+    "anneeDeNaissance": 1976,
+    "ville": "Boucherville"
+  },
+  {
+    "dossard": 1108,
+    "course": "21,1 km",
+    "prenom": "Stephane",
+    "nomDeFamille": "Moreau",
+    "anneeDeNaissance": 1974,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1109,
+    "course": "21,1 km",
+    "prenom": "Laurence",
+    "nomDeFamille": "Moretti",
+    "anneeDeNaissance": 1986,
+    "ville": "Sainte-Adele"
+  },
+  {
+    "dossard": 1110,
+    "course": "21,1 km",
+    "prenom": "Vicki",
+    "nomDeFamille": "Morin",
+    "anneeDeNaissance": 1985,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1413,
+    "course": "5 km",
+    "prenom": "Josee",
+    "nomDeFamille": "Morin",
+    "anneeDeNaissance": 1969,
+    "ville": "BLAINVILLE"
+  },
+  {
+    "dossard": 1466,
+    "course": "10 km",
+    "prenom": "Steven",
+    "nomDeFamille": "Morin",
+    "anneeDeNaissance": 1977,
+    "ville": "Bromont"
+  },
+  {
+    "dossard": 1575,
+    "course": "5 km",
+    "prenom": "Josee",
+    "nomDeFamille": "Morin",
+    "anneeDeNaissance": 1969,
+    "ville": "BLAINVILLE"
+  },
+  {
+    "dossard": 1414,
+    "course": "5 km",
+    "prenom": "Stephanie",
+    "nomDeFamille": "Morisset",
+    "anneeDeNaissance": 1990,
+    "ville": "Ste-Therese"
+  },
+  {
+    "dossard": 1111,
+    "course": "21,1 km",
+    "prenom": "Dominique",
+    "nomDeFamille": "Morissette-Thomas",
+    "anneeDeNaissance": 1986,
+    "ville": "Saint-Jerome"
+  },
+  {
+    "dossard": 1112,
+    "course": "21,1 km",
+    "prenom": "Jhon",
+    "nomDeFamille": "Mosquera",
+    "anneeDeNaissance": 1977,
+    "ville": "Saint-Jerome"
+  },
+  {
+    "dossard": 1113,
+    "course": "21,1 km",
+    "prenom": "Frederic",
+    "nomDeFamille": "Nadeau",
+    "anneeDeNaissance": 1974,
+    "ville": "blainville"
+  },
+  {
+    "dossard": 1467,
+    "course": "10 km",
+    "prenom": "Vincent",
+    "nomDeFamille": "Nadeau",
+    "anneeDeNaissance": 1978,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1114,
+    "course": "21,1 km",
+    "prenom": "Louis",
+    "nomDeFamille": "Nolin",
+    "anneeDeNaissance": 1983,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1115,
+    "course": "21,1 km",
+    "prenom": "Anne",
+    "nomDeFamille": "Ouellet",
+    "anneeDeNaissance": 1964,
+    "ville": "Candiac"
+  },
+  {
+    "dossard": 1415,
+    "course": "5 km",
+    "prenom": "Emile",
+    "nomDeFamille": "Ouimet",
+    "anneeDeNaissance": 2007,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1468,
+    "course": "10 km",
+    "prenom": "Chantal",
+    "nomDeFamille": "Page",
+    "anneeDeNaissance": 1974,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1469,
+    "course": "10 km",
+    "prenom": "Jerome",
+    "nomDeFamille": "Page",
+    "anneeDeNaissance": 1985,
+    "ville": "Lorraine"
+  },
+  {
+    "dossard": 1461,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Noel",
+    "nomDeFamille": "Paine",
+    "anneeDeNaissance": 1975,
+    "ville": "Ottawa"
+  },
+  {
+    "dossard": 1117,
+    "course": "21,1 km",
+    "prenom": "Scott",
+    "nomDeFamille": "Paiva-Bishop",
+    "anneeDeNaissance": 1995,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1416,
+    "course": "5 km",
+    "prenom": "Melanie",
+    "nomDeFamille": "Paquette",
+    "anneeDeNaissance": 1988,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1118,
+    "course": "21,1 km",
+    "prenom": "Olivier",
+    "nomDeFamille": "Paquin",
+    "anneeDeNaissance": 1990,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1417,
+    "course": "5 km",
+    "prenom": "Jacques",
+    "nomDeFamille": "Paquin",
+    "anneeDeNaissance": 1963,
+    "ville": "St Eustache"
+  },
+  {
+    "dossard": 1470,
+    "course": "10 km",
+    "prenom": "Jean-Francois",
+    "nomDeFamille": "Paquin",
+    "anneeDeNaissance": 1974,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1119,
+    "course": "21,1 km",
+    "prenom": "Pier-Luc",
+    "nomDeFamille": "Paradis",
+    "anneeDeNaissance": 1990,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1418,
+    "course": "5 km",
+    "prenom": "France",
+    "nomDeFamille": "Parent",
+    "anneeDeNaissance": 1952,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1587,
+    "course": "5 km",
+    "prenom": "France",
+    "nomDeFamille": "Parent",
+    "anneeDeNaissance": 1952,
+    "ville": "Montréal"
+  },
+  {
+    "dossard": 1120,
+    "course": "21,1 km",
+    "prenom": "Kevin",
+    "nomDeFamille": "Pasquini",
+    "anneeDeNaissance": 1993,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1512,
+    "course": "10 km",
+    "prenom": "Alain",
+    "nomDeFamille": "Passieu",
+    "anneeDeNaissance": 1951,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1121,
+    "course": "21,1 km",
+    "prenom": "Nancy",
+    "nomDeFamille": "Payette",
+    "anneeDeNaissance": 1988,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1122,
+    "course": "21,1 km",
+    "prenom": "Didier",
+    "nomDeFamille": "Peladeau",
+    "anneeDeNaissance": 1981,
+    "ville": "Lorraine"
+  },
+  {
+    "dossard": 1123,
+    "course": "21,1 km",
+    "prenom": "Jeremie",
+    "nomDeFamille": "Pelletier",
+    "anneeDeNaissance": 1995,
+    "ville": "Sainte-Therese"
+  },
+  {
+    "dossard": 1419,
+    "course": "5 km",
+    "prenom": "Caroline",
+    "nomDeFamille": "Pelletier",
+    "anneeDeNaissance": 1970,
+    "ville": "Morin-Heights"
+  },
+  {
+    "dossard": 1576,
+    "course": "5 km",
+    "prenom": "Caroline",
+    "nomDeFamille": "Pelletier",
+    "anneeDeNaissance": 1970,
+    "ville": "Morin-Heights"
+  },
+  {
+    "dossard": 1471,
+    "course": "10 km",
+    "prenom": "Melina",
+    "nomDeFamille": "Pellicano",
+    "anneeDeNaissance": 1990,
+    "ville": "Boisbriand"
+  },
+  {
+    "dossard": 1472,
+    "course": "10 km",
+    "prenom": "Jean-Francois",
+    "nomDeFamille": "Pepin",
+    "anneeDeNaissance": 1977,
+    "ville": "Mascouche"
+  },
+  {
+    "dossard": 1513,
+    "course": "10 km",
+    "prenom": "Samuel",
+    "nomDeFamille": "Pépin",
+    "anneeDeNaissance": 2006,
+    "ville": "Mascouche"
+  },
+  {
+    "dossard": 1124,
+    "course": "21,1 km",
+    "prenom": "Sylvain",
+    "nomDeFamille": "Perron",
+    "anneeDeNaissance": 1963,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1183,
+    "course": "21,1 km",
+    "prenom": "Michel",
+    "nomDeFamille": "Perron",
+    "anneeDeNaissance": 1974,
+    "ville": "Blainvile"
+  },
+  {
+    "dossard": 1473,
+    "course": "10 km",
+    "prenom": "Marie-Eve",
+    "nomDeFamille": "Perusse",
+    "anneeDeNaissance": 1991,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1125,
+    "course": "21,1 km",
+    "prenom": "Dominic",
+    "nomDeFamille": "Pesant",
+    "anneeDeNaissance": 1975,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1514,
+    "course": "10 km",
+    "prenom": "Ana Paula",
+    "nomDeFamille": "Pessoa",
+    "anneeDeNaissance": 1981,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1126,
+    "course": "21,1 km",
+    "prenom": "Bruno",
+    "nomDeFamille": "Petit",
+    "anneeDeNaissance": 1969,
+    "ville": "BOISBRIAND"
+  },
+  {
+    "dossard": 1420,
+    "course": "5 km",
+    "prenom": "Johanne",
+    "nomDeFamille": "Phaneuf",
+    "anneeDeNaissance": 1959,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1582,
+    "course": "5 km",
+    "prenom": "Johanne",
+    "nomDeFamille": "Phaneuf",
+    "anneeDeNaissance": 1959,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1127,
+    "course": "21,1 km",
+    "prenom": "Sylvain",
+    "nomDeFamille": "Picard",
+    "anneeDeNaissance": 1971,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1128,
+    "course": "21,1 km",
+    "prenom": "Marie-Andree",
+    "nomDeFamille": "Piche",
+    "anneeDeNaissance": 1978,
+    "ville": "L’Ile-Perrot"
+  },
+  {
+    "dossard": 1181,
+    "course": "21,1 km",
+    "prenom": "Jacques",
+    "nomDeFamille": "Pigeon",
+    "anneeDeNaissance": 1956,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1129,
+    "course": "21,1 km",
+    "prenom": "Melissa",
+    "nomDeFamille": "Pilon",
+    "anneeDeNaissance": 1999,
+    "ville": "Repentigny"
+  },
+  {
+    "dossard": 1421,
+    "course": "5 km",
+    "prenom": "Jade",
+    "nomDeFamille": "Plamondon",
+    "anneeDeNaissance": 2001,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1130,
+    "course": "21,1 km",
+    "prenom": "Eric",
+    "nomDeFamille": "Poudrier",
+    "anneeDeNaissance": 1979,
+    "ville": "Mont-Saint-Hilaire"
+  },
+  {
+    "dossard": 1462,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Simonne",
+    "nomDeFamille": "Poulin",
+    "anneeDeNaissance": 1945,
+    "ville": "Levis"
+  },
+  {
+    "dossard": 1422,
+    "course": "5 km",
+    "prenom": "Richard",
+    "nomDeFamille": "Pouliot",
+    "anneeDeNaissance": 1950,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1131,
+    "course": "21,1 km",
+    "prenom": "Gabriel",
+    "nomDeFamille": "Poupart",
+    "anneeDeNaissance": 2010,
+    "ville": "Repentigny"
+  },
+  {
+    "dossard": 1474,
+    "course": "10 km",
+    "prenom": "Audrey",
+    "nomDeFamille": "Prevost",
+    "anneeDeNaissance": 1990,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1475,
+    "course": "10 km",
+    "prenom": "Caroline",
+    "nomDeFamille": "Prevost",
+    "anneeDeNaissance": 1986,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1132,
+    "course": "21,1 km",
+    "prenom": "Charles-Etienne",
+    "nomDeFamille": "Pronovost",
+    "anneeDeNaissance": 1983,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1560,
+    "course": "5 km",
+    "prenom": "Stéphane",
+    "nomDeFamille": "Proulx",
+    "anneeDeNaissance": 1978,
+    "ville": "Saint-Sauveur"
+  },
+  {
+    "dossard": 1133,
+    "course": "21,1 km",
+    "prenom": "Gabrielle",
+    "nomDeFamille": "Proulx Belisle",
+    "anneeDeNaissance": 1989,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1134,
+    "course": "21,1 km",
+    "prenom": "Martin",
+    "nomDeFamille": "Provencal",
+    "anneeDeNaissance": 1979,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1423,
+    "course": "5 km",
+    "prenom": "Zachary",
+    "nomDeFamille": "Provost",
+    "anneeDeNaissance": 2012,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1135,
+    "course": "21,1 km",
+    "prenom": "Arielle",
+    "nomDeFamille": "Prud'Homme",
+    "anneeDeNaissance": 1996,
+    "ville": "Boisbriand"
+  },
+  {
+    "dossard": 1424,
+    "course": "5 km",
+    "prenom": "Valerie",
+    "nomDeFamille": "Prud'homme",
+    "anneeDeNaissance": 1993,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1136,
+    "course": "21,1 km",
+    "prenom": "Jianchao",
+    "nomDeFamille": "Qiao",
+    "anneeDeNaissance": 1971,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1425,
+    "course": "5 km",
+    "prenom": "Amelia",
+    "nomDeFamille": "Racine",
+    "anneeDeNaissance": 2009,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1426,
+    "course": "5 km",
+    "prenom": "Pascal",
+    "nomDeFamille": "Racine",
+    "anneeDeNaissance": 1982,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1185,
+    "course": "21,1 km",
+    "prenom": "Olivier",
+    "nomDeFamille": "Raill",
+    "anneeDeNaissance": 1983,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1427,
+    "course": "5 km",
+    "prenom": "Claude",
+    "nomDeFamille": "Rainville",
+    "anneeDeNaissance": 1961,
+    "ville": "Granby"
+  },
+  {
+    "dossard": 1561,
+    "course": "5 km",
+    "prenom": "Stella-Rose",
+    "nomDeFamille": "Raymond",
+    "anneeDeNaissance": 2008,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1476,
+    "course": "10 km",
+    "prenom": "Vincent",
+    "nomDeFamille": "Rene-Lortie",
+    "anneeDeNaissance": 1993,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1477,
+    "course": "10 km",
+    "prenom": "Pierre-luc",
+    "nomDeFamille": "Ricard",
+    "anneeDeNaissance": 1992,
+    "ville": "Sainte-therese"
+  },
+  {
+    "dossard": 1137,
+    "course": "21,1 km",
+    "prenom": "Yannick",
+    "nomDeFamille": "Richard",
+    "anneeDeNaissance": 1976,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1428,
+    "course": "5 km",
+    "prenom": "Jeremy",
+    "nomDeFamille": "Richard",
+    "anneeDeNaissance": 2005,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1139,
+    "course": "21,1 km",
+    "prenom": "Stefanie",
+    "nomDeFamille": "Rinfret",
+    "anneeDeNaissance": 1987,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1562,
+    "course": "5 km",
+    "prenom": "Nancy",
+    "nomDeFamille": "Ringuet",
+    "anneeDeNaissance": 1968,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1429,
+    "course": "5 km",
+    "prenom": "Lina",
+    "nomDeFamille": "Ritvisay",
+    "anneeDeNaissance": 1987,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1478,
+    "course": "10 km",
+    "prenom": "Benoit",
+    "nomDeFamille": "Rivard",
+    "anneeDeNaissance": 1984,
+    "ville": "Saint-Hippolyte"
+  },
+  {
+    "dossard": 1140,
+    "course": "21,1 km",
+    "prenom": "Fadi",
+    "nomDeFamille": "Rizeq",
+    "anneeDeNaissance": 1988,
+    "ville": "Repentigny"
+  },
+  {
+    "dossard": 1479,
+    "course": "10 km",
+    "prenom": "Natacha",
+    "nomDeFamille": "Roberge",
+    "anneeDeNaissance": 1970,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1480,
+    "course": "10 km",
+    "prenom": "Patrick",
+    "nomDeFamille": "Roberge",
+    "anneeDeNaissance": 1976,
+    "ville": "St-Eustache"
+  },
+  {
+    "dossard": 1141,
+    "course": "5 km",
+    "prenom": "Anick",
+    "nomDeFamille": "Robitaille",
+    "anneeDeNaissance": 1981,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1481,
+    "course": "10 km",
+    "prenom": "Maxime",
+    "nomDeFamille": "Robitaille",
+    "anneeDeNaissance": 1989,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1142,
+    "course": "21,1 km",
+    "prenom": "hassam",
+    "nomDeFamille": "roche",
+    "anneeDeNaissance": 1996,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1143,
+    "course": "21,1 km",
+    "prenom": "Pierre",
+    "nomDeFamille": "Rodrigue",
+    "anneeDeNaissance": 1950,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1430,
+    "course": "5 km",
+    "prenom": "Martin",
+    "nomDeFamille": "Rodrigue",
+    "anneeDeNaissance": 1968,
+    "ville": "Verdun"
+  },
+  {
+    "dossard": 1431,
+    "course": "5 km",
+    "prenom": "Sylvie",
+    "nomDeFamille": "Rodrigue",
+    "anneeDeNaissance": 1956,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1482,
+    "course": "10 km",
+    "prenom": "Julie",
+    "nomDeFamille": "Rodrigue",
+    "anneeDeNaissance": 1985,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1563,
+    "course": "5 km",
+    "prenom": "Benoit",
+    "nomDeFamille": "Rompré",
+    "anneeDeNaissance": 1965,
+    "ville": "Blainvile"
+  },
+  {
+    "dossard": 1432,
+    "course": "5 km",
+    "prenom": "David",
+    "nomDeFamille": "Rousseau",
+    "anneeDeNaissance": 1985,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1433,
+    "course": "5 km",
+    "prenom": "Isabelle",
+    "nomDeFamille": "Roy",
+    "anneeDeNaissance": 1983,
+    "ville": "St-Eustache"
+  },
+  {
+    "dossard": 1144,
+    "course": "21,1 km",
+    "prenom": "Georges",
+    "nomDeFamille": "Roy-Ahmarani",
+    "anneeDeNaissance": 1987,
+    "ville": "Saint-Eustache"
+  },
+  {
+    "dossard": 1145,
+    "course": "21,1 km",
+    "prenom": "elie",
+    "nomDeFamille": "ruest",
+    "anneeDeNaissance": 2003,
+    "ville": "blainville"
+  },
+  {
+    "dossard": 1463,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Jocelyn",
+    "nomDeFamille": "Ruest",
+    "anneeDeNaissance": 1980,
+    "ville": "Montreal Nord"
+  },
+  {
+    "dossard": 1564,
+    "course": "5 km",
+    "prenom": "Christelle",
+    "nomDeFamille": "Safari",
+    "anneeDeNaissance": 1987,
+    "ville": "Montréal"
+  },
+  {
+    "dossard": 1434,
+    "course": "5 km",
+    "prenom": "Bruno",
+    "nomDeFamille": "Saintonge",
+    "anneeDeNaissance": 1985,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1483,
+    "course": "10 km",
+    "prenom": "Julie",
+    "nomDeFamille": "Sarrazin",
+    "anneeDeNaissance": 1977,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1484,
+    "course": "10 km",
+    "prenom": "David",
+    "nomDeFamille": "Sauvageau",
+    "anneeDeNaissance": 1982,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1565,
+    "course": "5 km",
+    "prenom": "Valery",
+    "nomDeFamille": "Savard",
+    "anneeDeNaissance": 1984,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1592,
+    "course": "5 km",
+    "prenom": "Valery",
+    "nomDeFamille": "Savard",
+    "anneeDeNaissance": 1984,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1435,
+    "course": "5 km",
+    "prenom": "Ginette",
+    "nomDeFamille": "Savaria",
+    "anneeDeNaissance": 1956,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1146,
+    "course": "21,1 km",
+    "prenom": "Igor",
+    "nomDeFamille": "Schultz",
+    "anneeDeNaissance": 1972,
+    "ville": "Candiac"
+  },
+  {
+    "dossard": 1485,
+    "course": "10 km",
+    "prenom": "Leia",
+    "nomDeFamille": "Scott",
+    "anneeDeNaissance": 2001,
+    "ville": "POINTE-CALUMET"
+  },
+  {
+    "dossard": 1147,
+    "course": "21,1 km",
+    "prenom": "Mikael",
+    "nomDeFamille": "Seguin",
+    "anneeDeNaissance": 1996,
+    "ville": "rosemere"
+  },
+  {
+    "dossard": 1436,
+    "course": "5 km",
+    "prenom": "Isabelle",
+    "nomDeFamille": "Sentenne",
+    "anneeDeNaissance": 1976,
+    "ville": "montreal"
+  },
+  {
+    "dossard": 1486,
+    "course": "10 km",
+    "prenom": "Sabrina",
+    "nomDeFamille": "Shink",
+    "anneeDeNaissance": 1986,
+    "ville": "St-Hippolyte"
+  },
+  {
+    "dossard": 1437,
+    "course": "5 km",
+    "prenom": "Marie-Marthe",
+    "nomDeFamille": "Sirois",
+    "anneeDeNaissance": 1959,
+    "ville": "Ste-Therese"
+  },
+  {
+    "dossard": 1464,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Nicky",
+    "nomDeFamille": "Slovitt",
+    "anneeDeNaissance": 1960,
+    "ville": "Uxbridge"
+  },
+  {
+    "dossard": 1148,
+    "course": "21,1 km",
+    "prenom": "Marie Michele",
+    "nomDeFamille": "Soucisse",
+    "anneeDeNaissance": 1990,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1149,
+    "course": "21,1 km",
+    "prenom": "Guylaine",
+    "nomDeFamille": "Soucy",
+    "anneeDeNaissance": 1964,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1487,
+    "course": "10 km",
+    "prenom": "Thibaut",
+    "nomDeFamille": "Spire",
+    "anneeDeNaissance": 1980,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1488,
+    "course": "10 km",
+    "prenom": "ernest",
+    "nomDeFamille": "st pierre",
+    "anneeDeNaissance": 1979,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1599,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Anne",
+    "nomDeFamille": "St-Amand",
+    "anneeDeNaissance": 2001,
+    "ville": "Lévis"
+  },
+  {
+    "dossard": 1150,
+    "course": "21,1 km",
+    "prenom": "Isabelle",
+    "nomDeFamille": "St-Hilaire",
+    "anneeDeNaissance": 1971,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1566,
+    "course": "5 km",
+    "prenom": "Joubert",
+    "nomDeFamille": "St-Louis",
+    "anneeDeNaissance": 1980,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1567,
+    "course": "5 km",
+    "prenom": "Tania",
+    "nomDeFamille": "Stiperski",
+    "anneeDeNaissance": 1970,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1568,
+    "course": "5 km",
+    "prenom": "Adrian",
+    "nomDeFamille": "SUCIU",
+    "anneeDeNaissance": 1974,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1151,
+    "course": "21,1 km",
+    "prenom": "Sebastien",
+    "nomDeFamille": "Suicco",
+    "anneeDeNaissance": 1981,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1152,
+    "course": "21,1 km",
+    "prenom": "Rendall",
+    "nomDeFamille": "Sylvain-Hernandez",
+    "anneeDeNaissance": 1986,
+    "ville": "Gatineau"
+  },
+  {
+    "dossard": 1569,
+    "course": "5 km",
+    "prenom": "Laura",
+    "nomDeFamille": "Tanguay",
+    "anneeDeNaissance": 2008,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1570,
+    "course": "5 km",
+    "prenom": "Marie-Hélène",
+    "nomDeFamille": "Tardif",
+    "anneeDeNaissance": 1976,
+    "ville": "Blainvile"
+  },
+  {
+    "dossard": 1438,
+    "course": "5 km",
+    "prenom": "Alexandre",
+    "nomDeFamille": "Teasdale",
+    "anneeDeNaissance": 1984,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1489,
+    "course": "10 km",
+    "prenom": "Tristan",
+    "nomDeFamille": "Theberge-Legault",
+    "anneeDeNaissance": 2005,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1153,
+    "course": "21,1 km",
+    "prenom": "Roxane",
+    "nomDeFamille": "Therrien",
+    "anneeDeNaissance": 1978,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1154,
+    "course": "21,1 km",
+    "prenom": "Melina",
+    "nomDeFamille": "Thibault",
+    "anneeDeNaissance": 1999,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1490,
+    "course": "10 km",
+    "prenom": "Gabriel",
+    "nomDeFamille": "Thibeault",
+    "anneeDeNaissance": 1992,
+    "ville": "Sainte-Marthe-Sur-Le-Lac"
+  },
+  {
+    "dossard": 1491,
+    "course": "10 km",
+    "prenom": "Justin",
+    "nomDeFamille": "Thifault",
+    "anneeDeNaissance": 2001,
+    "ville": "Rosemere"
+  },
+  {
+    "dossard": 1515,
+    "course": "10 km",
+    "prenom": "Marie-Hélène",
+    "nomDeFamille": "Thiffault",
+    "anneeDeNaissance": 1986,
+    "ville": "Sainte-Marthe-sur-le-Lac"
+  },
+  {
+    "dossard": 1176,
+    "course": "21,1 km",
+    "prenom": "Daniel",
+    "nomDeFamille": "Thivierge",
+    "anneeDeNaissance": 1983,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1516,
+    "course": "10 km",
+    "prenom": "Yannick",
+    "nomDeFamille": "Tining",
+    "anneeDeNaissance": 1971,
+    "ville": "Piedmont"
+  },
+  {
+    "dossard": 1155,
+    "course": "21,1 km",
+    "prenom": "Jake",
+    "nomDeFamille": "Torrie",
+    "anneeDeNaissance": 1985,
+    "ville": "Kingston"
+  },
+  {
+    "dossard": 1492,
+    "course": "10 km",
+    "prenom": "Marie-Claude",
+    "nomDeFamille": "Touzin",
+    "anneeDeNaissance": 1983,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1439,
+    "course": "5 km",
+    "prenom": "Paulin",
+    "nomDeFamille": "Tremblay",
+    "anneeDeNaissance": 1954,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1493,
+    "course": "10 km",
+    "prenom": "Myrta",
+    "nomDeFamille": "Tremblay",
+    "anneeDeNaissance": 1978,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1494,
+    "course": "10 km",
+    "prenom": "Karine",
+    "nomDeFamille": "Tseng-Valiquette",
+    "anneeDeNaissance": 1982,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1495,
+    "course": "10 km",
+    "prenom": "Sorana",
+    "nomDeFamille": "Tufa",
+    "anneeDeNaissance": 1999,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1156,
+    "course": "21,1 km",
+    "prenom": "Maxime",
+    "nomDeFamille": "Turpin",
+    "anneeDeNaissance": 1988,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1157,
+    "course": "21,1 km",
+    "prenom": "Marie-Eve",
+    "nomDeFamille": "Urbain",
+    "anneeDeNaissance": 1982,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1496,
+    "course": "10 km",
+    "prenom": "Maude",
+    "nomDeFamille": "Vadeboncoeur",
+    "anneeDeNaissance": 1992,
+    "ville": "Mirabel"
+  },
+  {
+    "dossard": 1497,
+    "course": "10 km",
+    "prenom": "Russell",
+    "nomDeFamille": "Vados",
+    "anneeDeNaissance": 1992,
+    "ville": "Boisbriand"
+  },
+  {
+    "dossard": 1158,
+    "course": "21,1 km",
+    "prenom": "Nelson",
+    "nomDeFamille": "Vaillancourt",
+    "anneeDeNaissance": 1983,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1440,
+    "course": "5 km",
+    "prenom": "Alexandre",
+    "nomDeFamille": "Vaillancourt",
+    "anneeDeNaissance": 1987,
+    "ville": "Terrebonne"
+  },
+  {
+    "dossard": 1441,
+    "course": "5 km",
+    "prenom": "Karine",
+    "nomDeFamille": "Valin",
+    "anneeDeNaissance": 1974,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1571,
+    "course": "5 km",
+    "prenom": "Paul",
+    "nomDeFamille": "Vallieres",
+    "anneeDeNaissance": 1963,
+    "ville": "Blainvile"
+  },
+  {
+    "dossard": 1591,
+    "course": "5 km",
+    "prenom": "Paul",
+    "nomDeFamille": "Vallieres",
+    "anneeDeNaissance": 1963,
+    "ville": "Blainvile"
+  },
+  {
+    "dossard": 1498,
+    "course": "10 km",
+    "prenom": "Joel",
+    "nomDeFamille": "Vaudeville",
+    "anneeDeNaissance": 1992,
+    "ville": "montreal"
+  },
+  {
+    "dossard": 1159,
+    "course": "21,1 km",
+    "prenom": "Katherine",
+    "nomDeFamille": "Vehar",
+    "anneeDeNaissance": 1999,
+    "ville": "Montreal Nord"
+  },
+  {
+    "dossard": 1499,
+    "course": "10 km",
+    "prenom": "Mario",
+    "nomDeFamille": "Vignola",
+    "anneeDeNaissance": 1968,
+    "ville": "blainville"
+  },
+  {
+    "dossard": 1160,
+    "course": "21,1 km",
+    "prenom": "Matthieu",
+    "nomDeFamille": "Visser",
+    "anneeDeNaissance": 1980,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1161,
+    "course": "21,1 km",
+    "prenom": "Patana",
+    "nomDeFamille": "Vongsipraseuth",
+    "anneeDeNaissance": 1985,
+    "ville": "Laval"
+  },
+  {
+    "dossard": 1500,
+    "course": "10 km",
+    "prenom": "Quan",
+    "nomDeFamille": "Vuong",
+    "anneeDeNaissance": 1979,
+    "ville": "Blainville"
+  },
+  {
+    "dossard": 1465,
+    "course": "5 km marche athlétique / racewalk",
+    "prenom": "Sharon M.",
+    "nomDeFamille": "Wright",
+    "anneeDeNaissance": 1949,
+    "ville": "Ottawa"
+  },
+  {
+    "dossard": 1162,
+    "course": "21,1 km",
+    "prenom": "Amanda",
+    "nomDeFamille": "Wurts",
+    "anneeDeNaissance": 1980,
+    "ville": "Saint Colomban"
+  },
+  {
+    "dossard": 1163,
+    "course": "21,1 km",
+    "prenom": "Mohammed",
+    "nomDeFamille": "Zidji",
+    "anneeDeNaissance": 1964,
+    "ville": "Montreal"
+  },
+  {
+    "dossard": 1517,
+    "course": "10 km",
+    "prenom": "Arnaud",
+    "nomDeFamille": "Zimmer",
+    "anneeDeNaissance": 1993,
+    "ville": "Laval"
+  }
+]

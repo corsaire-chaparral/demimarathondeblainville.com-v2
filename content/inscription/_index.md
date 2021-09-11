@@ -24,4 +24,8 @@ La marche athlétique est une présentation de Décathlon, partenaire du Demi-Ma
 
 ![Logo Décathlon](/images/commanditaires/logo-decathlon.jpg)
 
+## Confirmation d’inscription
+
+{{< liste-confirmation >}}
+
 
