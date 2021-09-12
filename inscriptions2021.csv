@@ -9,7 +9,7 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1525,5 km,Martin,Archambault,1961,Montréal
 1588,5 km,Martin,Archambault,1961,Montréal
 1502,10 km,Clemente,Arismendi,1981,Blainville
-1457,5 km athletique,Jean-Guy,Arsenault,1959,Lévis
+1457,"5 km athlétique / racewalk",Jean-Guy,Arsenault,1959,Lévis
 1350,5 km,Christine,Auclair,1977,Blainville
 1503,10 km,Sylvain,Audet,1955,Mirabel
 1526,5 km,Isabelle,Audy,1982,St-eustache
@@ -26,16 +26,16 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1003,"21,1 km",Jerome,Bascoul,1979,Montreal
 1256,10 km,Richard,Bayouk,1969,Sainte-Marthe-sur-le-Lac
 1004,"21,1 km",Denis,Beauchamp,1951,Blainville
-1257,5 km athletique,Cynthia-Rose,Beauchamp,1953,Blainville
+1257,"5 km athlétique / racewalk",Cynthia-Rose,Beauchamp,1953,Blainville
 1005,"21,1 km",Jean-Nicolas,Beaudry,1978,Blainville
 1006,"21,1 km",Ariane,Beausoleil,1997,Sait-Jerome
-1450,5 km athletique,Yvan,Bechard,1962,Sainte-Catherine
-1596,5 km athletique,Nicole,Bégin,1959,Verdun
+1450,"5 km athlétique / racewalk",Yvan,Bechard,1962,Sainte-Catherine
+1596,"5 km athlétique / racewalk",Nicole,Bégin,1959,Verdun
 1354,5 km,Laure,Begny Champion,1983,Saint-Jerome
 1007,"21,1 km",Philippe,Belanger,1966,Mont Royal
 1008,"21,1 km",Sylvie,Belanger,1964,Blainville
 1258,10 km,Michel,Belanger,1965,Mascouche
-1451,5 km athletique,Alexandre,Belanger,1978,Saint-Hyacinthe
+1451,"5 km athlétique / racewalk",Alexandre,Belanger,1978,Saint-Hyacinthe
 1259,10 km,Karlaine,Belanger-Barrette,1994,Mascouche
 1355,5 km,raymond,belisle,1942,St-Eustache
 1580,5 km,raymond,belisle,1942,St-Eustache
@@ -70,7 +70,7 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1359,5 km,Jerome,Borcard,1997,Saint-Roch de l'Achigan
 1271,10 km,Marie-Laurence,Bordeleau,1990,Montreal
 1380,5 km,Karine,Boucher,1982,Bois-des-Filion
-1452,5 km athletique,Marlene,Bouillon,1965,Levis
+1452,"5 km athlétique / racewalk",Marlene,Bouillon,1965,Levis
 1166,"21,1 km",simon,boulanger,1979,terrebonne
 1167,"21,1 km",Alexis,Boulanger,2005,terrebonne
 1360,5 km,Jean-philippe,Boulanger Aquin,1983,Saint-Jerome
@@ -86,7 +86,7 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1025,"21,1 km",Cynthia,Brasseur Jeffrey,1988,Terrebonne
 1026,"21,1 km",Francis,Brind amour,1993,Blainville
 1027,"21,1 km",Emile,Brousseau,2001,Blainville
-1453,5 km athletique,Rejean,Bruneau,1958,Notre-Dame-du-Mont-Carmel
+1453,"5 km athlétique / racewalk",Rejean,Bruneau,1958,Notre-Dame-du-Mont-Carmel
 1273,10 km,Danny,Burns,1959,Blainville
 1274,10 km,Nicolas,cacheleux,1981,blainville
 1362,5 km,Sonia,Cacheleux,1985,blainville
@@ -103,7 +103,7 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1032,"21,1 km",Jean-Noel,Chan-Duhon,1957,Dollard-des-Ormeaux
 1278,10 km,Julie-Rose,Charbonneau,2001,Bois-des-Filion
 1365,5 km,Gabrielle,Charbonneau,1993,Mascouche
-1597,5 km athletique,Dominic,Chartier,1972,Trois-Rivières
+1597,"5 km athlétique / racewalk",Dominic,Chartier,1972,Trois-Rivières
 1532,5 km,Paul,Chevilley,1991,Mirabel
 1033,"21,1 km",Jeremie,chiron-escallier,1982,Blainville
 1279,5 km,Manon,Cholette,1957,Blainville
@@ -134,7 +134,7 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1372,5 km,Martine,Dandonneau,1961,Blainville
 1373,5 km,Amelie,Dansereau,1994,Mascouche
 1282,10 km,Genevieve,David Watson,1991,montreal
-1454,5 km athletique,Anne,de Thy,1953,Toronto
+1454,"5 km athlétique / racewalk",Anne,de Thy,1953,Toronto
 1374,5 km,Benoit,Deguire,1969,Blainville
 1044,"21,1 km",Alex,Delorme,1988,Gatineau
 1045,"21,1 km",Robert,Delorme,1955,Blainville
@@ -154,7 +154,7 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1536,5 km,Marie-anne,Dorion,2006,Saint Jérôme
 1048,"21,1 km",Denis,Doucet,1953,Varennes
 1376,5 km,Jennifer,Douville,1982,Blainville
-1455,5 km athletique,Rosalie,Drapeau,2003,Saint-Roch-des-Aulnaies
+1455,"5 km athlétique / racewalk",Rosalie,Drapeau,2003,Saint-Roch-des-Aulnaies
 1290,10 km,Julie-Eve,Drouin-Houle,1989,Montreal
 1377,5 km,Marie-Eve,Dube,1979,Blainville
 1292,10 km,Catherine,Dubuc,1990,Mirabel
@@ -173,7 +173,7 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1052,"21,1 km",Jeff,Edwards,1976,Nepean
 1296,10 km,Emilie,Evanko,1994,Mirabel
 1173,"21,1 km",pierre,fafard,1964,Blainville
-1456,5 km athletique,Line,Falcon,1964,St-Ignace de Stanbridge
+1456,"5 km athlétique / racewalk",Line,Falcon,1964,St-Ignace de Stanbridge
 1053,"21,1 km",Robin,Fauteux,2001,Montreal
 1054,"21,1 km",David-Alexandre,Fauvelle,1987,Montreal
 1379,5 km,Marie Josee,Filion,1970,St Eustache
@@ -248,9 +248,9 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1392,5 km,Sylvain,Labrie,1965,Morin-Heights
 1577,5 km,Sylvain,Labrie,1965,Morin-Heights
 1319,10 km,Karyne,Lachance,1976,St-lin-laurentides
-1458,5 km athletique,Kim,Lachance,1984,Saint-Liboire
-1598,5 km athletique,Sonia,Lacôme,1966,Montréal
-1459,5 km athletique,Denis,Laflamme,1954,Boucherville
+1458,"5 km athlétique / racewalk",Kim,Lachance,1984,Saint-Liboire
+1598,"5 km athlétique / racewalk",Sonia,Lacôme,1966,Montréal
+1459,"5 km athlétique / racewalk",Denis,Laflamme,1954,Boucherville
 1320,10 km,Francois,Lafreniere,1984,Quebec
 1074,"21,1 km",Damien,Lagrange,1983,Montreal
 1075,"21,1 km",Sylvain,Lajoie,1972,Blainville
@@ -338,7 +338,7 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1344,10 km,MUSTAPHA,MEDANI,1990,BLAINVILLE
 1409,5 km,Simon,Melki,1993,Laval
 1345,10 km,Benoit,Menard,1976,Blainville
-1460,5 km athletique,Jean,Menetrier,1944,Quebec
+1460,"5 km athlétique / racewalk",Jean,Menetrier,1944,Quebec
 1346,10 km,Emile,Mercille-Brunelle,1990,Blainville
 1347,10 km,Tristan,Mercille-Brunelle,1995,Blainville
 1103,"21,1 km",Frederique,Messier,1997,Blainville
@@ -371,7 +371,7 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1415,5 km,Emile,Ouimet,2007,Blainville
 1468,10 km,Chantal,Page,1974,Blainville
 1469,10 km,Jerome,Page,1985,Lorraine
-1461,5 km athletique,Noel,Paine,1975,Ottawa
+1461,"5 km athlétique / racewalk",Noel,Paine,1975,Ottawa
 1117,"21,1 km",Scott,Paiva-Bishop,1995,Terrebonne
 1416,5 km,Melanie,Paquette,1988,Blainville
 1118,"21,1 km",Olivier,Paquin,1990,Laval
@@ -404,7 +404,7 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1129,"21,1 km",Melissa,Pilon,1999,Repentigny
 1421,5 km,Jade,Plamondon,2001,Terrebonne
 1130,"21,1 km",Eric,Poudrier,1979,Mont-Saint-Hilaire
-1462,5 km athletique,Simonne,Poulin,1945,Levis
+1462,"5 km athlétique / racewalk",Simonne,Poulin,1945,Levis
 1422,5 km,Richard,Pouliot,1950,Montreal
 1131,"21,1 km",Gabriel,Poupart,2010,Repentigny
 1474,10 km,Audrey,Prevost,1990,Blainville
@@ -444,7 +444,7 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1433,5 km,Isabelle,Roy,1983,St-Eustache
 1144,"21,1 km",Georges,Roy-Ahmarani,1987,Saint-Eustache
 1145,"21,1 km",elie,ruest,2003,blainville
-1463,5 km athletique,Jocelyn,Ruest,1980,Montreal Nord
+1463,"5 km athlétique / racewalk",Jocelyn,Ruest,1980,Montreal Nord
 1564,5 km,Christelle,Safari,1987,Montréal
 1434,5 km,Bruno,Saintonge,1985,Blainville
 1483,10 km,Julie,Sarrazin,1977,Mirabel
@@ -458,12 +458,12 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1436,5 km,Isabelle,Sentenne,1976,montreal
 1486,10 km,Sabrina,Shink,1986,St-Hippolyte
 1437,5 km,Marie-Marthe,Sirois,1959,Ste-Therese
-1464,5 km athletique,Nicky,Slovitt,1960,Uxbridge
+1464,"5 km athlétique / racewalk",Nicky,Slovitt,1960,Uxbridge
 1148,"21,1 km",Marie Michele,Soucisse,1990,Laval
 1149,"21,1 km",Guylaine,Soucy,1964,Terrebonne
 1487,10 km,Thibaut,Spire,1980,Blainville
 1488,10 km,ernest,st pierre,1979,Blainville
-1599,5 km athletique,Anne,St-Amand,2001,Lévis
+1599,"5 km athlétique / racewalk",Anne,St-Amand,2001,Lévis
 1150,"21,1 km",Isabelle,St-Hilaire,1971,Blainville
 1566,5 km,Joubert,St-Louis,1980,Terrebonne
 1567,5 km,Tania,Stiperski,1970,Laval
@@ -501,6 +501,6 @@ dossard,course,prenom,nomDeFamille,anneeDeNaissance,ville
 1160,"21,1 km",Matthieu,Visser,1980,Montreal
 1161,"21,1 km",Patana,Vongsipraseuth,1985,Laval
 1500,10 km,Quan,Vuong,1979,Blainville
-1465,5 km athletique,Sharon M.,Wright,1949,Ottawa
+1465,"5 km athlétique / racewalk",Sharon M.,Wright,1949,Ottawa
 1163,"21,1 km",Mohammed,Zidji,1964,Montreal
 1517,10 km,Arnaud,Zimmer,1993,Laval
