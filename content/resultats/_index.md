@@ -10,7 +10,7 @@ description : ""
 
 - [21,1 km](https://www.sportstats.ca/display-results.xhtml?raceid=113548)
 - [10 km](https://www.sportstats.ca/display-results.xhtml?raceid=113549)
-- [5 km athlétique / racewalk](https://www.sportstats.ca/display-results.xhtml?raceid=113551)
+<!-- - [5 km athlétique / racewalk](https://www.sportstats.ca/display-results.xhtml?raceid=113551) -->
 - [5 km](https://www.sportstats.ca/display-results.xhtml?raceid=113550)
 
 <h2>2019</h2>
