@@ -77,5 +77,5 @@ De nombreux services seront mis à votre disposition afin de rendre votre course
 🏁 Marquage au km  
 🍎 Désaltération et goûter  
 🥇 Médaille pour chaque participant·e + baluchon  
-🏆 Podium pour les 3 premiers chronos de chaque course par catégorie d’âge, homme et femme
+<!-- 🏆 Podium pour les 3 premiers chronos de chaque course par catégorie d’âge, homme et femme -->
 

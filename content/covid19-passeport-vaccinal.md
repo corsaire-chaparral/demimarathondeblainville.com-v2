@@ -39,7 +39,7 @@ Vous devez être en mesure de présenter une preuve de vaccination complète, so
 - **Si vous n’êtes pas encore inscrit·e**, nous espérons vous voir l’an prochain! 😊
 - **Si vous êtes déjà inscrit** mais que vous ne serez pas en mesure de présenter une preuve de vaccination complète le jour de l’événement, vous pouvez exceptionnellement **transférer votre inscription en 2022** ou encore à une personne de votre entourage. Aucun remboursement.
 
-[Formulaire de transfert 2021 --> 2022](/transfert/)
+_La période pour la demande de transfert est terminée._
 
 ## Comment puis-je récupérer mon dossard (trousse du coureur)?
 

@@ -23,8 +23,8 @@ landingCTA:
   - title: 'Bénévoles'
     link: "/benevoles/"
     class: "bg-primary"
-  - title: "Confirmation d’inscription"
-    link: "/inscription/"
+  - title: "Résultats"
+    link: "/resultats/"
     class: "bg-secondary"
 
 ############################### Banner feature ###############################
