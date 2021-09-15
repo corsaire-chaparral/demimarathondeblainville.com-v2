@@ -2,7 +2,7 @@
 title: 5 km marche athlétique - racewalk
 ---
 
-| **Dossard** | **Nom**                                                                             | **Catégorie** | **Rang** | **1k**   | **2k**   | **3k**   | **4k**   | **Finish time** |
+| **Dossard** | **Nom**                                                                             | **Catégorie** | **Rang** | **1k**   | **2k**   | **3k**   | **4k**   | **Temps final** |
 | ----------- | ----------------------------------------------------------------------------------- | ------------- | -------- | -------- | -------- | -------- | -------- | --------------- |
 | 1455        | [Rosalie Drapeau](https://www.sportstats.ca/display-results.xhtml?raceid=113551)    | F01-34        | 1        | 00:04:48 | 00:09:50 | 00:15:05 | 00:20:23 | **00:25:36.6**      |
 | 1450        | [Yvan Bechard](https://www.sportstats.ca/display-results.xhtml?raceid=113551)       | M55-59        | 2        | 00:05:10 | 00:10:35 | 00:16:01 | 00:21:25 | **00:26:37.8**      |
