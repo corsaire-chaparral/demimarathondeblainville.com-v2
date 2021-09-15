@@ -1,11 +1,6 @@
 {{ define "main" }}
 <div class="container">
 
-  <div class="content">
-    {{ .Content }}
-  </div>
-
-  <hr class="my-2 my-sm-1">
   {{ $paginator := .Paginate .Pages }}
   {{ range .Pages }}
   <div class="row text-center text-sm-left align-items-center py-3 py-sm-2 no-gutters">
@@ -20,7 +15,12 @@
     </div>
   </div>
   <hr class="my-2 my-sm-2">
+
   {{ end -}}
+
+  <div class="content">
+    {{ .Content }}
+  </div>
 
   <div class="row">
     <div class="col-12 mt-4">
