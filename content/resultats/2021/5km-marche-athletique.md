@@ -12,12 +12,12 @@ title: 5 km marche athlétique - racewalk
 | 1456        | Line Falcon        | F55-59        | 6        | **00:32:26.9** |
 | 1453        | Rejean Bruneau     | M60-64        | 7        | **00:32:37.4** |
 | 1596        | Nicole Bégin       | F60-64        | 8        | **00:32:39.3** |
-| 1598        | Sonia Lacôme       | F55-59        | 9        | **00:33:39.6** |
-| 1454        | Anne de Thy        | F65-69        | 10       | **00:34:47.5** |
-| 1464        | Nicky Slovitt      | F60-64        | 11       | **00:34:58.1** |
-| 1458        | Kim Lachance       | F35-39        | 12       | **00:37:32.5** |
-| 1552        | Marlene Bouillon   | F55-59        | 13       | **00:33:11.4** |
-| 1557        | Jean-Guy Arsenault | M60-64        | 14       | **00:36:54.5** |
+| 1552        | Marlene Bouillon   | F55-59        | 9        | **00:33:11.4** |
+| 1598        | Sonia Lacôme       | F55-59        | 10       | **00:33:39.6** |
+| 1454        | Anne de Thy        | F65-69        | 11       | **00:34:47.5** |
+| 1464        | Nicky Slovitt      | F60-64        | 12       | **00:34:58.1** |
+| 1557        | Jean-Guy Arsenault | M60-64        | 13       | **00:36:54.5** |
+| 1458        | Kim Lachance       | F35-39        | 14       | **00:37:32.5** |
 | 1562        | Simonne Poulin     | F75-79        | 15       | **00:38:04.2** |
 | 1461        | Noel Paine         | M45-49        | DNS      | \-             |
 | 1451        | Alexandre Belanger | M40-44        | DQ       | \-             |
