@@ -1,8 +1,10 @@
 ---
 title: Accueil
+subtitle: Dimanche 11 septembre 2022
 type: home
 
 bg_image: /images/backgrounds/landing-bg.jpg
+
 
 # Aliases for sites linking to old URLs
 aliases:
@@ -11,22 +13,13 @@ aliases:
 
 ---
 
-{{< alert alert-tertiary >}}
-
-## COVID-19 et passport vaccinal
-Le passeport vaccinal sera requis pour participer à l’événement (2 doses reçues).
-
-[En savoir plus &rarr;](/covid19-passeport-vaccinal/)
-
-{{< /alert >}}
+![Demi-Marathon de Blainville présenté par Via Capitale](/images/logo-large.png)
 
 ## À propos de l’événement
 
-![Demi-Marathon de Blainville présenté par Via Capitale](/images/logo-large.png)
+À l’écoute des coureurs, le Demi-marathon de Blainville présenté par Via Capitale revient pour sa 6<sup>e</sup> édition.
 
-À l’écoute des coureurs, le Demi-marathon de Blainville présenté par Via Capitale revient pour sa 5<sup>e</sup> édition (prise 2, confinement oblige!) avec plusieurs améliorations et nouveautés!
-
-En plus d’offrir de magnifiques parcours de 5 km, 10 km et 21 km pour les coureurs de tous les niveaux ainsi que (nouveau!) deux épreuves de **marche athlétique**, de nombreux services seront disponibles (certains en attente en raison des mesures sanitaires) : chronométrage par puce, points d’eau sur le parcours, équipe de premiers soins, parcours sécurisés, marquage au km et de nombreux bénévoles pour assurer la réussite de l’événement!
+En plus d’offrir de magnifiques parcours de 1 km, 2 km, 5 km, 10 km et 21,1 km pour les coureurs de tous les niveaux ainsi que (nouveau!) deux épreuves de **marche athlétique**, de nombreux services seront disponibles (certains en attente en raison des mesures sanitaires) : chronométrage par puce, points d’eau sur le parcours, équipe de premiers soins, parcours sécurisés, marquage au km et de nombreux bénévoles pour assurer la réussite de l’événement!
 
 Cet événement est sanctionné par la [Fédération québécoise d’athlétisme](https://athletisme-quebec.ca/).
 
@@ -35,22 +28,11 @@ Cet événement est sanctionné par la [Fédération québécoise d’athlétism
 
 ## Les épreuves
 
-
-{{< alert "alert-tertiary" >}}
-
-#### Attention!
-
-
-Afin d’offrir une expérience plus sécuritaire, limitation des inscriptions à **500 participant·e·s au total**.
-
-{{< /alert >}}
-
-
 - Courses de 5 km, 10 km et 21km
 - Marche urbaine/rapide de 5 km
-- ~~Course de 2 km~~ **Épreuve annulée**
-- ~~Course de 1 km~~ **Épreuve annulée**
-- <span class="badge badge-primary text-uppercase small d-inline">nouveau!</span> 3 km et 5 km marche athlétique (présenté par Décathlon) et [championnat canadien chez les maîtres](championnat-canadien-masters) (5 km)
+- Course de 2 km
+- Course de 1 km
+<!-- - <span class="badge badge-primary text-uppercase small d-inline">nouveau!</span> 3 km et 5 km marche athlétique (présenté par Décathlon) et [championnat canadien chez les maîtres](championnat-canadien-masters) (5 km) -->
 
 <!--
 
@@ -77,5 +59,4 @@ De nombreux services seront mis à votre disposition afin de rendre votre course
 🏁 Marquage au km  
 🍎 Désaltération et goûter  
 🥇 Médaille pour chaque participant·e + baluchon  
-<!-- 🏆 Podium pour les 3 premiers chronos de chaque course par catégorie d’âge, homme et femme -->
-
+🏆 Podium pour les 3 premiers chronos de chaque course par catégorie d’âge, homme et femme

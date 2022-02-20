@@ -10,17 +10,7 @@ description : ""
 
 ## Dossard (trousse du coureur)
 
-Récupération de la trousse du coureur le samedi 11 septembre au parc équestre de **10h à 16h** ainsi que le matin même de l’événement.
-
-{{< alert alert-tertiary >}}
-
-Nous vous invitons **fortement** à venir récupérer les dossards la **veille** de l’événement, soit le samedi 11 septembre, afin d’éviter les temps d’attente et réduire les rassemblements; il sera très difficile de récupérer le dossard le matin même.
-
-Les coureurs devront présenter une **pièce d'identité** et leur **preuve vaccinale** afin de pouvoir récupérer leur trousse. Voir la page [COVID-19 + passeport vaccinal](/covid19-passeport-vaccinal/)
-
-Le respect des consignes sanitaires sera obligatoire : port du masque à l’intérieur; distanciation de 1 mètre à l’extérieur.
-
-{{< /alert >}}
+Récupération de la trousse du coureur le samedi 10 septembre 2022 au parc équestre de **10h à 16h** ainsi que le matin même de l’événement.
 
 Enfin, nous tenons à vous rappeler que le port du dossard **à l’avant** et **par-dessus toute pièce de vêtement** est obligatoire pendant votre course.
 
@@ -30,7 +20,6 @@ Enfin, nous tenons à vous rappeler que le port du dossard **à l’avant** et *
 
 ## Catégories d’âge
 <div class="row">
-<!--
   <div class="col-12 col-sm-4">
     <h4>1 km</h4>
     <ul class="list">
@@ -51,7 +40,6 @@ Enfin, nous tenons à vous rappeler que le port du dossard **à l’avant** et *
       <li>40 ans et plus</li>
     </ul>
   </div>
--->
   <div class="col-12 col-sm-4">
     <h4>5 km</h4>
     <ul class="list">
@@ -113,10 +101,7 @@ Enfin, nous tenons à vous rappeler que le port du dossard **à l’avant** et *
 
 ## Inscription
 
-Places limitées!
-Réservez votre place le plus tôt possible afin d’assurer votre participation en priorité - attribution des dossards selon le principe de **premier arrivé, premier servi**.
-
-Les inscriptions sont fermées.
+Les inscriptions pour l’édition du **11 septembre 2022** seront bientôt ouvertes!
 
 <!--
 

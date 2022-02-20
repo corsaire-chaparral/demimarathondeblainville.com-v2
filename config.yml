@@ -76,7 +76,7 @@ params:
   google_analitycs_id: "" # your id
   # top header
   top_header: false
-  
+
   preloader:
     enable: true
     preloader: "images/icons8-running-96.png" # use jpg, png, svg or gif format.
@@ -216,19 +216,11 @@ menu:
     URL: "confidentialite"
     weight: 22
 Languages:
-  ################################### English language #####################################
-  en:
-    languageName: "En"
-    languageCode: "en-CA"
-    weight: 1
-    home: "Home"
-    # copyright
-    copyright: "&copy; 2021 Le Demi-Marathon de Blainville"
   ################################### French language #####################################
   fr:
     languageName: "Fr"
     languageCode: "fr-CA"
-    weight: 2
+    weight: 1
     home: "Accueil"
     # copyright
-    copyright: "&copy; 2021 Le Demi-Marathon de Blainville"
+    copyright: "&copy; 2022 Le Demi-Marathon de Blainville"
