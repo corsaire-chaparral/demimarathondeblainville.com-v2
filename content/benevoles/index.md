@@ -8,5 +8,6 @@ description : "Devenez bénévole pour le Demi-marathon de Blainville!"
 
 ## Inscription des bénévoles
 
-<script type="text/javascript" src="//campagnes.demimarathondeblainville.com/form/generate.js?id=12"></script>
+_À venir pour l’édition 2022._
 
+<!-- <script type="text/javascript" src="//campagnes.demimarathondeblainville.com/form/generate.js?id=12"></script> -->
