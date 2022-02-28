@@ -26,14 +26,12 @@
                 <span class="mauticform-errormsg" style="display: none;"></span>
             </div>
 
-              <div class="input-group" id="mauticform_ajoutalinfolettre_courriel" data-validate="courriel" data-validation-type="email">
-                <input type="email" class="form-control border-0" id="newsletter" name="mauticform[courriel]" placeholder="{{ i18n "enter_email" }}" required>
-                <div class="input-group-append mauticform_ajoutalinfolettre_submit">
-                  <button type="submit" name="mauticform[submit]" class="btn btn-secondary">
+              <div class="" id="mauticform_ajoutalinfolettre_courriel" data-validate="courriel" data-validation-type="email">
+                <input type="email" class="form-control" id="newsletter" name="mauticform[courriel]" placeholder="{{ i18n "enter_email" }}" required>
+                  <button type="submit" name="mauticform[submit]" class="btn btn-secondary mt-2 mauticform_ajoutalinfolettre_submit">
                     {{- i18n "join" -}}
                   </button>
                   <span class="mauticform-errormsg" style="display: none;">Ceci est requis.</span>
-                </div>
               </div>
             </div>
           </div>
@@ -88,7 +86,7 @@
   </div>
   <!-- copyright -->
   <div class="copyright py-3 bg-white">
-    <div class="container-fluid px-md-3">
+    <div class="container">
       <div class="row align-items-center">
         <div class="col-sm-7 text-sm-left text-center">
           <p class="mt-1">{{ .Site.Params.copyright | markdownify }}</p>

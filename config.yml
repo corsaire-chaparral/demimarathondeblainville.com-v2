@@ -30,7 +30,7 @@ params:
   bg_image: /images/backgrounds/landing-bg.jpg
 
   # Enable 'Inscription' section
-  enableInscription: false
+  enableInscription: true
 
   # logo which goes in the navbar
   logo: /images/logo-navbar.png
@@ -131,21 +131,9 @@ menu:
     URL: "horaire"
     weight: 11
   - parent: "Info"
-    name: "COVID-19"
-    URL: "covid19-passeport-vaccinal"
-    weight: 12
-  - parent: "Info"
     name: "Commanditaires"
     URL: "commanditaires"
     weight: 13
-  - parent: "Info"
-    name: "Résultats"
-    URL: "/resultats/"
-    weight: 14
-  - parent: "Info"
-    name: "Marche CMA"
-    URL: "championnat-canadien-masters"
-    weight: 15
   - parent: "Info"
     name: "Nous joindre"
     URL: "contact"
@@ -180,10 +168,10 @@ menu:
 #    name: "3 km marche athlétique"
 #    URL: "/parcours/3-km-marche-athletique/"
 #    weight: 6
-  - parent: "Parcours"
-    name: "5 km marche athlétique"
-    URL: "/parcours/5-km-marche-athletique/"
-    weight: 6
+#  - parent: "Parcours"
+#    name: "5 km marche athlétique"
+#    URL: "/parcours/5-km-marche-athletique/"
+#    weight: 6
 
 
   - name: "Bénévoles"

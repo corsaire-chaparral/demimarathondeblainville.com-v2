@@ -9,6 +9,3 @@ description : "ÉPREUVE ANNULÉE"
 
 weight: 4
 ---
-
-## ÉPREUVE ANNULÉE
-Afin d’offrir une expérience sécuritaire dans le respect des mesures sanitaires et afin d’éviter les rassemblements, les courses de <strong>1 km et 2 km ont été annulées</strong>.

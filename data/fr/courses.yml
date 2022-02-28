@@ -1,56 +1,57 @@
 - 
-  id: 21km-2021
+  id: 21km-2022
   title: "21,1 km"
   description: "Le Demi-Marathon, parcours certifié."
-  fee: 70.00
-  heure: "2021-09-12 08:10:00 -0400"
+  fee: 75.00
+  heure: "2022-09-11 08:10:00 -0400"
 
 - 
-  id: 10km-2021
+  id: 10km-2022
   title: "10 km"
   description: ""
-  fee: 50.00
-  heure: "2021-09-12 07:45:00 -0400"
+  fee: 55.00
+  heure: "2022-09-11 07:45:00 -0400"
 
 - 
-  id: 5km-course-2021
+  id: 5km-course-2022
   title: "5 km course"
   description: ""
-  fee: 40.00
-  heure: "2021-09-12 10:40:00 -0400"
+  fee: 45.00
+  heure: "2022-09-11 10:40:00 -0400"
 
 - 
-  id: 5km-marche-2021
+  id: 5km-marche-2022
   title: "5 km marche urbaine/rapide"
   description: ""
-  fee: 40.00
-  heure: "2021-09-12 10:45:00 -0400"
+  fee: 45.00
+  heure: "2022-09-11 10:45:00 -0400"
 
-#-
-#  id: 2km-2021
-#  title: "2 km"
-#  description: ""
-#  fee: 20.00
-#  heure: "2021-09-12 11:50:00 -0400"
-
-#-
-#  id: 1km-2021
-#  title: "1 km"
-#  description: ""
-#  fee: 15.00
-#  heure: "2021-09-12 12:15:00 -0400"
-
-- 
-  id: 3km-marche-athletique-2021
-  title: "3 km marche athlétique"
-  description: "Épreuve réservée aux marcheurs avec affiliation"
-  fee: 60.00
-  affiliation: true
-  heure: "2021-09-12 12:00:00 -0400"
 -
-  id: 5km-marche-athletique-2021
-  title: "5 km marche athlétique"
-  description: "Épreuve réservée aux marcheurs avec affiliation"
-  fee: 60.00
-  affiliation: true
-  heure: "2021-09-12 12:00:00 -0400"
+  id: 2km-2022
+  title: "2 km"
+  description: ""
+  fee: 20.00
+  heure: "2022-09-11 11:50:00 -0400"
+
+-
+  id: 1km-2022
+  title: "1 km"
+  description: "Course pour les enfants"
+  fee: 15.00
+  heure: "2022-09-11 12:15:00 -0400"
+
+#-
+#  id: 3km-marche-athletique-2022
+#  title: "3 km marche athlétique"
+#  description: "Épreuve réservée aux marcheurs avec affiliation"
+#  fee: 60.00
+#  affiliation: true
+#  heure: "2022-09-11 12:00:00 -0400"
+
+#-
+#  id: 5km-marche-athletique-2022
+#  title: "5 km marche athlétique"
+#  description: "Épreuve réservée aux marcheurs avec affiliation"
+#  fee: 60.00
+#  affiliation: true
+#  heure: "2022-09-11 12:00:00 -0400"

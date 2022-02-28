@@ -19,7 +19,7 @@ aliases:
 
 À l’écoute des coureurs, le Demi-marathon de Blainville présenté par Via Capitale revient pour sa 6<sup>e</sup> édition.
 
-En plus d’offrir de magnifiques parcours de 1 km, 2 km, 5 km, 10 km et 21,1 km pour les coureurs de tous les niveaux ainsi que (nouveau!) deux épreuves de **marche athlétique**, de nombreux services seront disponibles (certains en attente en raison des mesures sanitaires) : chronométrage par puce, points d’eau sur le parcours, équipe de premiers soins, parcours sécurisés, marquage au km et de nombreux bénévoles pour assurer la réussite de l’événement!
+En plus d’offrir de magnifiques parcours de 1 km, 2 km, 5 km, 10 km et 21,1 km pour les coureurs de tous les niveaux, de nombreux services seront disponibles (certains en attente en raison des mesures sanitaires) : chronométrage par puce, points d’eau sur le parcours, équipe de premiers soins, parcours sécurisés, marquage au km et de nombreux bénévoles pour assurer la réussite de l’événement!
 
 Cet événement est sanctionné par la [Fédération québécoise d’athlétisme](https://athletisme-quebec.ca/).
 
@@ -28,17 +28,16 @@ Cet événement est sanctionné par la [Fédération québécoise d’athlétism
 
 ## Les épreuves
 
-- Courses de 5 km, 10 km et 21km
-- Marche urbaine/rapide de 5 km
+- Course de 21,1km
+- Course de 10 km
+- Course de 5 km
 - Course de 2 km
-- Course de 1 km
+- Course de 1 km (pour les enfants!)
+- Marche urbaine/rapide de 5 km
 <!-- - <span class="badge badge-primary text-uppercase small d-inline">nouveau!</span> 3 km et 5 km marche athlétique (présenté par Décathlon) et [championnat canadien chez les maîtres](championnat-canadien-masters) (5 km) -->
 
-<!--
 
-<a class="btn btn-block btn-secondary my-2" href="/inscription">Je m’inscris</a>
-
--->
+<a class="h5" href="/inscription">Je m’inscris!</a>
 
 ---
 
