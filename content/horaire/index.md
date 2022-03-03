@@ -99,12 +99,11 @@ Enfin, nous tenons à vous rappeler que le port du dossard **à l’avant** et *
   </div>
 </div>
 
-## Inscription
 
-Les inscriptions pour l’édition du **11 septembre 2022** seront bientôt ouvertes!
-
-<!--
-
-<a href="/inscription/" class="btn btn-secondary text-decoration-none text-uppercase">Je m’inscris &rarr;</a>
-
--->
+<div class="py-4 px-2 bg-light rounded text-center">
+  <h2>Inscription</h2>
+  <p>Inscrivez-vous directement sur notre site web, avec les frais de transaction les plus compétitifs dans le milieu de la course à pied!</p>
+  <div class="mt-3">
+    <a href="/inscription/" class="btn btn-secondary btn-hover-primary text-decoration-none text-uppercase">Je m’inscris &rarr;</a>
+  </div>
+</div>

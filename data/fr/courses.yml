@@ -1,25 +1,25 @@
-- 
+-
   id: 21km-2022
   title: "21,1 km"
   description: "Le Demi-Marathon, parcours certifié."
   fee: 75.00
   heure: "2022-09-11 08:10:00 -0400"
 
-- 
+-
   id: 10km-2022
   title: "10 km"
   description: ""
   fee: 55.00
   heure: "2022-09-11 07:45:00 -0400"
 
-- 
+-
   id: 5km-course-2022
   title: "5 km course"
   description: ""
   fee: 45.00
   heure: "2022-09-11 10:40:00 -0400"
 
-- 
+-
   id: 5km-marche-2022
   title: "5 km marche urbaine/rapide"
   description: ""
@@ -36,7 +36,7 @@
 -
   id: 1km-2022
   title: "1 km"
-  description: "Course pour les enfants"
+  description: ""
   fee: 15.00
   heure: "2022-09-11 12:15:00 -0400"
 

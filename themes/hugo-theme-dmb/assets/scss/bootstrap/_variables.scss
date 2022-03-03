@@ -229,8 +229,8 @@ $grid-breakpoints: (
 $container-max-widths: (
   sm: 760px,
   md: 900px,
-  lg: 1080px,
-  xl: 1280px
+  lg: 960px,
+  xl: 1150px
 ) !default;
 
 @include _assert-ascending($container-max-widths, "$container-max-widths");
@@ -304,7 +304,7 @@ $secondary-font: $font-family-monospace;
 
 $font-size-base:              1rem; // Assumes the browser default, typically `16px`
 $font-size-lg:                $font-size-base * 1.25 !default;
-$font-size-sm:                $font-size-base * .875 !default;
+$font-size-sm:                $font-size-base * .75 !default;
 $font-size-xs:                $font-size-base * .6;
 
 $font-weight-lighter:         lighter !default;
@@ -417,8 +417,8 @@ $input-btn-focus-width:       .2rem !default;
 $input-btn-focus-color:       rgba($component-active-bg, .25) !default;
 $input-btn-focus-box-shadow:  0 0 0 $input-btn-focus-width $input-btn-focus-color !default;
 
-$input-btn-padding-y-sm:      .5em !default;
-$input-btn-padding-x-sm:      .75em !default;
+$input-btn-padding-y-sm:      .75em;
+$input-btn-padding-x-sm:      1.125em;
 $input-btn-font-size-sm:      $font-size-sm !default;
 $input-btn-line-height-sm:    $line-height-sm !default;
 

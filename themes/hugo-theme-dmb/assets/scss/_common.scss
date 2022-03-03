@@ -25,7 +25,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  
+
   img {
     animation-name: land-and-float;
     animation-duration: 4s;
@@ -271,14 +271,14 @@ textarea.form-control{
 
 
 .content {
-  * {
+  > * {
     margin-bottom: 20px;
   }
 
   a {
     text-decoration: underline;
   }
-  
+
   img {
     @extend .img-fluid;
   }

@@ -470,10 +470,10 @@ pre {
       max-width: 900px; } }
   @media (min-width: 992px) {
     .container {
-      max-width: 1080px; } }
+      max-width: 960px; } }
   @media (min-width: 1200px) {
     .container {
-      max-width: 1280px; } }
+      max-width: 1150px; } }
 .container-fluid, .container-xl, .container-lg, .container-md, .container-sm {
   width: 100%;
   padding-right: 15px;
@@ -491,11 +491,11 @@ pre {
 
 @media (min-width: 992px) {
   .container-lg, .container-md, .container-sm, .container {
-    max-width: 1080px; } }
+    max-width: 960px; } }
 
 @media (min-width: 1200px) {
   .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1280px; } }
+    max-width: 1150px; } }
 
 .row {
   display: flex;
@@ -1505,9 +1505,9 @@ select.form-control:focus::-ms-value {
   line-height: 1.5; }
 
 .col-form-label-sm {
-  padding-top: calc(0.5em + 2px);
-  padding-bottom: calc(0.5em + 2px);
-  font-size: 0.875rem;
+  padding-top: calc(0.75em + 2px);
+  padding-bottom: calc(0.75em + 2px);
+  font-size: 0.75rem;
   line-height: 1.5; }
 
 .form-control-plaintext {
@@ -1526,9 +1526,9 @@ select.form-control:focus::-ms-value {
     padding-left: 0; }
 
 .form-control-sm {
-  height: calc(1.5em + 1em + 4px);
-  padding: 0.5em 0.75em;
-  font-size: 0.875rem;
+  height: calc(1.5em + 1.5em + 4px);
+  padding: 0.75em 1.125em;
+  font-size: 0.75rem;
   line-height: 1.5;
   border-radius: 2px; }
 
@@ -1603,7 +1603,7 @@ textarea.form-control {
   max-width: 100%;
   padding: 0.25rem 0.5rem;
   margin-top: .1rem;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   line-height: 1.62;
   color: #fff;
   background-color: rgba(255, 105, 0, 0.9);
@@ -1683,7 +1683,7 @@ textarea.form-control {
   max-width: 100%;
   padding: 0.25rem 0.5rem;
   margin-top: .1rem;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   line-height: 1.62;
   color: #fff;
   background-color: rgba(220, 53, 69, 0.9);
@@ -2524,8 +2524,8 @@ fieldset:disabled a.btn {
   border-radius: 1rem; }
 
 .btn-sm, .btn-group-sm > .btn {
-  padding: 0.5em 0.75em;
-  font-size: 0.875rem;
+  padding: 0.75em 1.125em;
+  font-size: 0.75rem;
   line-height: 1.5;
   border-radius: 2px; }
 
@@ -2752,7 +2752,7 @@ input[type="button"].btn-block {
   display: block;
   padding: 0.5rem 1.5rem;
   margin-bottom: 0;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   color: #677a67;
   white-space: nowrap; }
 
@@ -2809,8 +2809,8 @@ input[type="button"].btn-block {
     margin-right: 0; }
 
 .btn-sm + .dropdown-toggle-split, .btn-group-sm > .btn + .dropdown-toggle-split {
-  padding-right: 0.5625em;
-  padding-left: 0.5625em; }
+  padding-right: 0.84375em;
+  padding-left: 0.84375em; }
 
 .btn-lg + .dropdown-toggle-split, .btn-group-lg > .btn + .dropdown-toggle-split {
   padding-right: 0.75em;
@@ -2958,7 +2958,7 @@ input[type="button"].btn-block {
 
 .input-group-sm > .form-control:not(textarea),
 .input-group-sm > .custom-select {
-  height: calc(1.5em + 1em + 4px); }
+  height: calc(1.5em + 1.5em + 4px); }
 
 .input-group-sm > .form-control,
 .input-group-sm > .custom-select,
@@ -2966,8 +2966,8 @@ input[type="button"].btn-block {
 .input-group-sm > .input-group-append > .input-group-text,
 .input-group-sm > .input-group-prepend > .btn,
 .input-group-sm > .input-group-append > .btn {
-  padding: 0.5em 0.75em;
-  font-size: 0.875rem;
+  padding: 0.75em 1.125em;
+  font-size: 0.75rem;
   line-height: 1.5;
   border-radius: 2px; }
 
@@ -3140,11 +3140,11 @@ input[type="button"].btn-block {
     text-shadow: 0 0 0 #212721; }
 
 .custom-select-sm {
-  height: calc(1.5em + 1em + 4px);
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
-  padding-left: 0.75em;
-  font-size: 0.875rem; }
+  height: calc(1.5em + 1.5em + 4px);
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+  padding-left: 1.125em;
+  font-size: 0.75rem; }
 
 .custom-select-lg {
   height: calc(1.5em + 1em + 4px);
@@ -3936,7 +3936,7 @@ input[type="button"].btn-block {
 
 .pagination-sm .page-link {
   padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   line-height: 1.5; }
 
 .pagination-sm .page-item:first-child .page-link {
@@ -4725,7 +4725,7 @@ a.close.disabled {
   word-spacing: normal;
   white-space: normal;
   line-break: auto;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   word-wrap: break-word;
   opacity: 0; }
   .tooltip.show {
@@ -4810,7 +4810,7 @@ a.close.disabled {
   word-spacing: normal;
   white-space: normal;
   line-break: auto;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   word-wrap: break-word;
   background-color: #fff;
   background-clip: padding-box;
@@ -7818,7 +7818,7 @@ textarea.form-control {
     .pagination .page-item .page-link {
       color: #212721; }
 
-.content * {
+.content > * {
   margin-bottom: 20px; }
 
 .content a {

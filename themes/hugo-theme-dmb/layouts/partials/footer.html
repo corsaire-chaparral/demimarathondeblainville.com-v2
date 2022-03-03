@@ -6,19 +6,19 @@
   {{- with .Site.Params.subscription -}}
   <div class="container">
     <div class="row py-3">
-      <div class="col-md-9 ml-auto bg-primary footer-box position-relative p-3 p-xl-2 mb-1 mauticform_wrapper" id="infolettre">
+      <div class="col-md-9 ml-auto bg-primary footer-box position-relative p-3 mb-1 mauticform_wrapper" id="infolettre">
         <h3 class="text-white mb-1">{{ i18n "subscribe_newsletter" }}</h3>
-        
+
         <p class="text-white">Restez informé·e et recevez nos promotions exclusives!</p>
 
         <form action="{{ .subscription_form_action }}" method="post" target="_blank" id="mauticform_ajoutalinfolettre" role="form"  data-mautic-form="ajoutalinfolettre" enctype="multipart/form-data" name="mauticform_ajoutalinfolettre">
-          
+
           <div class="mauticform-error" id="mauticform_ajoutalinfolettre_error"></div>
           <div class="mauticform-message" id="mauticform_ajoutalinfolettre_message"></div>
           <div class="mauticform-innerform">
 
             <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
-              
+
 
             <div id="mauticform_ajoutalinfolettre_email2" style="display:none" class="mauticform-row mauticform-email mauticform-field-2">
                 <label id="mauticform_label_ajoutalinfolettre_email2" for="mauticform_input_ajoutalinfolettre_email2" class="mauticform-label">Email2</label>
