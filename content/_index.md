@@ -13,11 +13,23 @@ aliases:
 
 ---
 
+<div class="rounded p-2 p-md-3 bg-tertiary text-white my-3">
+  <div class="container text-center">
+    <div class="h4">
+      Les inscriptions pour l’événement 2022 sont en cours!
+    </div>
+    <footer class="mt-3">
+      <a href="{{< ref inscription >}}" class="btn btn-secondary btn-hover-primary text-decoration-none">Je m’inscris &rarr;</a>
+    </footer>
+  </div>
+</div>
+
 ![Demi-Marathon de Blainville présenté par Via Capitale](/images/logo-large.png)
 
 ## À propos de l’événement
 
 À l’écoute des coureurs, le Demi-marathon de Blainville présenté par Via Capitale revient pour sa 6<sup>e</sup> édition.
+
 
 En plus d’offrir de magnifiques parcours de 1 km, 2 km, 5 km, 10 km et 21,1 km pour les coureurs de tous les niveaux, de nombreux services seront disponibles (certains en attente en raison des mesures sanitaires) : chronométrage par puce, points d’eau sur le parcours, équipe de premiers soins, parcours sécurisés, marquage au km et de nombreux bénévoles pour assurer la réussite de l’événement!
 
@@ -37,7 +49,7 @@ Cet événement est sanctionné par la [Fédération québécoise d’athlétism
 <!-- - <span class="badge badge-primary text-uppercase small d-inline">nouveau!</span> 3 km et 5 km marche athlétique (présenté par Décathlon) et [championnat canadien chez les maîtres](championnat-canadien-masters) (5 km) -->
 
 
-<a class="h5" href="/inscription">Je m’inscris!</a>
+<a class="btn btn-secondary btn-hover-primary text-decoration-none" href="/inscription">Je m’inscris!</a>
 
 ---
 
