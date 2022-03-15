@@ -10,7 +10,7 @@ serve:
 	hugo serve --disableFastRender
 
 build:
-	hugo --minify
+	hugo --minify --environment production
 
 build-staging:
 	hugo --environment staging --minify
